@@ -1,0 +1,856 @@
+[
+  {
+    "id": "D01",
+    "name": "Sanskriti Oval",
+    "category": "Nameplates",
+    "description": "Gold-tone Marathi lettering and decorative details on a black oval.",
+    "images": [
+      {
+        "src": "/assets/designs/design-01.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D02",
+    "name": "Mandala Ensemble",
+    "category": "Nameplates",
+    "description": "Ornamental borders and layered circular designs for a distinctive entrance.",
+    "images": [
+      {
+        "src": "/assets/designs/design-02.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D03",
+    "name": "Surya Family",
+    "category": "Nameplates",
+    "description": "Sweeping gold-tone rings around a white circular family nameplate.",
+    "images": [
+      {
+        "src": "/assets/designs/design-03.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D04",
+    "name": "Aura Studio",
+    "category": "Business signs",
+    "description": "A white circular sign with a monogram and gold-tone brand lettering.",
+    "images": [
+      {
+        "src": "/assets/designs/design-04.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D05",
+    "name": "Ganesh Grace",
+    "category": "Nameplates",
+    "description": "A white round nameplate with a Ganesha motif and Marathi lettering.",
+    "images": [
+      {
+        "src": "/assets/designs/design-05.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D06",
+    "name": "Ganesh Heritage",
+    "category": "Nameplates",
+    "description": "A black rectangular nameplate with decorative gold-tone Ganesha details.",
+    "images": [
+      {
+        "src": "/assets/designs/design-06.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D07",
+    "name": "Golden Lattice",
+    "category": "Nameplates",
+    "description": "A light rectangular plate framed by geometric gold-tone accents.",
+    "images": [
+      {
+        "src": "/assets/designs/design-07.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D08",
+    "name": "Peacock Mandala",
+    "category": "Nameplates",
+    "description": "An intricate circular border with peacock accents and personalised lettering.",
+    "images": [
+      {
+        "src": "/assets/designs/design-08.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D09",
+    "name": "Noor Frame",
+    "category": "Devotional décor",
+    "description": "Gold-tone calligraphy on black, framed by a reflective surround.",
+    "images": [
+      {
+        "src": "/assets/designs/design-09.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D10",
+    "name": "Al Falah Residence",
+    "category": "Nameplates",
+    "description": "A tall black-and-gold house sign with an ornamental frame.",
+    "images": [
+      {
+        "src": "/assets/designs/design-10.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D11",
+    "name": "Royal Circle",
+    "category": "Nameplates",
+    "description": "A black circular family sign with gold-tone lettering and decorative motifs.",
+    "images": [
+      {
+        "src": "/assets/designs/design-11.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D12",
+    "name": "White Lotus",
+    "category": "Nameplates",
+    "description": "A white centre surrounded by a scalloped floral border.",
+    "images": [
+      {
+        "src": "/assets/designs/design-12.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D13",
+    "name": "Swarajya Sand",
+    "category": "Nameplates",
+    "description": "Marathi lettering above a fort silhouette in warm brown tones.",
+    "images": [
+      {
+        "src": "/assets/designs/design-13.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D14",
+    "name": "Midnight Lotus",
+    "category": "Nameplates",
+    "description": "A black centre with gold-tone text and a delicate floral outline.",
+    "images": [
+      {
+        "src": "/assets/designs/design-14.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D15",
+    "name": "Swarajya Noir",
+    "category": "Nameplates",
+    "description": "A white rectangular plate with a black fort silhouette and gold-tone text.",
+    "images": [
+      {
+        "src": "/assets/designs/design-15.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D16",
+    "name": "Noor Desktop Blue",
+    "category": "Devotional décor",
+    "description": "A calligraphy panel displayed on a deep blue base.",
+    "images": [
+      {
+        "src": "/assets/designs/design-16.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D17",
+    "name": "Welcome Oval",
+    "category": "Nameplates",
+    "description": "A welcoming oval composition with a house motif and floral details.",
+    "images": [
+      {
+        "src": "/assets/designs/design-17.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D18",
+    "name": "Monogram Studio",
+    "category": "Business signs",
+    "description": "A black circular brand sign with a gold-tone rim and flowing monogram.",
+    "images": [
+      {
+        "src": "/assets/designs/design-18.webp",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "/assets/designs/design-22.webp",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "/assets/designs/design-23.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D19",
+    "name": "Ornate Monogram",
+    "category": "Business signs",
+    "description": "An embellished monogram and gold-tone circular border for your business.",
+    "images": [
+      {
+        "src": "/assets/designs/design-19.webp",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "/assets/designs/design-21.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D20",
+    "name": "Noor Desktop Green",
+    "category": "Devotional décor",
+    "description": "A light calligraphy panel displayed on an emerald green base.",
+    "images": [
+      {
+        "src": "/assets/designs/design-20.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D21",
+    "name": "Sacred Silhouette",
+    "category": "Devotional décor",
+    "description": "A gold-tone architectural motif and script on a black rectangular panel.",
+    "images": [
+      {
+        "src": "/assets/designs/design-24.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D22",
+    "name": "Ganesh Mandala",
+    "category": "Nameplates",
+    "description": "A dark floral centre with gold-tone names and an engraved-style mandala border.",
+    "images": [
+      {
+        "src": "/assets/designs/design-25.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D23",
+    "name": "Ivory Signature",
+    "category": "Nameplates",
+    "description": "A white rectangular nameplate with gold-tone lettering and ornamental corners.",
+    "images": [
+      {
+        "src": "/assets/designs/design-26.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D24",
+    "name": "Calligraphy Circle",
+    "category": "Devotional décor",
+    "description": "A black-and-gold circular composition with calligraphy medallions and a floral rim.",
+    "images": [
+      {
+        "src": "/assets/designs/design-27.webp",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "/assets/designs/design-29.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D25",
+    "name": "Glam Studio",
+    "category": "Business signs",
+    "description": "A black salon sign with a flowing profile motif and gold-tone lettering.",
+    "images": [
+      {
+        "src": "/assets/designs/design-28.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D26",
+    "name": "Buddha Residence",
+    "category": "Nameplates",
+    "description": "A black rectangular Marathi nameplate with a Buddha motif and gold-tone frame.",
+    "images": [
+      {
+        "src": "/assets/designs/design-30.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D27",
+    "name": "Floral Welcome",
+    "category": "Nameplates",
+    "description": "A round family nameplate with a flower-filled decorative pocket.",
+    "images": [
+      {
+        "src": "/assets/designs/design-31.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D28",
+    "name": "Celebration Halo",
+    "category": "Gifts",
+    "description": "An ornate circular birthday design with personalised names and date.",
+    "images": [
+      {
+        "src": "/assets/designs/design-32.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D29",
+    "name": "Pranali Circle",
+    "category": "Business signs",
+    "description": "A light circular beauty-business sign with a dark rim and script monogram.",
+    "images": [
+      {
+        "src": "/assets/designs/design-33.webp",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "src": "/assets/designs/design-34.jpg",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D30",
+    "name": "Noor Modern",
+    "category": "Nameplates",
+    "description": "A contemporary two-tone circular house sign with a vertical gold-tone accent.",
+    "images": [
+      {
+        "src": "/assets/designs/design-35.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D31",
+    "name": "Peacock Crest",
+    "category": "Nameplates",
+    "description": "A white circular nameplate with gold-tone botanical and peacock-inspired details.",
+    "images": [
+      {
+        "src": "/assets/designs/design-36.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D32",
+    "name": "Sharma Brass",
+    "category": "Nameplates",
+    "description": "Polished brass-style raised lettering with a house number on a clean horizontal plate. Reference style; final acrylic material and finish confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/new-d32.png",
+        "width": 1024,
+        "height": 574
+      }
+    ]
+  },
+  {
+    "id": "D33",
+    "name": "Kaboor Script",
+    "category": "Nameplates",
+    "description": "Matte black script lettering with a key motif and bold house number. Reference style; final acrylic material and finish confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/new-d33.png",
+        "width": 1024,
+        "height": 574
+      }
+    ]
+  },
+  {
+    "id": "D34",
+    "name": "Khan Corten",
+    "category": "Nameplates",
+    "description": "Corten-steel inspired family lettering with a warm, architectural finish. Reference style; final acrylic material and finish confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/new-d34.png",
+        "width": 2048,
+        "height": 558
+      }
+    ]
+  },
+  {
+    "id": "D35",
+    "name": "Fernandez Aluminium",
+    "category": "Nameplates",
+    "description": "Brushed aluminium-style nameplate with crisp dark lettering. Reference style; final acrylic material and finish confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/new-d35.png",
+        "width": 1024,
+        "height": 572
+      }
+    ]
+  },
+  {
+    "id": "D36",
+    "name": "Desai Copper",
+    "category": "Nameplates",
+    "description": "Aged copper-style script nameplate with a graceful house number. Reference style; final acrylic material and finish confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/new-d36.png",
+        "width": 1024,
+        "height": 572
+      }
+    ]
+  },
+  {
+    "id": "D37",
+    "name": "Ganesh Aashirwad",
+    "category": "Devotional décor",
+    "description": "A welcoming Ganesha nameplate with raised gold-tone artwork and a dark architectural panel. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d37.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D38",
+    "name": "Om Mandala",
+    "category": "Devotional décor",
+    "description": "A circular Om composition framed by an ornamental mandala border. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d38.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D39",
+    "name": "Shiva Trishul",
+    "category": "Devotional décor",
+    "description": "A dramatic Shiva and trishul composition on a dark personalised nameplate. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d39.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D40",
+    "name": "Krishna Peacock",
+    "category": "Devotional décor",
+    "description": "A warm wood-look Krishna design with a peacock feather detail. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d40.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D41",
+    "name": "Temple Welcome",
+    "category": "Devotional décor",
+    "description": "A light nameplate with a temple silhouette and graceful personalised lettering. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d41.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D42",
+    "name": "Hanuman Veer",
+    "category": "Devotional décor",
+    "description": "A bold Hanuman composition with raised gold-tone lettering and house number. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d42.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D43",
+    "name": "Lotus Om",
+    "category": "Devotional décor",
+    "description": "A lotus-framed Om design for a calm, meaningful entrance. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d43.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D44",
+    "name": "Radha Krishna",
+    "category": "Devotional décor",
+    "description": "A dark devotional nameplate with Radha-Krishna artwork and gold-tone details. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d44.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D45",
+    "name": "Shree Mandala",
+    "category": "Devotional décor",
+    "description": "A compact Shree mandala design with an ornamental glow-like border. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d45.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D46",
+    "name": "Kamdhenu Blessing",
+    "category": "Devotional décor",
+    "description": "A Kamdhenu and tree-of-life inspired design for a spiritual home entrance. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d46.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D47",
+    "name": "Ganesh Lotus",
+    "category": "Devotional décor",
+    "description": "A vertical Ganesha and lotus composition with elegant raised lettering. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d47.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D48",
+    "name": "Krishna Feather",
+    "category": "Devotional décor",
+    "description": "A Krishna flute and peacock-feather design with a warm devotional finish. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d48.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D49",
+    "name": "Shree Ram",
+    "category": "Devotional décor",
+    "description": "A temple-inspired Shree Ram nameplate with a bright stone-look base. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d49.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D50",
+    "name": "Shiva Meditation",
+    "category": "Devotional décor",
+    "description": "A peaceful Shiva meditation silhouette with a trishul and circular halo. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d50.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D51",
+    "name": "Bodhi Meditation",
+    "category": "Devotional décor",
+    "description": "A Buddha under the Bodhi tree with a softly illuminated devotional mood. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d51.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D52",
+    "name": "Om Jaali",
+    "category": "Devotional décor",
+    "description": "A layered Om design with a decorative jaali panel and rich dark finish. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d52.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D53",
+    "name": "Devi Lotus",
+    "category": "Devotional décor",
+    "description": "A graceful Devi and lotus composition with a light, premium finish. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d53.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D54",
+    "name": "Temple Devotional",
+    "category": "Devotional décor",
+    "description": "A temple silhouette with a warm halo effect and personalised family name. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d54.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D55",
+    "name": "Shree Diya",
+    "category": "Devotional décor",
+    "description": "A vertical Shree design with diya details and a wood-look finish. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d55.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D56",
+    "name": "Kamdhenu Grace",
+    "category": "Devotional décor",
+    "description": "A Kamdhenu and botanical composition for a peaceful spiritual entrance. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/devotional-d56.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D57",
+    "name": "Ashoka Chakra Legacy",
+    "category": "Ambedkar-inspired",
+    "description": "A bold Ambedkar-inspired composition with the Ashoka Chakra and strong horizontal lettering. Personalised with your family or organisation name; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/ambedkar-d57.jpg",
+        "width": 2000,
+        "height": 2000
+      }
+    ]
+  },
+  {
+    "id": "D58",
+    "name": "Educate Organize Agitate",
+    "category": "Ambedkar-inspired",
+    "description": "A circular blue-and-white Ambedkar-inspired design with a powerful educational message. Personalised with your family or organisation name; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/ambedkar-d58.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D59",
+    "name": "Constitution & Parliament",
+    "category": "Ambedkar-inspired",
+    "description": "A rich wood-look composition featuring Dr. Ambedkar, the Constitution and Parliament. Personalised with your family or organisation name; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/ambedkar-d59.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D60",
+    "name": "Life Should Be Great",
+    "category": "Ambedkar-inspired",
+    "description": "A blue illuminated Ambedkar-inspired panel with an iconic quote and personalised name. Personalised with your family or organisation name; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [
+      {
+        "src": "/assets/designs/ambedkar-d60.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "D61",
+    "name": "Ambedkar Reading",
+    "category": "Ambedkar-inspired",
+    "description": "A modern seated portrait composition with the Ashoka Chakra and clean raised lettering. Personalised with your family or organisation name; final acrylic material, finish and lighting confirmed with your quote.",
+    "images": [{"src": "/assets/designs/ambedkar-d61.webp", "width": 1200, "height": 1200}]
+  },
+  {"id":"P01","name":"Noor Calligraphy Stand","category":"Devotional décor","description":"Vertical Arabic calligraphy on a display-ready acrylic panel. Made to order with your preferred finish and size.","images":[{"src":"/assets/new-products/pack-01.jpg","width":1200,"height":1200}]},
+  {"id":"P02","name":"Circle of Calligraphy","category":"Devotional décor","description":"Circular layered calligraphy design with a dark-and-gold finish.","images":[{"src":"/assets/new-products/pack-02.jpg","width":1200,"height":1200}]},
+  {"id":"P03","name":"Sacred Circle","category":"Devotional décor","description":"A round calligraphy composition designed as a quiet wall or entrance piece.","images":[{"src":"/assets/new-products/pack-03.jpg","width":1200,"height":1200}]},
+  {"id":"P04","name":"Golden Landmark","category":"Devotional décor","description":"A luminous landmark-inspired acrylic panel for a meaningful corner.","images":[{"src":"/assets/new-products/pack-04.jpg","width":1200,"height":1200}]},
+  {"id":"P05","name":"Allah Glow","category":"Devotional décor","description":"Illuminated Arabic calligraphy on an acrylic display base.","images":[{"src":"/assets/new-products/pack-05.jpg","width":1200,"height":1200}]},
+  {"id":"P06","name":"Noor Script","category":"Devotional décor","description":"Raised calligraphy with a warm illuminated presentation.","images":[{"src":"/assets/new-products/pack-06.jpg","width":1200,"height":1200}]},
+  {"id":"P07","name":"Golden Script Glow","category":"Devotional décor","description":"A soft-lit calligraphy design with a layered acrylic finish.","images":[{"src":"/assets/new-products/pack-07.jpg","width":1200,"height":1200}]},
+  {"id":"P08","name":"Zakaria House","category":"Nameplates","description":"A personalised rectangular nameplate with a deep blue base and gold lettering.","images":[{"src":"/assets/new-products/pack-08.jpg","width":1200,"height":1200}]},
+  {"id":"P09","name":"Kausar House","category":"Nameplates","description":"A round family nameplate with a refined gold border.","images":[{"src":"/assets/new-products/pack-09.jpg","width":1200,"height":1200}]},
+  {"id":"P10","name":"Vertical Noor","category":"Devotional décor","description":"A tall calligraphy plaque designed for a narrow wall or entrance.","images":[{"src":"/assets/new-products/pack-10.jpg","width":1200,"height":1200}]},
+  {"id":"P11","name":"Saniya Beauty","category":"Business signs","description":"A round branded salon sign with gold lettering and a premium dark finish.","images":[{"src":"/assets/new-products/pack-11.jpg","width":1200,"height":1200}]},
+  {"id":"P12","name":"Turquoise Welcome","category":"Nameplates","description":"An oval layered nameplate with a bright ornamental border.","images":[{"src":"/assets/new-products/pack-12.jpg","width":1200,"height":1200}]},
+  {"id":"P13","name":"Chauhan Residence","category":"Nameplates","description":"A bold black-and-gold house sign with room number and family name.","images":[{"src":"/assets/new-products/pack-13.jpg","width":1200,"height":1200}]},
+  {"id":"P14","name":"Royal Wreath","category":"Nameplates","description":"A round nameplate framed by a laurel-style border.","images":[{"src":"/assets/new-products/pack-14.jpg","width":1200,"height":1200}]},
+  {"id":"P15","name":"Ayesha House","category":"Nameplates","description":"A warm gold-on-white family nameplate with room number detail.","images":[{"src":"/assets/new-products/pack-15.jpg","width":1200,"height":1200}]},
+  {"id":"P16","name":"Singh Family","category":"Nameplates","description":"A round personalised family nameplate with classic gold lettering.","images":[{"src":"/assets/new-products/pack-16.jpg","width":1200,"height":1200}]},
+  {"id":"P17","name":"Royal Script","category":"Nameplates","description":"A decorative vertical plaque with layered lettering and a patterned frame.","images":[{"src":"/assets/new-products/pack-17.jpg","width":1200,"height":1200}]},
+  {"id":"P18","name":"Mashallah Family","category":"Devotional décor","description":"A celebratory family plaque with calligraphy and personalised names.","images":[{"src":"/assets/new-products/pack-18.jpg","width":1200,"height":1200}]},
+  {"id":"P19","name":"White Heritage","category":"Nameplates","description":"A white framed acrylic nameplate with raised gold lettering.","images":[{"src":"/assets/new-products/pack-19.jpg","width":1200,"height":1200}]},
+  {"id":"P20","name":"Sultan Family","category":"Nameplates","description":"A round family nameplate with a polished gold ring.","images":[{"src":"/assets/new-products/pack-20.jpg","width":1200,"height":1200}]},
+  {"id":"P21","name":"Vanjare Oval","category":"Nameplates","description":"An oval family plaque with a gentle gold-on-white composition.","images":[{"src":"/assets/new-products/pack-21.jpg","width":1200,"height":1200}]},
+  {"id":"P22","name":"Joshi Family","category":"Nameplates","description":"A bold circular family design with a blue ornamental edge.","images":[{"src":"/assets/new-products/pack-22.jpg","width":1200,"height":1200}]},
+  {"id":"P23","name":"Khan Residence","category":"Nameplates","description":"A dark rectangular plaque with raised gold lettering.","images":[{"src":"/assets/new-products/pack-23.jpg","width":1200,"height":1200}]},
+  {"id":"P24","name":"Shendge Family","category":"Nameplates","description":"A soft round nameplate with a botanical border.","images":[{"src":"/assets/new-products/pack-24.jpg","width":1200,"height":1200}]},
+  {"id":"P25","name":"Blue Noor","category":"Devotional décor","description":"A bright blue acrylic calligraphy panel with a clean illuminated edge.","images":[{"src":"/assets/new-products/pack-25.jpg","width":1200,"height":1200}]},
+  {"id":"P26","name":"Noor Frame Black","category":"Devotional décor","description":"A black-and-gold framed calligraphy plaque for a meaningful wall.","images":[{"src":"/assets/new-products/pack-26.jpg","width":1200,"height":1200}]},
+  {"id":"P27","name":"Mehta Family","category":"Nameplates","description":"A refined oval family nameplate with a beaded border.","images":[{"src":"/assets/new-products/pack-27.jpg","width":1200,"height":1200}]},
+  {"id":"P28","name":"Blue Calligraphy","category":"Devotional décor","description":"A blue-edged calligraphy design with a crisp acrylic finish.","images":[{"src":"/assets/new-products/pack-28.jpg","width":1200,"height":1200}]},
+  {"id":"P29","name":"Botanical Welcome","category":"Nameplates","description":"A round family nameplate with delicate botanical details.","images":[{"src":"/assets/new-products/pack-29.jpg","width":1200,"height":1200}]},
+  {"id":"P30","name":"Diamond House","category":"Nameplates","description":"A geometric white acrylic house plaque with layered lettering.","images":[{"src":"/assets/new-products/pack-30.jpg","width":1200,"height":1200}]},
+  {"id":"P31","name":"Sacred Round","category":"Devotional décor","description":"A circular spiritual design with a clean white acrylic base.","images":[{"src":"/assets/new-products/pack-31.jpg","width":1200,"height":1200}]},
+  {"id":"P32","name":"Sayyed Residence","category":"Nameplates","description":"A long black-and-gold nameplate with a premium edge.","images":[{"src":"/assets/new-products/pack-32.jpg","width":1200,"height":1200}]},
+  {"id":"P33","name":"Samad House","category":"Nameplates","description":"A clean white rectangular nameplate with dimensional lettering.","images":[{"src":"/assets/new-products/pack-33.jpg","width":1200,"height":1200}]},
+  {"id":"P34","name":"Shaikh Gallery","category":"Nameplates","description":"A dark framed family plaque with gold accents.","images":[{"src":"/assets/new-products/pack-34.jpg","width":1200,"height":1200}]},
+  {"id":"P35","name":"Marathi Heritage","category":"Nameplates","description":"A blue-and-orange Marathi-inspired house plaque with cultural character.","images":[{"src":"/assets/new-products/pack-35.jpg","width":1200,"height":1200}]},
+  {"id":"P36","name":"Naba Hair & Beauty","category":"Business signs","description":"A circular salon sign with a dark premium finish.","images":[{"src":"/assets/new-products/pack-36.jpg","width":1200,"height":1200}]},
+  {"id":"P37","name":"Noor Script Black","category":"Devotional décor","description":"A framed black acrylic calligraphy panel with raised gold lettering.","images":[{"src":"/assets/new-products/pack-37.jpg","width":1200,"height":1200}]},
+  {"id":"P38","name":"Family Frame","category":"Nameplates","description":"A white floral frame with a personalised family name.","images":[{"src":"/assets/new-products/pack-38.jpg","width":1200,"height":1200}]},
+  {"id":"P39","name":"Neeti Premlal Gold","category":"Nameplates","description":"A round nameplate with a bright gold border and clean lettering.","images":[{"src":"/assets/new-products/pack-39.jpg","width":1200,"height":1200}]},
+  {"id":"P40","name":"Neeti Premlal White","category":"Nameplates","description":"A minimalist white round nameplate with black lettering.","images":[{"src":"/assets/new-products/pack-40.jpg","width":1200,"height":1200}]},
+  {"id":"P41","name":"Rohit & Poonam","category":"Nameplates","description":"A round family nameplate with green botanical accents.","images":[{"src":"/assets/new-products/pack-41.jpg","width":1200,"height":1200}]},
+  {"id":"P42","name":"Dinesh & Zoya","category":"Nameplates","description":"A vertical personalised family plaque with a warm classic finish.","images":[{"src":"/assets/new-products/pack-42.jpg","width":1200,"height":1200}]}
+]

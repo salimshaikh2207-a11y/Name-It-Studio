@@ -1,0 +1,7 @@
+NAME IT STUDIO FULL RESTORE
+
+This package restores the previously built full showroom website at repository root.
+It includes the prior homepage, customizer, catalogue, collection/category pages, design assets, fonts, order guide, and the newer real-work photo folder.
+
+Copy the CONTENTS of this folder into the root of the GitHub Name-It-Studio repository.
+Do not place the outer Name-It-Studio-Full-Restore folder itself inside the repo.

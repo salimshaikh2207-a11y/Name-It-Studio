@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/montserrat-0.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/poppins-0.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/dm-sans-0.ttf) format('truetype');
+}
+
+
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/fonts/nunito-sans-0.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Noto Sans Devanagari';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/fonts/noto-sans-devanagari-0.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Mukta';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/mukta-0.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/hind-0.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Anek Devanagari';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/fonts/anek-devanagari-0.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/khand-0.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/cormorant-garamond-0.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/lato-0.ttf) format('truetype');
+}
