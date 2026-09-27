@@ -53,7 +53,7 @@
    'Additional details: '+($('catalogue-notes').value.trim()||'None'),
    'Delivery: within 3–5 working days from order confirmation. Payment: 10% after design finalisation, remaining 90% on delivery.',
    'Please confirm the final artwork, total payable and order details. I will attach any photo, logo or QR code in this chat.'];
-  $('catalogue-whatsapp').href='https://wa.me/919870539815?text='+encodeURIComponent(brief.join('\n\n'));
+  $('catalogue-whatsapp').href='https://wa.me/919082405720?text='+encodeURIComponent(brief.join('\n\n'));
   $('catalogue-ready').hidden=false;$('catalogue-whatsapp').focus();
  };
 })();
