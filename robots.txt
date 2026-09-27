@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nameitstudio.in/sitemap.xml
