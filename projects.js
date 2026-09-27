@@ -100,7 +100,7 @@
     if (!Number.isInteger(count) || count < 1 || count > 1000) return fail('Enter a whole-number quantity from 1 to 1,000.', 'project-quantity');
     if (imageLoading) return fail('Please wait for your reference image preview to finish.', 'project-image');
     fillList('project-review-specs', rows());
-    el('project-whatsapp').href = 'https://wa.me/919870539815?text=' + encodeURIComponent(brief());
+    el('project-whatsapp').href = 'https://wa.me/919082405720?text=' + encodeURIComponent(brief());
     el('project-attachment-note').textContent = reference
       ? `Remember to attach “${reference.name}” in WhatsApp. Your image is not automatically sent with this brief.`
       : 'Have a logo or reference to share later? Attach it directly in WhatsApp.';
