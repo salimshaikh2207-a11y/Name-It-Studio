@@ -14,7 +14,7 @@ const more=document.getElementById('more-options');function reveal(target){if(mo
 function setupNavigation(){
  const header=document.querySelector('.shop-header'),nav=header?.querySelector('nav');if(!header||!nav)return;
  nav.classList.add('nis-nav');
- nav.innerHTML='<a href="/">Home</a><a href="/catalogue/">Shop</a><a href="/#project-request">Custom order</a><a href="/how-to-order/">How it works</a><a href="/#real-work">Real work</a><a href="/#contact">Contact</a>';
+ nav.innerHTML='<a href="/">Home</a><a href="/catalogue/">Shop</a><a href="/#project-request">Custom order</a><a href="/how-to-order/">How it works</a><a href="/#real-work">Real work</a><a href="/bulk-orders-resellers/">Bulk / Reseller</a><a href="/#contact">Contact</a>';
  const menu=document.createElement('button');menu.type='button';menu.className='nav-toggle';menu.setAttribute('aria-expanded','false');menu.setAttribute('aria-label','Open site menu');menu.innerHTML='<span>Menu</span><span aria-hidden="true">☰</span>';nav.before(menu);
  const setOpen=open=>{header.classList.toggle('nav-open',open);menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Close site menu':'Open site menu');menu.lastElementChild.textContent=open?'×':'☰'};
  menu.addEventListener('click',()=>setOpen(!header.classList.contains('nav-open')));nav.addEventListener('click',e=>{if(e.target.closest('a'))setOpen(false)});document.addEventListener('keydown',e=>{if(e.key==='Escape')setOpen(false)});
