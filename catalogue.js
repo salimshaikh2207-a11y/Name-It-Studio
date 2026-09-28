@@ -24,7 +24,7 @@
   const custom=$('catalogue-size-option').value==='custom';
   $('catalogue-custom-wrap').hidden=!custom;$('catalogue-custom-size').required=custom;
   $('catalogue-price-detail').textContent=custom?'Custom size: price confirmed by quotation.':money(selected.price)+' offer · Regular '+money(selected.regular)+' · Save ₹100';
-  $('catalogue-text-label').textContent=selected.personal;
+  $('catalogue-text-label').textContent='Personalisation — '+selected.personal;
   $('catalogue-ready').hidden=true;
  }
  async function openProduct(id,b){
@@ -53,7 +53,8 @@
    'Additional details: '+($('catalogue-notes').value.trim()||'None'),
    'Delivery: within 3–5 working days from order confirmation. Payment: 10% after design finalisation, remaining 90% on delivery.',
    'Please confirm the final artwork, total payable and order details. I will attach any photo, logo or QR code in this chat.'];
-  $('catalogue-whatsapp').href='https://wa.me/919082405720?text='+encodeURIComponent(brief.join('\n\n'));
-  $('catalogue-ready').hidden=false;$('catalogue-whatsapp').focus();
+  const url='https://wa.me/919082405720?text='+encodeURIComponent(brief.join('\n\n'));
+  const link=$('catalogue-whatsapp');link.href=url;$('catalogue-ready').hidden=false;
+  link.click();
  };
 })();
