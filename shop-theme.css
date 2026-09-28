@@ -40,3 +40,19 @@
 .b2b-home>div:first-child{max-width:760px}.b2b-home h2{margin:8px 0 12px}.b2b-home p{line-height:1.65}.b2b-home-actions{display:flex;flex-direction:column;gap:12px;min-width:300px}.b2b-home-actions .button{text-align:center}
 @media(max-width:800px){.b2b-home{display:block}.b2b-home-actions{min-width:0;margin-top:22px}}
 @media(max-width:600px){.b2b-home{padding:22px 18px;margin-bottom:36px}.b2b-home-actions .button{width:100%}}
+
+
+/* Google reviews / customer feedback */
+.google-reviews{padding:42px 0 52px}
+.reviews-heading{display:flex;justify-content:space-between;gap:34px;align-items:end;margin-bottom:22px}
+.reviews-heading h2{margin:8px 0 0}
+.reviews-heading>p{max-width:520px;color:var(--muted);line-height:1.65;margin:0}
+.reviews-trust{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.reviews-trust article{border:1px solid var(--line);border-radius:12px;background:#fff;padding:22px}
+.reviews-trust strong{display:block;font-size:18px;margin-bottom:7px}
+.reviews-trust span{font-size:14px;line-height:1.55;color:var(--muted)}
+.reviews-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:22px}
+.reviews-actions .secondary{border:1px solid #1466b8;background:#fff;color:#1466b8}
+.reviews-note{font-size:13px;color:var(--muted);margin-top:14px}
+@media(max-width:800px){.reviews-heading{display:block}.reviews-heading>p{margin-top:12px}.reviews-trust{grid-template-columns:1fr}}
+@media(max-width:600px){.google-reviews{padding:30px 0 38px}.reviews-actions{display:grid}.reviews-actions .button{width:100%}}
