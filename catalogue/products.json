@@ -113,9 +113,8 @@
     "price": 1400,
     "category": "Nameplates",
     "image": "/assets/catalogue/reference-09.jpg",
-    "reference": "https://nutcaseshop.com/products/nutcase-customized-led-name-plates-lord-ganesha-name-plate-india-001",
-    "personal": "Text, language, plate colour and letter finish.",
-    "imageSource": "nutcaseshop.com"
+    "reference": "",
+    "personal": "Text, language, plate colour and letter finish."
   },
   {
     "id": "10",
@@ -127,9 +126,8 @@
     "price": 899,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-10.jpg",
-    "reference": "https://www.neonmantra.in/products/custom-acrylic-led-desk-nameplate",
-    "personal": "Name, designation and business logo.",
-    "imageSource": "neonmantra.in"
+    "reference": "",
+    "personal": "Name, designation and business logo."
   },
   {
     "id": "11",
@@ -141,9 +139,8 @@
     "price": 899,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-11.jpg",
-    "reference": "https://gifttology.store/products/personalized-doctor-name-led-desk-lamp-3d-illusion-acrylic-name-plate-with-medical-symbol-for-clinic-doctor-cabin-decor-gifts",
-    "personal": "Name, qualification and clinic name.",
-    "imageSource": "gifttology.store"
+    "reference": "",
+    "personal": "Name, qualification and clinic name."
   },
   {
     "id": "13",
@@ -155,9 +152,8 @@
     "price": 1400,
     "category": "Gifts & kids",
     "image": "/assets/catalogue/reference-13.jpg",
-    "reference": "https://picloon.com/products/photo-engraved-night-lamp-heart-shape-2",
-    "personal": "Photo or engraved portrait, names and short dedication.",
-    "imageSource": "picloon.com"
+    "reference": "",
+    "personal": "Photo or engraved portrait, names and short dedication."
   },
   {
     "id": "14",
@@ -169,9 +165,8 @@
     "price": 899,
     "category": "Gifts & kids",
     "image": "/assets/catalogue/reference-14.jpg",
-    "reference": "https://bbdgifts.com/products/led-night-lamp-6",
-    "personal": "Name, motif and colour theme.",
-    "imageSource": "bbdgifts.com"
+    "reference": "",
+    "personal": "Name, motif and colour theme."
   },
   {
     "id": "15",
@@ -183,9 +178,8 @@
     "price": 1800,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-15.jpg",
-    "reference": "https://homelyarts.in/products/custom-backlit-acrylic-sign-acrylic-logo-sign-copy",
-    "personal": "Customer logo, brand colours, shape and dimensions.",
-    "imageSource": "homelyarts.in"
+    "reference": "",
+    "personal": "Customer logo, brand colours, shape and dimensions."
   },
   {
     "id": "16",
@@ -197,9 +191,8 @@
     "price": 899,
     "category": "Nameplates",
     "image": "/assets/catalogue/reference-16.jpg",
-    "reference": "https://www.11gifts.com/products/gold-mirror-black-acrylic-name-plate-home",
-    "personal": "Family name, house number and colour combination.",
-    "imageSource": "11gifts.com"
+    "reference": "",
+    "personal": "Family name, house number and colour combination."
   },
   {
     "id": "17",
@@ -211,9 +204,8 @@
     "price": 899,
     "category": "Gifts & kids",
     "image": "/assets/catalogue/reference-17.jpg",
-    "reference": "https://gwdkids.com/products/personalised-3d-acrylic-name-plate-1",
-    "personal": "Child's name and acrylic colours.",
-    "imageSource": "gwdkids.com"
+    "reference": "",
+    "personal": "Child's name and acrylic colours."
   },
   {
     "id": "18",
@@ -225,9 +217,8 @@
     "price": 899,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-18.jpg",
-    "reference": "https://lovecraftgift.com/products/custom-qr-code-stand-multiple-designs-materials-for-branding",
-    "personal": "Customer-provided payment, menu, website or social link; scan test before production.",
-    "imageSource": "lovecraftgift.com"
+    "reference": "",
+    "personal": "Customer-provided payment, menu, website or social link; scan test before production."
   },
   {
     "id": "19",
@@ -239,9 +230,8 @@
     "price": 1400,
     "category": "Wall décor",
     "image": "/assets/catalogue/reference-19.png",
-    "reference": "https://www.islamichomedecor.in/products/bismillah-acrylic-wall-art-islamic-wall-art-islamic-home-decor-islamic-wall-decor-eid-gift-islamic-gift-quran-wall-art-ramadan-decor",
-    "personal": "Gold or silver finish and size; lettering proof reviewed before cutting.",
-    "imageSource": "islamichomedecor.in"
+    "reference": "",
+    "personal": "Gold or silver finish and size; lettering proof reviewed before cutting."
   },
   {
     "id": "20",
@@ -253,9 +243,8 @@
     "price": 1400,
     "category": "Wall décor",
     "image": "/assets/catalogue/reference-20.jpg",
-    "reference": "https://the-next-decor.com/products/beautiful-peacock-acrylic-wall-art",
-    "personal": "Size and acrylic finish.",
-    "imageSource": "the-next-decor.com"
+    "reference": "",
+    "personal": "Size and acrylic finish."
   },
   {
     "id": "22",
@@ -267,8 +256,7 @@
     "price": 899,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-22.jpg",
-    "reference": "https://nutcaseshop.com/products/personalized-desk-name-plate-office-table-india-09",
-    "personal": "Name, designation, logo and finish.",
-    "imageSource": "nutcaseshop.com"
+    "reference": "",
+    "personal": "Name, designation, logo and finish."
   }
 ]
