@@ -105,8 +105,8 @@
   },
   {
     "id": "09",
-    "name": "Custom Official Nameplate with Emblem",
-    "description": "Custom acrylic LED nameplate created for a professional official, personalised with name, house number and customer-requested emblem.",
+    "name": "Ganesh Prabha",
+    "description": "Layered acrylic LED nameplate with Ganesh art, personalised family name and house number.",
     "size": "12-inch diameter",
     "lighting": "LED",
     "regular": 1500,
@@ -114,7 +114,7 @@
     "category": "Nameplates",
     "image": "/assets/catalogue/reference-09.jpg",
     "reference": "",
-    "personal": "Name, house number, designation and approved emblem or logo details."
+    "personal": "Text, language, plate colour and letter finish."
   },
   {
     "id": "10",
