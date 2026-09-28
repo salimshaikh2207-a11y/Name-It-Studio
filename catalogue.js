@@ -16,7 +16,7 @@
  function refresh(){
   $('catalogue-dialog-title').textContent=selected.name;
   $('catalogue-description').textContent=selected.description;
-  $('catalogue-image-credit').textContent=selected.reference?'Reference image from '+new URL(selected.reference).hostname.replace('www.','')+'. Your final artwork and finish will be confirmed with you.':'Design reference · Personalised to order';
+  $('catalogue-image-credit').textContent='Design reference · Personalised to order';
   $('catalogue-specs').textContent=selected.size+' · '+selected.lighting;
   $('catalogue-preview').hidden=!selected.image;
   if(selected.image){$('catalogue-preview').src=selected.image;$('catalogue-preview').alt=selected.name+' design reference';}
