@@ -216,5 +216,6 @@
 <script>
 (()=>{const form=document.getElementById('b2b-form'),ready=document.getElementById('b2b-ready'),link=document.getElementById('b2b-whatsapp');if(!form)return;form.addEventListener('submit',e=>{e.preventDefault();const v=id=>document.getElementById(id).value.trim();const lines=['Hello Name It Studio, I would like to discuss a bulk / reseller enquiry.','Business / company: '+(v('b2b-business')||'Not specified'),'City: '+(v('b2b-city')||'Not specified'),'Enquiry type: '+v('b2b-type'),'Expected quantity: '+v('b2b-quantity'),'Product interest: '+v('b2b-product'),'Supply type: '+v('b2b-supply'),'Requirement: '+(v('b2b-notes')||'Please help me finalise the details.'),'Please share the available trade / bulk pricing and next steps.'];const url='https://wa.me/919082405720?text='+encodeURIComponent(lines.join('\n\n'));link.href=url;ready.hidden=false;link.click();});})();
 </script>
+<!-- redeploy: 2026-09-28 -->
 </body>
 </html>
