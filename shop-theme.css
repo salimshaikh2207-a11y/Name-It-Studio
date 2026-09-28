@@ -23,3 +23,13 @@
   .mobile-quick-nav a span{font-size:18px;line-height:1}
   .mobile-quick-nav .quick-whatsapp{color:#0b6b3a}
 }
+
+
+/* SEO category links */
+.seo-links{margin-top:34px;margin-bottom:58px;padding:32px;border:1px solid var(--line);border-radius:12px;background:#f7f9fc}
+.seo-links h2{margin:8px 0 12px}
+.seo-links>div>p:last-child{max-width:760px;line-height:1.65}
+.seo-links nav{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.seo-links nav a{display:inline-flex;align-items:center;min-height:42px;padding:9px 14px;border:1px solid #c7d2dd;border-radius:999px;background:#fff;color:#1466b8;font-weight:700;font-size:14px}
+.seo-links nav a:hover{text-decoration:underline;text-underline-offset:3px}
+@media(max-width:600px){.seo-links{padding:22px;margin-top:24px;margin-bottom:35px}.seo-links nav{display:grid;grid-template-columns:1fr 1fr}.seo-links nav a{justify-content:center;text-align:center;border-radius:8px;padding:10px 8px;font-size:13px}}
