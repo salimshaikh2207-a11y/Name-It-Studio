@@ -31,8 +31,25 @@ function setupSocialLinks(){
  const footer=document.querySelector('.footer-contact');
  if(footer&&!footer.querySelector('.social-links-inline')){
   const social=document.createElement('div');social.className='social-links-inline';social.setAttribute('aria-label','Name It Studio social media');
-  social.innerHTML='<a href="https://www.instagram.com/nameitstudio.in/" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">◎</span> Instagram</a><a href="https://www.facebook.com/profile.php?id=1320468437817367" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">f</span> Facebook</a>';
+  social.innerHTML='<a href="https://www.instagram.com/nameitstudio.in/" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">◎</span> Instagram</a><a href="https://www.facebook.com/profile.php?id=1320468437817367" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">f</span> Facebook</a><a href="https://www.google.com/search?q=Name+It+Studio+Mumbai" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">G</span> Google</a>';
   footer.append(social);
  }
 }
-setupNavigation();setupSocialLinks();window.addEventListener('hashchange',linked);linked()})();
+function setupVisitorLeadForm(){
+ const form=document.getElementById('visitor-lead-form');if(!form)return;
+ let started=false;
+ form.addEventListener('input',()=>{if(started)return;started=true;nis_track_event('lead_form_start',{form_name:'quick_enquiry'});},{once:true});
+ form.addEventListener('submit',e=>{
+  e.preventDefault();
+  if(!form.reportValidity())return;
+  const data=new FormData(form);
+  const name=(data.get('name')||'').trim(),phone=(data.get('phone')||'').trim(),interest=(data.get('interest')||'').trim(),area=(data.get('area')||'').trim();
+  const lines=['Hi Name It Studio, I would like help with a custom enquiry.','','Name: '+name,'WhatsApp / Phone: '+phone,'Interested in: '+interest];
+  if(area)lines.push('Area / City: '+area);
+  lines.push('','Please help me with 4 personalised design options.');
+  nis_track_event('generate_lead',{method:'website_form',lead_type:'quick_enquiry',interest:interest,page_path:location.pathname});
+  nis_track_event('lead_form_submit',{form_name:'quick_enquiry',interest:interest});
+  window.open('https://wa.me/919082405720?text='+encodeURIComponent(lines.join('\n')),'_blank','noopener,noreferrer');
+ });
+}
+setupNavigation();setupSocialLinks();setupVisitorLeadForm();window.addEventListener('hashchange',linked);linked()})();
