@@ -72,3 +72,20 @@
 #how-it-works>.button.primary{display:inline-flex;margin-top:20px;margin-right:14px}
 @media(max-width:800px){.lead-offer{grid-template-columns:1fr;gap:22px}.lead-offer-actions{max-width:520px}}
 @media(max-width:600px){.hero-sales-points{display:grid;grid-template-columns:1fr 1fr}.hero-sales-points span{justify-content:center;text-align:center;border-radius:8px}.lead-offer{padding:24px 18px;margin-top:18px;margin-bottom:38px}.lead-offer-actions{width:100%}#how-it-works>.button.primary{display:flex;width:100%;margin-right:0;margin-bottom:14px}}
+
+/* High-intent landing-page conversion blocks — 2026-09-30 */
+.landing-price{margin:20px 0!important;font-size:16px!important;line-height:1.45!important}
+.landing-price strong{display:inline-block;font-size:28px;color:#1466b8;margin-left:4px}
+.landing-price span{display:block;margin-top:5px;font-size:13px;color:var(--muted)}
+.landing-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:22px}
+.landing-actions .button{display:inline-flex}
+.landing-actions .secondary{border:1px solid #1466b8;background:#fff;color:#1466b8}
+.landing-help{font-size:14px!important;color:var(--muted)!important;line-height:1.55!important;margin-top:13px!important}
+.landing-lead{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(280px,.65fr);gap:36px;align-items:center;margin:28px 0 46px;padding:30px 32px;border:1px solid #cbdbe9;border-radius:14px;background:#f4f8fc}
+.landing-lead h2{margin:8px 0 10px}
+.landing-lead p{line-height:1.65}
+.landing-lead>div:last-child{display:grid;gap:10px}
+.landing-lead .button{width:100%;text-align:center}
+.landing-lead small{text-align:center;color:var(--muted);line-height:1.45}
+@media(max-width:800px){.landing-lead{grid-template-columns:1fr;gap:18px}}
+@media(max-width:600px){.landing-actions{display:grid}.landing-actions .button{width:100%}.landing-lead{padding:22px 18px;margin:20px 0 34px}.landing-price strong{font-size:25px}}
