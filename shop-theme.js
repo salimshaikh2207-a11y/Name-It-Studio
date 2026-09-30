@@ -3,7 +3,7 @@ function nis_track_event(name,params={}){if(typeof window.gtag==='function'){win
 document.addEventListener('click',e=>{
  const el=e.target.closest('a,button'); if(!el)return;
  const href=(el.getAttribute('href')||'').trim();
- if(href.includes('wa.me/')) nis_track_event('whatsapp_click',{link_text:(el.textContent||'').trim().slice(0,80),destination:href.split('?')[0]});
+ if(href.includes('wa.me/')) nis_track_event('whatsapp_click',{link_text:(el.textContent||'').trim().slice(0,80),destination:href.split('?')[0]}); if(el.hasAttribute('data-design-options')) nis_track_event('design_options_click',{link_text:(el.textContent||'').trim().slice(0,80)});
  if(href.startsWith('tel:')) nis_track_event('phone_click',{link_text:(el.textContent||'').trim().slice(0,80)});
  if(href==='#studio'||href==='/#studio'||href.includes('#project-request')||el.hasAttribute('data-start')||el.hasAttribute('data-project')) nis_track_event('customize_click',{link_text:(el.textContent||'').trim().slice(0,80)});
  if(el.hasAttribute('data-catalogue-open')) nis_track_event('product_select',{product_id:'NIS-'+el.getAttribute('data-catalogue-open'),product_type:'priced_product'});
