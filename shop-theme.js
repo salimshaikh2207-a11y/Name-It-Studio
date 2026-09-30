@@ -3,7 +3,13 @@ function nis_track_event(name,params={}){if(typeof window.gtag==='function'){win
 document.addEventListener('click',e=>{
  const el=e.target.closest('a,button'); if(!el)return;
  const href=(el.getAttribute('href')||'').trim();
- if(href.includes('wa.me/')) nis_track_event('whatsapp_click',{link_text:(el.textContent||'').trim().slice(0,80),destination:href.split('?')[0]}); if(el.hasAttribute('data-design-options')) nis_track_event('design_options_click',{link_text:(el.textContent||'').trim().slice(0,80)});
+ if(href.includes('wa.me/')){
+  const path=location.pathname, lead_type=path.includes('/business-office-signs/')||path.includes('/custom-logo-signs/')?'business_signage':path.includes('/bulk-orders-resellers/')?'bulk_trade':el.hasAttribute('data-design-options')?'design_options':'whatsapp_contact';
+  const payload={method:'whatsapp',lead_type,link_text:(el.textContent||'').trim().slice(0,80),destination:href.split('?')[0],page_path:location.pathname+location.hash};
+  nis_track_event('whatsapp_click',payload);
+  nis_track_event('generate_lead',payload);
+  if(el.hasAttribute('data-design-options')) nis_track_event('design_options_click',{link_text:payload.link_text,lead_type});
+ }
  if(href.startsWith('tel:')) nis_track_event('phone_click',{link_text:(el.textContent||'').trim().slice(0,80)});
  if(href==='#studio'||href==='/#studio'||href.includes('#project-request')||el.hasAttribute('data-start')||el.hasAttribute('data-project')) nis_track_event('customize_click',{link_text:(el.textContent||'').trim().slice(0,80)});
  if(el.hasAttribute('data-catalogue-open')) nis_track_event('product_select',{product_id:'NIS-'+el.getAttribute('data-catalogue-open'),product_type:'priced_product'});
