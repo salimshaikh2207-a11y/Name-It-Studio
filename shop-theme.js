@@ -31,7 +31,7 @@ function setupSocialLinks(){
  const footer=document.querySelector('.footer-contact');
  if(footer&&!footer.querySelector('.social-links-inline')){
   const social=document.createElement('div');social.className='social-links-inline';social.setAttribute('aria-label','Name It Studio social media');
-  social.innerHTML='<a href="https://www.instagram.com/nameitstudio.in/" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">◎</span> Instagram</a><a href="https://www.facebook.com/profile.php?id=1320468437817367" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">f</span> Facebook</a><a href="https://www.google.com/search?q=Name+It+Studio+Mumbai" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">G</span> Google</a>';
+  social.innerHTML='<a href="https://www.instagram.com/nameitstudio.in/" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">◎</span> Instagram</a><a href="https://www.facebook.com/profile.php?id=1320468437817367" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">f</span> Facebook</a><a href="https://share.google/3INrXMV6OXjq8HobA" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">G</span> Google</a>';
   footer.append(social);
  }
 }
