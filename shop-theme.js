@@ -27,4 +27,12 @@ function setupNavigation(){
  const path=location.pathname;nav.querySelectorAll('a').forEach(a=>{const href=a.getAttribute('href');if((href==='/'&&path==='/')||(href==='/catalogue/'&&path.startsWith('/catalogue'))||(href==='/how-to-order/'&&path.startsWith('/how-to-order')))a.setAttribute('aria-current','page')});
  if(!document.querySelector('.mobile-quick-nav')){const dock=document.createElement('div');dock.className='mobile-quick-nav';dock.setAttribute('role','navigation');dock.setAttribute('aria-label','Quick actions');dock.innerHTML='<a href="/catalogue/"><span aria-hidden="true">⌕</span>Shop</a><a href="/#project-request"><span aria-hidden="true">✎</span>Custom</a><a class="quick-whatsapp" href="https://wa.me/919082405720" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">↗</span>WhatsApp</a>';document.body.append(dock)}
 }
-setupNavigation();window.addEventListener('hashchange',linked);linked()})();
+function setupSocialLinks(){
+ const footer=document.querySelector('.footer-contact');
+ if(footer&&!footer.querySelector('.social-links-inline')){
+  const social=document.createElement('div');social.className='social-links-inline';social.setAttribute('aria-label','Name It Studio social media');
+  social.innerHTML='<a href="https://www.instagram.com/nameitstudio.in/" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">◎</span> Instagram</a><a href="https://www.facebook.com/profile.php?id=1320468437817367" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">f</span> Facebook</a>';
+  footer.append(social);
+ }
+}
+setupNavigation();setupSocialLinks();window.addEventListener('hashchange',linked);linked()})();
