@@ -89,3 +89,9 @@
 .landing-lead small{text-align:center;color:var(--muted);line-height:1.45}
 @media(max-width:800px){.landing-lead{grid-template-columns:1fr;gap:18px}}
 @media(max-width:600px){.landing-actions{display:grid}.landing-actions .button{width:100%}.landing-lead{padding:22px 18px;margin:20px 0 34px}.landing-price strong{font-size:25px}}
+
+/* Business signage conversion additions — 2026-09-30 */
+.business-bulk-link{display:block;margin:28px 0 8px;padding:18px 20px;border:1px solid #cbdbe9;border-radius:10px;background:#f4f8fc;color:#1466b8;font-weight:800;text-align:center}
+.business-bulk-link:hover{text-decoration:underline;text-underline-offset:3px}
+.landing-lead .quiet-link{text-align:center;font-size:14px}
+@media(max-width:600px){.business-bulk-link{margin-top:20px;font-size:14px}}
