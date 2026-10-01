@@ -16,7 +16,7 @@
    grid.innerHTML=data.map(cardMarkup).join('');
    cards=[...grid.querySelectorAll('.design-card')];cards.forEach(bindCard);
    $('design-count').textContent=data.length+' designs · '+data.reduce((n,d)=>n+(d.images?.length||0),0)+' images';
-   filter();linked();
+   const requested=new URLSearchParams(location.search).get('material');if(requested&&['Acrylic','Glass','Engraved Mandala'].includes(requested))$('design-category').value=requested;filter();linked();
  }
  function filter(){const q=$('design-search').value.toLowerCase().trim(),cat=$('design-category').value;let count=0;cards.forEach(c=>{c.hidden=!!((q&&!c.dataset.designSearch.includes(q))||(cat&&c.dataset.designCategory!==cat));if(!c.hidden)count++});$('design-count').textContent=count+' designs shown';$('design-empty').hidden=!!count}
  ['design-search','design-category'].forEach(id=>$(id).addEventListener('input',filter));
