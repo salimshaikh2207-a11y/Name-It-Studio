@@ -1,5 +1,5 @@
 (()=>{'use strict';
-function nis_track_event(name,params={}){if(typeof window.gtag==='function'){window.gtag('event',name,{...params,page_path:location.pathname+location.hash});}} window.nis_track_event=nis_track_event;
+function nis_track_event(name,params={}){if(typeof window.gtag==='function'){const eventParams={...params,page_path:location.pathname+location.hash};if(name==='generate_lead')eventParams.send_to=['G-KH9G59TVN1','AW-73938513860'];window.gtag('event',name,eventParams);}} window.nis_track_event=nis_track_event;
 if(typeof window.gtag==='function'&&!window.__nisAdsTagConfigured){window.gtag('config','AW-73938513860');window.__nisAdsTagConfigured=true;}
 document.addEventListener('click',e=>{
  const el=e.target.closest('a,button'); if(!el)return;
