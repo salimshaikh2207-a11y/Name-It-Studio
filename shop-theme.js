@@ -28,7 +28,7 @@ function setupNavigation(){
  const setOpen=open=>{header.classList.toggle('nav-open',open);menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Close site menu':'Open site menu');menu.lastElementChild.textContent=open?'×':'☰'};
  menu.addEventListener('click',()=>setOpen(!header.classList.contains('nav-open')));nav.addEventListener('click',e=>{if(e.target.closest('a'))setOpen(false)});document.addEventListener('keydown',e=>{if(e.key==='Escape')setOpen(false)});
  const path=location.pathname;nav.querySelectorAll('a').forEach(a=>{const href=a.getAttribute('href');if((href==='/'&&path==='/')||(href==='/catalogue/'&&path.startsWith('/catalogue'))||(href==='/how-to-order/'&&path.startsWith('/how-to-order')))a.setAttribute('aria-current','page')});
- if(!document.querySelector('.mobile-quick-nav')){const dock=document.createElement('div');dock.className='mobile-quick-nav';dock.setAttribute('role','navigation');dock.setAttribute('aria-label','Quick actions');dock.innerHTML='<a href="/catalogue/"><span aria-hidden="true">⌕</span>Shop</a><a href="/#quick-enquiry"><span aria-hidden="true">✦</span>Get 4 Designs</a><a class="quick-whatsapp" href="https://wa.me/919082405720" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">↗</span>WhatsApp</a>';document.body.append(dock)}
+ if(!document.querySelector('.mobile-quick-nav')){const dock=document.createElement('div');dock.className='mobile-quick-nav';dock.setAttribute('role','navigation');dock.setAttribute('aria-label','Quick actions');dock.innerHTML='<a href="/catalogue/"><span aria-hidden="true">⌕</span>Shop</a><a href="/#quick-enquiry"><span aria-hidden="true">✦</span>Get 4 Designs</a><a class="quick-call" href="tel:+919082405720"><span aria-hidden="true">☎</span>Call Us</a><a class="quick-whatsapp" href="https://wa.me/919082405720" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">↗</span>WhatsApp</a>';document.body.append(dock)}
 }
 function setupSocialLinks(){
  const footer=document.querySelector('.footer-contact');
@@ -36,6 +36,18 @@ function setupSocialLinks(){
   const social=document.createElement('div');social.className='social-links-inline';social.setAttribute('aria-label','Name It Studio social media');
   social.innerHTML='<a href="https://www.instagram.com/nameitstudio.in/" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">◎</span> Instagram</a><a href="https://www.facebook.com/profile.php?id=1320468437817367" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">f</span> Facebook</a><a href="https://share.google/3INrXMV6OXjq8HobA" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">G</span> Google</a>';
   footer.append(social);
+ }
+}
+function setupCallOption(){
+ const phone='+91 90824 05720',tel='tel:+919082405720';
+ document.querySelectorAll('.footer-contact').forEach(footer=>{
+  if(footer.querySelector('.footer-call'))return;
+  const a=document.createElement('a');a.className='footer-call';a.href=tel;a.innerHTML='<small>CALL US</small>'+phone+' ↗';
+  const social=footer.querySelector('.social-links-inline');if(social)footer.insertBefore(a,social);else footer.append(a);
+ });
+ if(!document.querySelector('.site-call-cta')){
+  const a=document.createElement('a');a.className='site-call-cta';a.href=tel;a.setAttribute('aria-label','Call Name It Studio at '+phone);
+  a.innerHTML='<span aria-hidden="true">☎</span><strong>Call us</strong><small>'+phone+'</small>';document.body.append(a);
  }
 }
 function setupVisitorLeadForm(){
@@ -86,4 +98,4 @@ function setupVisitorLeadForm(){
   window.open('https://wa.me/919082405720?text='+encodeURIComponent(lines.join('\n')),'_blank','noopener,noreferrer');
  });
 }
-setupNavigation();setupSocialLinks();setupVisitorLeadForm();window.addEventListener('hashchange',linked);linked()})();
+setupNavigation();setupSocialLinks();setupCallOption();setupVisitorLeadForm();window.addEventListener('hashchange',linked);linked()})();
