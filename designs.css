@@ -65,3 +65,5 @@
   .design-card-body{padding:16px!important}
   .design-card-actions{grid-template-columns:1fr 96px}
 }
+
+.design-card h3 a{color:inherit;text-decoration:none}.design-card h3 a:hover{text-decoration:underline;text-underline-offset:3px}.design-quick{min-height:42px;border:1px solid #c9d2dc;border-radius:8px;background:#fff;color:#173b5b;padding:9px 11px;font-size:12px;font-weight:800;white-space:nowrap}.design-quick:hover{border-color:#173b5b}.design-card-actions{grid-template-columns:minmax(0,1fr) auto}
