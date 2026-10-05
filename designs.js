@@ -2,13 +2,15 @@
  'use strict';
  const $=id=>document.getElementById(id);let cards=[],selected,opener;
  const money=n=>'₹'+Number(n).toLocaleString('en-IN');
+ const slugify=s=>String(s||'').toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
  const loaded=fetch('/catalogue/designs.json').then(r=>{if(!r.ok)throw Error();return r.json()});loaded.catch(()=>{});
  function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
  function cardMarkup(d){
    const img=d.images&&d.images[0]?d.images[0]:{};
    const rate=d.pricePerSqIn?money(d.pricePerSqIn)+' / sq in':'Price on quote';
    const detail=d.productionNotes||d.description;
-   return '<article class="design-card" id="design-'+esc(d.id)+'" data-design-category="'+esc(d.category)+'" data-design-search="'+esc((d.name+' '+d.category+' '+(d.collection||'')+' '+d.description+' '+(d.productionNotes||'')).toLowerCase())+'"><button type="button" class="design-picture" data-design-open="'+esc(d.id)+'" aria-label="View '+esc(d.name)+'"><img src="'+esc(img.src)+'" width="'+esc(img.width||1200)+'" height="'+esc(img.height||1200)+'" alt="'+esc(d.name)+' — '+esc(d.description)+'" loading="lazy"><span class="design-view-pill">View details</span></button><div class="design-card-body"><div class="design-card-topline"><span>'+esc(d.category)+'</span><strong>'+esc(rate)+'</strong></div><h3>'+esc(d.name)+'</h3><p class="design-description">'+esc(detail)+'</p><div class="design-card-proof"><span>4 artwork options</span><span>Made to order</span></div><div class="design-card-actions"><button class="button primary" data-design-open="'+esc(d.id)+'" type="button">Customize this design →</button><a class="design-call-link" href="tel:+919082405720">Call us</a></div></div></article>';
+   const productUrl='/products/'+slugify(d.name)+'/';
+   return '<article class="design-card" id="design-'+esc(d.id)+'" data-design-category="'+esc(d.category)+'" data-design-search="'+esc((d.name+' '+d.category+' '+(d.collection||'')+' '+d.description+' '+(d.productionNotes||'')).toLowerCase())+'"><a class="design-picture" href="'+productUrl+'" aria-label="View '+esc(d.name)+'"><img src="'+esc(img.src)+'" width="'+esc(img.width||1200)+'" height="'+esc(img.height||1200)+'" alt="'+esc(d.name)+' — '+esc(d.description)+'" loading="lazy"><span class="design-view-pill">View product</span></a><div class="design-card-body"><div class="design-card-topline"><span>'+esc(d.category)+'</span><strong>'+esc(rate)+'</strong></div><h3><a href="'+productUrl+'">'+esc(d.name)+'</a></h3><p class="design-description">'+esc(detail)+'</p><div class="design-card-proof"><span>4 artwork options</span><span>Made to order</span></div><div class="design-card-actions"><a class="button primary" href="'+productUrl+'">View & customize →</a><button class="design-quick" data-design-open="'+esc(d.id)+'" type="button">Quick quote</button></div></div></article>';
  }
  function bindCard(card){card.querySelectorAll('[data-design-open]').forEach(b=>b.onclick=()=>open(b.dataset.designOpen,b));}
  async function build(){
