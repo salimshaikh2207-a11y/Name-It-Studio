@@ -51,7 +51,7 @@
    ...(!custom?['Product subtotal: '+money(selected.price*quantity)]:[]),
    'Personalisation: '+($('catalogue-text').value.trim()||'Please help me finalise the design.'),
    'Additional details: '+($('catalogue-notes').value.trim()||'None'),
-   'Delivery: within 3–5 working days from order confirmation. Payment: 10% after design finalisation, remaining 90% on delivery.',
+   'Delivery: within 3–5 working days from order confirmation. Payment: 30% after design finalisation, remaining 70% on delivery.',
    'Please prepare 4 artwork options based on these details so I can choose the direction I prefer. Please confirm the final artwork, total payable and order details. I will attach any photo, logo or QR code in this chat.'];
   const url='https://wa.me/919082405720?text='+encodeURIComponent(brief.join('\n\n'));
   const link=$('catalogue-whatsapp');link.href=url;$('catalogue-ready').hidden=false;
