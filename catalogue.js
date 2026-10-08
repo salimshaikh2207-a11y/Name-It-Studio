@@ -23,7 +23,7 @@
   else $('catalogue-preview').removeAttribute('src');
   const custom=$('catalogue-size-option').value==='custom';
   $('catalogue-custom-wrap').hidden=!custom;$('catalogue-custom-size').required=custom;
-  $('catalogue-price-detail').textContent=custom?'Custom size: price confirmed by quotation.':money(selected.price)+' offer · Regular '+money(selected.regular)+' · Save ₹100';
+  $('catalogue-price-detail').textContent=custom?'Custom size: price confirmed by quotation.':money(selected.price)+' · '+money(selected.pricePerSqIn)+' / sq in';
   $('catalogue-text-label').textContent='Personalisation — '+selected.personal;
   $('catalogue-ready').hidden=true;
  }
@@ -47,7 +47,7 @@
   const brief=['Hello Name It Studio, I would like to enquire about '+selected.name+' (NIS-'+selected.id+').',
    'Size: '+(custom?$('catalogue-custom-size').value.trim()+' — custom quote requested':selected.size),
    'Lighting: '+selected.lighting,'Quantity: '+quantity,
-   custom?'Price: please quote this custom size with the limited-time ₹100 discount.':'Offer price per item: '+money(selected.price)+' (regular '+money(selected.regular)+', ₹100 off).',
+   custom?'Price: please quote this custom size using the current material and lighting rate.':'Price per item: '+money(selected.price)+' ('+money(selected.pricePerSqIn)+'/sq in).',
    ...(!custom?['Product subtotal: '+money(selected.price*quantity)]:[]),
    'Personalisation: '+($('catalogue-text').value.trim()||'Please help me finalise the design.'),
    'Additional details: '+($('catalogue-notes').value.trim()||'None'),
