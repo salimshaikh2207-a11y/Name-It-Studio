@@ -196,3 +196,21 @@ function renderBestsellers(products){
   yours.insertAdjacentElement('afterend',meaning);
 }
 fetch('/catalogue/products.json?v=20261008-prices',{cache:'no-store'}).then(r=>r.ok?r.json():[]).then(renderBestsellers).catch(()=>renderBestsellers([]));
+
+
+/* Homepage featured cards use the same rate source as catalogue and product pages. */
+(function syncStorefrontRates(){
+  const cards=[...document.querySelectorAll('.storefront-card[data-design-id]')];
+  if(!cards.length)return;
+  fetch('/catalogue/designs.json?v=20261008-featured-prices',{cache:'no-store'})
+    .then(r=>{if(!r.ok)throw Error('Unable to load catalogue rates');return r.json();})
+    .then(designs=>{
+      const rates=new Map(designs.map(d=>[d.id,Number(d.pricePerSqIn)]));
+      for(const card of cards){
+        const rate=rates.get(card.dataset.designId);
+        const label=card.querySelector('.storefront-card-meta span:last-child');
+        if(label&&Number.isFinite(rate)&&rate>0)label.textContent='₹'+rate+' / sq in';
+      }
+    })
+    .catch(()=>{/* Correct static prices remain visible if data is unavailable. */});
+})();
