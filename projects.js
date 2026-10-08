@@ -85,8 +85,8 @@
     el('project-category').focus({preventScroll: true});
   }));
   function brief() {
-    return 'Hello Name It Studio, I would like a quote for a custom project with your limited-time ₹100 discount.\n\n' + rows().map(([k,v]) => `${k}: ${v}`).join('\n')
-      + '\n\nPlease confirm the final artwork, material, dimensions, lighting, manufacturing feasibility, price before production. Delivery within 3–5 working days from order confirmation. Payment: 10% after design finalisation, remaining 90% on delivery.';
+    return 'Hello Name It Studio, I would like a quote for a custom project at your current material and LED square-inch rate.\n\n' + rows().map(([k,v]) => `${k}: ${v}`).join('\n')
+      + '\n\nPlease confirm the final artwork, material, dimensions, lighting, manufacturing feasibility, price before production. Delivery within 3–5 working days from order confirmation. Payment: 30% after design finalisation, remaining 70% on delivery.';
   }
   el('project-form').noValidate = true;
   el('project-form').addEventListener('submit', event => {
