@@ -6,7 +6,7 @@ const grid=root.querySelector('[data-material-grid]');
 const count=root.querySelector('[data-material-count]');
 const money=n=>'₹'+Number(n).toLocaleString('en-IN');
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-fetch('/catalogue/designs.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(data=>{
+fetch('/catalogue/designs.json?v=20261008-prices',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(data=>{
  const items=data.filter(d=>d.category===material);
  if(count)count.textContent=items.length+' selected '+material.toLowerCase()+' designs';
  grid.innerHTML=items.map(d=>{
