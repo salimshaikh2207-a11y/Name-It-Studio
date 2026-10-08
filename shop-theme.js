@@ -54,7 +54,7 @@ function setupVisitorLeadForm(){
  const material=document.getElementById('lead-material'),design=document.getElementById('lead-design'),width=document.getElementById('lead-width'),height=document.getElementById('lead-height'),estimate=document.getElementById('lead-price-estimate');
  let catalogue=[],started=false,lastEstimateKey='';
  const money=n=>'₹'+Number(n).toLocaleString('en-IN');
- const load=fetch('/catalogue/designs.json').then(r=>r.ok?r.json():[]).then(d=>catalogue=d).catch(()=>[]);
+ const load=fetch('/catalogue/designs.json?v=20261008-prices',{cache:'no-store'}).then(r=>r.ok?r.json():[]).then(d=>catalogue=d).catch(()=>[]);
  function selectedDesign(){return catalogue.find(d=>d.id===design?.value);}
  function populateDesigns(){
   if(!design)return;
