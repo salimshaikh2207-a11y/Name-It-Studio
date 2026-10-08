@@ -3,7 +3,7 @@
  const $=id=>document.getElementById(id), cards=[...document.querySelectorAll('.catalogue-card')];
  let products=null, selected=null, opener=null;
  const money=n=>'₹'+n.toLocaleString('en-IN');
- const request=fetch('/catalogue/products.json').then(r=>{if(!r.ok)throw Error('catalogue');return r.json();}).then(p=>products=p);
+ const request=fetch('/catalogue/products.json?v=20261008-prices',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('catalogue');return r.json();}).then(p=>products=p);
  request.catch(()=>{});
  function filter(){
   const q=$('catalogue-search').value.trim().toLowerCase(),cat=$('catalogue-category').value,lit=$('catalogue-light').value;
