@@ -5,12 +5,14 @@
     "description": "A sun-inspired golden mirror-acrylic ring border frames raised black lettering on a circular acrylic plate.",
     "size": "10-inch diameter",
     "lighting": "No LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 1000,
+    "price": 1000,
     "category": "Nameplates",
     "image": "/assets/catalogue/01.png",
     "reference": "",
-    "personal": "Name and house number"
+    "personal": "Name and house number",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "02",
@@ -18,12 +20,14 @@
     "description": "A transparent acrylic base with a golden border, green botanical accents and raised black lettering.",
     "size": "10-inch diameter",
     "lighting": "No LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 1000,
+    "price": 1000,
     "category": "Nameplates",
     "image": "/assets/catalogue/02.png",
     "reference": "",
-    "personal": "Name and house number"
+    "personal": "Name and house number",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "03",
@@ -31,12 +35,14 @@
     "description": "An engraved clear-acrylic mandala border follows a sculpted outline around a white charcoal centre, with raised golden letters.",
     "size": "12 inches overall",
     "lighting": "Warm-white LED",
-    "regular": 2100,
-    "price": 2000,
+    "regular": 2592,
+    "price": 2592,
     "category": "Nameplates",
     "image": "/assets/catalogue/03.png",
     "reference": "",
-    "personal": "Name and house number"
+    "personal": "Name and house number",
+    "pricePerSqIn": 18,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "04",
@@ -44,12 +50,14 @@
     "description": "White acrylic base; black fort silhouette; orange accents; raised gold lettering",
     "size": "12-inch diameter",
     "lighting": "Warm-yellow LED",
-    "regular": 1500,
-    "price": 1400,
+    "regular": 1728,
+    "price": 1728,
     "category": "Nameplates",
     "image": "/assets/catalogue/04.png",
     "reference": "",
-    "personal": "Name and house number"
+    "personal": "Name and house number",
+    "pricePerSqIn": 12,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "05",
@@ -57,12 +65,14 @@
     "description": "White acrylic front; golden mirror backing; debossed text",
     "size": "8 × 15 inches",
     "lighting": "No LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 1200,
+    "price": 1200,
     "category": "Nameplates",
     "image": "/assets/catalogue/05.png",
     "reference": "",
-    "personal": "Name and house number"
+    "personal": "Name and house number",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "06",
@@ -70,12 +80,14 @@
     "description": "Black acrylic front; golden mirror backing; debossed text",
     "size": "8 × 15 inches",
     "lighting": "No LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 1200,
+    "price": 1200,
     "category": "Nameplates",
     "image": "/assets/catalogue/06.png",
     "reference": "",
-    "personal": "Name and house number"
+    "personal": "Name and house number",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "07",
@@ -83,12 +95,14 @@
     "description": "Black acrylic; golden mirror backing; debossed text; rooftop contour",
     "size": "8 × 15 inches overall",
     "lighting": "No LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 1200,
+    "price": 1200,
     "category": "Nameplates",
     "image": "/assets/catalogue/07.png",
     "reference": "",
-    "personal": "Name and house number"
+    "personal": "Name and house number",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "08",
@@ -96,12 +110,14 @@
     "description": "Black acrylic Buddha and Tree of Life silhouette",
     "size": "40 × 40 cm",
     "lighting": "No LED",
-    "regular": 1500,
-    "price": 1400,
+    "regular": 2480,
+    "price": 2480,
     "category": "Wall décor",
     "image": "/assets/catalogue/08.png",
     "reference": "",
-    "personal": "Optional special request"
+    "personal": "Optional special request",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "09",
@@ -109,12 +125,14 @@
     "description": "Layered acrylic LED nameplate with Ganesh art, personalised family name and house number.",
     "size": "12-inch diameter",
     "lighting": "LED",
-    "regular": 1500,
-    "price": 1400,
+    "regular": 1728,
+    "price": 1728,
     "category": "Nameplates",
     "image": "/assets/catalogue/reference-09.jpg",
     "reference": "",
-    "personal": "Text, language, plate colour and letter finish."
+    "personal": "Text, language, plate colour and letter finish.",
+    "pricePerSqIn": 12,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "10",
@@ -122,12 +140,14 @@
     "description": "Engraved clear-acrylic desk panel illuminated from an LED base.",
     "size": "7 × 12 inches",
     "lighting": "LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 1008,
+    "price": 1008,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-10.jpg",
     "reference": "",
-    "personal": "Name, designation and business logo."
+    "personal": "Name, designation and business logo.",
+    "pricePerSqIn": 12,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "11",
@@ -135,12 +155,14 @@
     "description": "Acrylic desk light with a medical motif and personalised doctor name.",
     "size": "7 × 12 inches",
     "lighting": "LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 1008,
+    "price": 1008,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-11.jpg",
     "reference": "",
-    "personal": "Name, qualification and clinic name."
+    "personal": "Name, qualification and clinic name.",
+    "pricePerSqIn": 12,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "13",
@@ -148,12 +170,14 @@
     "description": "Heart-shaped acrylic photo lamp for anniversaries and weddings.",
     "size": "10 × 8 inches",
     "lighting": "LED",
-    "regular": 1500,
-    "price": 1400,
+    "regular": 960,
+    "price": 960,
     "category": "Gifts & kids",
     "image": "/assets/catalogue/reference-13.jpg",
     "reference": "",
-    "personal": "Photo or engraved portrait, names and short dedication."
+    "personal": "Photo or engraved portrait, names and short dedication.",
+    "pricePerSqIn": 12,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "14",
@@ -161,12 +185,14 @@
     "description": "Acrylic night light featuring a child's name with original star, cloud or rainbow artwork.",
     "size": "7 × 7 inches",
     "lighting": "LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 588,
+    "price": 588,
     "category": "Gifts & kids",
     "image": "/assets/catalogue/reference-14.jpg",
     "reference": "",
-    "personal": "Name, motif and colour theme."
+    "personal": "Name, motif and colour theme.",
+    "pricePerSqIn": 12,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "15",
@@ -174,12 +200,14 @@
     "description": "Backlit acrylic logo sign for salons, cafés, studios and receptions.",
     "size": "15 inches",
     "lighting": "LED",
-    "regular": 1900,
-    "price": 1800,
+    "regular": 2700,
+    "price": 2700,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-15.jpg",
     "reference": "",
-    "personal": "Customer logo, brand colours, shape and dimensions."
+    "personal": "Customer logo, brand colours, shape and dimensions.",
+    "pricePerSqIn": 12,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "16",
@@ -187,12 +215,14 @@
     "description": "Layered black and golden mirror-acrylic nameplate with a peacock-inspired motif.",
     "size": "8 × 12 inches",
     "lighting": "No LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 960,
+    "price": 960,
     "category": "Nameplates",
     "image": "/assets/catalogue/reference-16.jpg",
     "reference": "",
-    "personal": "Family name, house number and colour combination."
+    "personal": "Family name, house number and colour combination.",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "17",
@@ -200,12 +230,14 @@
     "description": "Layered acrylic name sign with a crown motif for a child's bedroom door.",
     "size": "5 × 8 inches",
     "lighting": "No LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 400,
+    "price": 400,
     "category": "Gifts & kids",
     "image": "/assets/catalogue/reference-17.jpg",
     "reference": "",
-    "personal": "Child's name and acrylic colours."
+    "personal": "Child's name and acrylic colours.",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "18",
@@ -213,12 +245,14 @@
     "description": "Acrylic countertop stand displaying a business logo and scannable QR code.",
     "size": "8 × 5 inches",
     "lighting": "No LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 400,
+    "price": 400,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-18.jpg",
     "reference": "",
-    "personal": "Customer-provided payment, menu, website or social link; scan test before production."
+    "personal": "Customer-provided payment, menu, website or social link; scan test before production.",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "19",
@@ -226,12 +260,14 @@
     "description": "Mirror-acrylic Bismillah calligraphy for entrances and living spaces.",
     "size": "65 × 15 cm (approximately 25.6 × 5.9 inches)",
     "lighting": "No LED",
-    "regular": 1500,
-    "price": 1400,
+    "regular": 1511,
+    "price": 1511,
     "category": "Wall décor",
     "image": "/assets/catalogue/reference-19.png",
     "reference": "",
-    "personal": "Gold or silver finish and size; lettering proof reviewed before cutting."
+    "personal": "Gold or silver finish and size; lettering proof reviewed before cutting.",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "20",
@@ -239,12 +275,14 @@
     "description": "Decorative acrylic peacock silhouette with an original flowing-feather design.",
     "size": "12 × 18 inches",
     "lighting": "No LED",
-    "regular": 1500,
-    "price": 1400,
+    "regular": 2160,
+    "price": 2160,
     "category": "Wall décor",
     "image": "/assets/catalogue/reference-20.jpg",
     "reference": "",
-    "personal": "Size and acrylic finish."
+    "personal": "Size and acrylic finish.",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   },
   {
     "id": "22",
@@ -252,11 +290,13 @@
     "description": "Acrylic desk nameplate on a stand for professional workspaces.",
     "size": "8 × 8 inches",
     "lighting": "No LED",
-    "regular": 999,
-    "price": 899,
+    "regular": 640,
+    "price": 640,
     "category": "Desk & business",
     "image": "/assets/catalogue/reference-22.jpg",
     "reference": "",
-    "personal": "Name, designation, logo and finish."
+    "personal": "Name, designation, logo and finish.",
+    "pricePerSqIn": 10,
+    "pricingBasis": "Width × height in inches; round/irregular items use overall bounding dimensions"
   }
 ]
