@@ -16,10 +16,10 @@ const DEFAULT={material:'embossed',shape:'Rectangle',design:'botanical',designCo
 const MEANINGFUL_DESIGNS={
  'GAN-01':{material:'embossed',design:'panel'},'GAN-02':{material:'embossed',design:'botanical'},'GAN-03':{material:'cast',design:'classic'},
  'SHV-01':{material:'cast',design:'classic'},'SHV-02':{material:'embossed',design:'luxe'},'SHV-03':{material:'charcoal',design:'mandala'},
- 'KRS-01':{material:'embossed',design:'botanical'},'KRS-02':{material:'glass',design:'panel'},'KRS-03':{material:'embossed',design:'luxe'},
- 'RAM-01':{material:'charcoal',design:'mandala'},'RAM-02':{material:'embossed',design:'panel'},'RAM-03':{material:'cast',design:'classic'},
- 'OM-01':{material:'glass',design:'panel'},'OM-02':{material:'cast',design:'classic'},'OM-03':{material:'embossed',design:'luxe'},
- 'AMB-01':{material:'charcoal',design:'panel'},'AMB-02':{material:'charcoal',design:'classic'},'AMB-03':{material:'charcoal',design:'mandala'}
+ 'KRS-01':{material:'embossed',design:'botanical'},'KRS-02':{material:'glass',design:'panel'},
+ 'RAM-02':{material:'embossed',design:'panel'},'RAM-03':{material:'cast',design:'classic'},
+ 'OM-01':{material:'glass',design:'panel'},'OM-03':{material:'embossed',design:'luxe'},
+ 'AMB-02':{material:'charcoal',design:'classic'},'AMB-03':{material:'charcoal',design:'mandala'}
 };
 let state={...DEFAULT},step='style';
 const isEngraved=()=>['cast','charcoal'].includes(state.material);
@@ -188,9 +188,9 @@ function renderBestsellers(products){
    {slug:'ganesha',name:'Ganesha',copy:'Auspicious beginnings, beautifully made.',image:'/assets/designs/devotional-d37.webp',code:'GAN-01'},
    {slug:'mahadev',name:'Mahadev',copy:'Strength, stillness and devotion.',image:'/assets/designs/devotional-d39.webp',code:'SHV-01'},
    {slug:'krishna-radha-krishna',name:'Krishna & Radha Krishna',copy:'Love, grace and joyful colour.',image:'/assets/designs/devotional-d42.webp',code:'KRS-01'},
-   {slug:'shree-ram-hanuman',name:'Shree Ram & Hanuman',copy:'Courage, faith and a welcoming home.',image:'/assets/designs/devotional-d45.webp',code:'RAM-01'},
+   {slug:'shree-ram-hanuman',name:'Shree Ram & Hanuman',copy:'Courage, faith and a welcoming home.',image:'/assets/designs/devotional-d46.webp',code:'RAM-02'},
    {slug:'om-spiritual',name:'Om & Spiritual',copy:'A calmer corner for everyday rituals.',image:'/assets/designs/devotional-d48.webp',code:'OM-01'},
-   {slug:'ambedkar',name:'Dr. B. R. Ambedkar Collection',copy:'A distinct cultural collection honouring equality and progress.',image:'/assets/designs/ambedkar-d57.jpg',code:'AMB-01'}
+   {slug:'ambedkar',name:'Dr. B. R. Ambedkar Collection',copy:'A distinct cultural collection honouring equality and progress.',image:'/assets/designs/ambedkar-d58.webp',code:'AMB-02'}
   ];
   meaning.innerHTML='<div class="meaning-heading"><div><p class="eyebrow">DESIGNS WITH MEANING</p><h2 id="meaning-title">A nameplate that reflects what you believe in.</h2></div><p>Explore thoughtful Name It Studio designs inspired by faith, heritage and the ideas that shape your home.</p></div><div class="meaning-grid">'+collections.map(c=>'<a class="meaning-card" href="/collections/'+c.slug+'/" aria-label="Explore '+c.name+' collection"><img src="'+c.image+'" alt="'+c.name+' collection design" loading="lazy"><div><p class="meaning-code">'+c.code+' COLLECTION</p><h3>'+c.name+'</h3><p>'+c.copy+'</p><span>Explore collection <b aria-hidden="true">↗</b></span></div></a>').join('')+'</div><div class="meaning-footer"><a class="button primary" href="/catalogue/#designs">Explore All Designs ↗</a><a class="meaning-whatsapp" href="https://wa.me/919082405720?text=Hi%20Name%20It%20Studio%2C%20I%20would%20like%20to%20discuss%20a%20meaningful%20custom%20nameplate%20idea." target="_blank" rel="noopener noreferrer">Discuss Your Idea on WhatsApp ↗</a></div>';
   yours.insertAdjacentElement('afterend',meaning);
