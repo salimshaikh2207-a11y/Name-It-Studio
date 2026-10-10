@@ -1198,9 +1198,9 @@
   },
   {
     "id": "N64",
-    "name": "Chaudhary Ganesh Woodgrain LED",
+    "name": "Chaudhary Shiv Woodgrain LED",
     "category": "Acrylic",
-    "description": "Acrylic design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "description": "Shiv-themed acrylic nameplate with a woodgrain finish and LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
     "images": [
       {
         "src": "/assets/latest/n64.jpg",
@@ -1208,12 +1208,12 @@
         "height": 1200
       }
     ],
-    "collection": "Nameplates",
+    "collection": "Devotional décor",
     "pricePerSqIn": 12,
     "productionNotes": "Acrylic · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/chaudhary-ganesh-woodgrain-led/"
+    "productUrl": "/products/chaudhary-shiv-woodgrain-led/"
   },
   {
     "id": "N65",
@@ -1445,9 +1445,9 @@
   },
   {
     "id": "N77",
-    "name": "Chaudhary Ganesh Woodgrain",
+    "name": "Chaudhary Shiv Woodgrain",
     "category": "Acrylic",
-    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "description": "Shiv-themed acrylic nameplate with a woodgrain finish without LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
     "images": [
       {
         "src": "/assets/latest/n77.webp",
@@ -1455,12 +1455,12 @@
         "height": 1200
       }
     ],
-    "collection": "Nameplates",
+    "collection": "Devotional décor",
     "pricePerSqIn": 10,
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/chaudhary-ganesh-woodgrain/"
+    "productUrl": "/products/chaudhary-shiv-woodgrain/"
   },
   {
     "id": "N78",
