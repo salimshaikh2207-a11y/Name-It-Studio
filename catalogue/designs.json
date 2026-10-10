@@ -1,5 +1,1487 @@
 [
   {
+    "id": "N01",
+    "name": "Shashi Ganesh Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n01.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/shashi-ganesh-halo-led/"
+  },
+  {
+    "id": "N02",
+    "name": "Kedar Seahorse Frame LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n02.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/kedar-seahorse-frame-led/"
+  },
+  {
+    "id": "N03",
+    "name": "Thakkar Ornate Circle LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n03.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/thakkar-ornate-circle-led/"
+  },
+  {
+    "id": "N04",
+    "name": "Jadhav Sunburst Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n04.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/jadhav-sunburst-halo-led/"
+  },
+  {
+    "id": "N05",
+    "name": "Sayyed Lace Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n05.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/sayyed-lace-halo-led/"
+  },
+  {
+    "id": "N06",
+    "name": "Fort Heritage Frame LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n06.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/fort-heritage-frame-led/"
+  },
+  {
+    "id": "N07",
+    "name": "Mannat Floral Frame LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n07.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/mannat-floral-frame-led/"
+  },
+  {
+    "id": "N08",
+    "name": "Tamhane Mandala Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n08.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/tamhane-mandala-halo-led/"
+  },
+  {
+    "id": "N09",
+    "name": "Buddha Heritage Frame LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n09.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/buddha-heritage-frame-led/"
+  },
+  {
+    "id": "N10",
+    "name": "Rane Royal Capsule LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n10.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/rane-royal-capsule-led/"
+  },
+  {
+    "id": "N11",
+    "name": "Jadhav Blue Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n11.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/jadhav-blue-halo-led/"
+  },
+  {
+    "id": "N12",
+    "name": "Jain Ripple Oval LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n12.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/jain-ripple-oval-led/"
+  },
+  {
+    "id": "N13",
+    "name": "Makwana Floral Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n13.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/makwana-floral-halo-led/"
+  },
+  {
+    "id": "N14",
+    "name": "Ram Fort Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n14.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/ram-fort-halo-led/"
+  },
+  {
+    "id": "N15",
+    "name": "Shubham Heritage Frame LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n15.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/shubham-heritage-frame-led/"
+  },
+  {
+    "id": "N16",
+    "name": "Purusottam Royal Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n16.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/purusottam-royal-halo-led/"
+  },
+  {
+    "id": "N17",
+    "name": "Patil Tree of Life LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n17.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/patil-tree-of-life-led/"
+  },
+  {
+    "id": "N18",
+    "name": "Patil Ganesh Capsule LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n18.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/patil-ganesh-capsule-led/"
+  },
+  {
+    "id": "N19",
+    "name": "Gavhankar Ripple Crest LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n19.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/gavhankar-ripple-crest-led/"
+  },
+  {
+    "id": "N20",
+    "name": "Ulghade Royal Capsule LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n20.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/ulghade-royal-capsule-led/"
+  },
+  {
+    "id": "N21",
+    "name": "Lakshmi Rectangular Glow",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n21.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/lakshmi-rectangular-glow/"
+  },
+  {
+    "id": "N22",
+    "name": "Tipoo Mandala Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n22.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/tipoo-mandala-halo-led/"
+  },
+  {
+    "id": "N23",
+    "name": "Masurkar Krishna Halo LED",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n23.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/masurkar-krishna-halo-led/"
+  },
+  {
+    "id": "N24",
+    "name": "Shashi Ivory Circle",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n24.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 16,
+    "productionNotes": "Charcoal wood with engraved design · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/shashi-ivory-circle/"
+  },
+  {
+    "id": "N25",
+    "name": "Mehta Sculpted Frame",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n25.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 16,
+    "productionNotes": "Charcoal wood with engraved design · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/mehta-sculpted-frame/"
+  },
+  {
+    "id": "N26",
+    "name": "Shah Rose Frame",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n26.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 16,
+    "productionNotes": "Charcoal wood with engraved design · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/shah-rose-frame/"
+  },
+  {
+    "id": "N27",
+    "name": "Savant Silver Circle",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n27.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 16,
+    "productionNotes": "Charcoal wood with engraved design · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/savant-silver-circle/"
+  },
+  {
+    "id": "N28",
+    "name": "Ganesh Family Gold Circle",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n28.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 16,
+    "productionNotes": "Charcoal wood with engraved design · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/ganesh-family-gold-circle/"
+  },
+  {
+    "id": "N29",
+    "name": "Savant Gold Oval",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n29.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 16,
+    "productionNotes": "Charcoal wood with engraved design · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/savant-gold-oval/"
+  },
+  {
+    "id": "N30",
+    "name": "Khaji Ripple Crest",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n30.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 16,
+    "productionNotes": "Charcoal wood with engraved design · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/khaji-ripple-crest/"
+  },
+  {
+    "id": "N31",
+    "name": "Sawant Ivory Frame",
+    "category": "Engraved Mandala",
+    "description": "Charcoal wood with engraved design design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n31.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 16,
+    "productionNotes": "Charcoal wood with engraved design · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/sawant-ivory-frame/"
+  },
+  {
+    "id": "N32",
+    "name": "Sai Leela Laurel Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n32.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/sai-leela-laurel-glass-led/"
+  },
+  {
+    "id": "N33",
+    "name": "Rajlaxmi Ganesh Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n33.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/rajlaxmi-ganesh-glass-led/"
+  },
+  {
+    "id": "N34",
+    "name": "Agarwal Floral Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n34.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/agarwal-floral-glass-led/"
+  },
+  {
+    "id": "N35",
+    "name": "Lucky Towing Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n35.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Business signs",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/lucky-towing-glass-led/"
+  },
+  {
+    "id": "N36",
+    "name": "Mokal Capsule Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n36.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/mokal-capsule-glass-led/"
+  },
+  {
+    "id": "N37",
+    "name": "Kunal Gold Corner Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n37.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/kunal-gold-corner-glass-led/"
+  },
+  {
+    "id": "N38",
+    "name": "Navade Heritage Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n38.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/navade-heritage-glass-led/"
+  },
+  {
+    "id": "N39",
+    "name": "Shinde Lattice Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n39.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/shinde-lattice-glass-led/"
+  },
+  {
+    "id": "N40",
+    "name": "Patel Twin Frame Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n40.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/patel-twin-frame-glass-led/"
+  },
+  {
+    "id": "N41",
+    "name": "Shelar Heritage Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n41.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/shelar-heritage-glass-led/"
+  },
+  {
+    "id": "N42",
+    "name": "Sarode Om Flute Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n42.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/sarode-om-flute-glass-led/"
+  },
+  {
+    "id": "N43",
+    "name": "Pinjari Gold Circle Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n43.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/pinjari-gold-circle-glass-led/"
+  },
+  {
+    "id": "N44",
+    "name": "Gavhane Family Circle Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n44.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/gavhane-family-circle-glass-led/"
+  },
+  {
+    "id": "N45",
+    "name": "Madinah Ripple Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n45.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/madinah-ripple-glass-led/"
+  },
+  {
+    "id": "N46",
+    "name": "Mohammad Ali Glass Desk LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n46.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/mohammad-ali-glass-desk-led/"
+  },
+  {
+    "id": "N47",
+    "name": "Sacred Dome Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n47.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/sacred-dome-glass-led/"
+  },
+  {
+    "id": "N48",
+    "name": "Masurkar Krishna Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n48.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/masurkar-krishna-glass-led/"
+  },
+  {
+    "id": "N49",
+    "name": "Royal Guardian Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n49.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/royal-guardian-glass-led/"
+  },
+  {
+    "id": "N50",
+    "name": "Zakir Ornate Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n50.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/zakir-ornate-glass-led/"
+  },
+  {
+    "id": "N51",
+    "name": "Fadke Blue Circle Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n51.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/fadke-blue-circle-glass-led/"
+  },
+  {
+    "id": "N52",
+    "name": "Khusshi Business Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n52.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Business signs",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/khusshi-business-glass-led/"
+  },
+  {
+    "id": "N53",
+    "name": "Patil Ganesh Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n53.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/patil-ganesh-glass-led/"
+  },
+  {
+    "id": "N54",
+    "name": "Ganesh Blessings Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n54.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/ganesh-blessings-glass-led/"
+  },
+  {
+    "id": "N55",
+    "name": "Gharde Floral Glass LED",
+    "category": "Glass",
+    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n55.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/gharde-floral-glass-led/"
+  },
+  {
+    "id": "N56",
+    "name": "Oaha Gold Glass Frame",
+    "category": "Glass",
+    "description": "Glass design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n56.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Glass · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/oaha-gold-glass-frame/"
+  },
+  {
+    "id": "N57",
+    "name": "Sarode Om Flute Glass",
+    "category": "Glass",
+    "description": "Glass design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n57.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Glass · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/sarode-om-flute-glass/"
+  },
+  {
+    "id": "N58",
+    "name": "Fort Heritage Glass Circle",
+    "category": "Glass",
+    "description": "Glass design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n58.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Glass · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/fort-heritage-glass-circle/"
+  },
+  {
+    "id": "N59",
+    "name": "Patil Ganesh Glass",
+    "category": "Glass",
+    "description": "Glass design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n59.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Glass · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/patil-ganesh-glass/"
+  },
+  {
+    "id": "N60",
+    "name": "Mokal Glass Desk",
+    "category": "Glass",
+    "description": "Glass design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n60.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Glass · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/mokal-glass-desk/"
+  },
+  {
+    "id": "N61",
+    "name": "Gokhale Buddha Glass Frame",
+    "category": "Glass",
+    "description": "Glass design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n61.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Glass · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/gokhale-buddha-glass-frame/"
+  },
+  {
+    "id": "N62",
+    "name": "Abid Family Halo LED",
+    "category": "Acrylic",
+    "description": "Acrylic design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n62.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Acrylic · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/abid-family-halo-led/"
+  },
+  {
+    "id": "N63",
+    "name": "Ahaana Floating Script LED",
+    "category": "Acrylic",
+    "description": "Acrylic design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n63.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Acrylic · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/ahaana-floating-script-led/"
+  },
+  {
+    "id": "N64",
+    "name": "Chaudhary Ganesh Woodgrain LED",
+    "category": "Acrylic",
+    "description": "Acrylic design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n64.jpg",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Acrylic · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/chaudhary-ganesh-woodgrain-led/"
+  },
+  {
+    "id": "N65",
+    "name": "Tahiliani Silver Classic",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n65.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/tahiliani-silver-classic/"
+  },
+  {
+    "id": "N66",
+    "name": "Golden Calligraphy Panel",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n66.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/golden-calligraphy-panel/"
+  },
+  {
+    "id": "N67",
+    "name": "Desai Bold Classic",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n67.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/desai-bold-classic/"
+  },
+  {
+    "id": "N68",
+    "name": "Shinde Copper Lattice",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n68.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/shinde-copper-lattice/"
+  },
+  {
+    "id": "N69",
+    "name": "Pingale Split Circle",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n69.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/pingale-split-circle/"
+  },
+  {
+    "id": "N70",
+    "name": "Fort Heritage Acrylic Circle",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n70.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/fort-heritage-acrylic-circle/"
+  },
+  {
+    "id": "N71",
+    "name": "Nunde Rose Frame",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n71.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/nunde-rose-frame/"
+  },
+  {
+    "id": "N72",
+    "name": "Nunde Silver Frame",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n72.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/nunde-silver-frame/"
+  },
+  {
+    "id": "N73",
+    "name": "Arha Om Garden Circle",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n73.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/arha-om-garden-circle/"
+  },
+  {
+    "id": "N74",
+    "name": "Gaikwad Fort Frame",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n74.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/gaikwad-fort-frame/"
+  },
+  {
+    "id": "N75",
+    "name": "Sadhana Ganesh Gold Frame",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n75.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/sadhana-ganesh-gold-frame/"
+  },
+  {
+    "id": "N76",
+    "name": "Thorat Floral Oval",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n76.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/thorat-floral-oval/"
+  },
+  {
+    "id": "N77",
+    "name": "Chaudhary Ganesh Woodgrain",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n77.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/chaudhary-ganesh-woodgrain/"
+  },
+  {
+    "id": "N78",
+    "name": "Jamdale Peacock Script",
+    "category": "Acrylic",
+    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "images": [
+      {
+        "src": "/assets/latest/n78.jpg",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 10,
+    "productionNotes": "Acrylic · Without LED",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/jamdale-peacock-script/"
+  },
+  {
     "id": "D01",
     "name": "Sanskriti Oval",
     "category": "Acrylic",
