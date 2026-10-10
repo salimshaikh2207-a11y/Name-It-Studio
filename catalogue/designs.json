@@ -13,7 +13,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "Black acrylic plate with golden acrylic letters"
+    "productionNotes": "Black acrylic plate with golden acrylic letters",
+    "productUrl": "/products/sanskriti-oval/"
   },
   {
     "id": "D03",
@@ -29,7 +30,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "White acrylic plate with golden acrylic letters"
+    "productionNotes": "White acrylic plate with golden acrylic letters",
+    "productUrl": "/products/surya-family/"
   },
   {
     "id": "D04",
@@ -45,7 +47,8 @@
     ],
     "collection": "Business signs",
     "pricePerSqIn": 12,
-    "productionNotes": "White glass plate with golden acrylic letters"
+    "productionNotes": "White glass plate with golden acrylic letters",
+    "productUrl": "/products/aura-studio/"
   },
   {
     "id": "D05",
@@ -61,7 +64,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "acrylic letters and golden diamond backdrop with LED"
+    "productionNotes": "acrylic letters and golden diamond backdrop with LED",
+    "productUrl": "/products/ganesh-grace/"
   },
   {
     "id": "D06",
@@ -77,7 +81,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "Golden diamond backdrop with LED"
+    "productionNotes": "Golden diamond backdrop with LED",
+    "productUrl": "/products/ganesh-heritage/"
   },
   {
     "id": "D07",
@@ -93,7 +98,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "acrylic letters with LED"
+    "productionNotes": "acrylic letters with LED",
+    "productUrl": "/products/golden-lattice/"
   },
   {
     "id": "D08",
@@ -109,7 +115,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 16,
-    "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters without LED"
+    "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters without LED",
+    "productUrl": "/products/peacock-mandala/"
   },
   {
     "id": "D09",
@@ -125,7 +132,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with frosted letter with warm-yellow LED"
+    "productionNotes": "Black glass with frosted letter with warm-yellow LED",
+    "productUrl": "/products/noor-frame/"
   },
   {
     "id": "D10",
@@ -141,7 +149,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "Black acrylic plate with golden acrylic letters"
+    "productionNotes": "Black acrylic plate with golden acrylic letters",
+    "productUrl": "/products/al-falah-residence/"
   },
   {
     "id": "D11",
@@ -157,7 +166,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "Black acrylic plate with golden acrylic letters"
+    "productionNotes": "Black acrylic plate with golden acrylic letters",
+    "productUrl": "/products/royal-circle/"
   },
   {
     "id": "D12",
@@ -173,7 +183,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 16,
-    "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters without LED"
+    "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters without LED",
+    "productUrl": "/products/white-lotus/"
   },
   {
     "id": "D13",
@@ -189,7 +200,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "White acrylic plate with golden and wooden print acrylic letters"
+    "productionNotes": "White acrylic plate with golden and wooden print acrylic letters",
+    "productUrl": "/products/swarajya-sand/"
   },
   {
     "id": "D15",
@@ -205,7 +217,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 12,
-    "productionNotes": "White glass plate with golden and black acrylic letters"
+    "productionNotes": "White glass plate with golden and black acrylic letters",
+    "productUrl": "/products/swarajya-noir/"
   },
   {
     "id": "D16",
@@ -221,7 +234,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "White glass with golden letter and LED"
+    "productionNotes": "White glass with golden letter and LED",
+    "productUrl": "/products/noor-desktop-blue/"
   },
   {
     "id": "D17",
@@ -237,7 +251,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 18,
-    "productionNotes": "White charcoal plate with golden raised acrylic letters and LED"
+    "productionNotes": "White charcoal plate with golden raised acrylic letters and LED",
+    "productUrl": "/products/welcome-oval/"
   },
   {
     "id": "D18",
@@ -263,7 +278,8 @@
     ],
     "collection": "Business signs",
     "pricePerSqIn": 10,
-    "productionNotes": "Black acrylic plate with golden acrylic letters"
+    "productionNotes": "Black acrylic plate with golden acrylic letters",
+    "productUrl": "/products/monogram-studio/"
   },
   {
     "id": "D19",
@@ -284,7 +300,8 @@
     ],
     "collection": "Business signs",
     "pricePerSqIn": 12,
-    "productionNotes": "Black acrylic plate with golden acrylic letters with LED"
+    "productionNotes": "Black acrylic plate with golden acrylic letters with LED",
+    "productUrl": "/products/ornate-monogram/"
   },
   {
     "id": "D21",
@@ -300,7 +317,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with frosted letter with diamond backdrop and warm-yellow LED"
+    "productionNotes": "Black glass with frosted letter with diamond backdrop and warm-yellow LED",
+    "productUrl": "/products/sacred-silhouette/"
   },
   {
     "id": "D23",
@@ -316,7 +334,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "White glass with golden letter and LED"
+    "productionNotes": "White glass with golden letter and LED",
+    "productUrl": "/products/ivory-signature/"
   },
   {
     "id": "D24",
@@ -337,7 +356,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with golden acrylic letter and warm-yellow LED"
+    "productionNotes": "Black glass with golden acrylic letter and warm-yellow LED",
+    "productUrl": "/products/calligraphy-circle/"
   },
   {
     "id": "D25",
@@ -353,7 +373,8 @@
     ],
     "collection": "Business signs",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with golden acrylic letter and warm-yellow LED"
+    "productionNotes": "Black glass with golden acrylic letter and warm-yellow LED",
+    "productUrl": "/products/glam-studio/"
   },
   {
     "id": "D26",
@@ -369,7 +390,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with frosted letter and warm-yellow LED"
+    "productionNotes": "Black glass with frosted letter and warm-yellow LED",
+    "productUrl": "/products/buddha-residence/"
   },
   {
     "id": "D27",
@@ -385,7 +407,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 12,
-    "productionNotes": "White acrylic plate with golden letter and warm-yellow LED"
+    "productionNotes": "White acrylic plate with golden letter and warm-yellow LED",
+    "productUrl": "/products/floral-welcome/"
   },
   {
     "id": "D28",
@@ -401,7 +424,8 @@
     ],
     "collection": "Gifts",
     "pricePerSqIn": 18,
-    "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters with LED"
+    "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters with LED",
+    "productUrl": "/products/celebration-halo/"
   },
   {
     "id": "D29",
@@ -422,7 +446,8 @@
     ],
     "collection": "Business signs",
     "pricePerSqIn": 12,
-    "productionNotes": "White acrylic plate with black letter and warm-yellow LED"
+    "productionNotes": "White acrylic plate with black letter and warm-yellow LED",
+    "productUrl": "/products/pranali-circle/"
   },
   {
     "id": "D30",
@@ -438,7 +463,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 12,
-    "productionNotes": "Black acrylic plate with frosted letters and warm-yellow LED"
+    "productionNotes": "Black acrylic plate with frosted letters and warm-yellow LED",
+    "productUrl": "/products/noor-modern/"
   },
   {
     "id": "D31",
@@ -454,7 +480,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 12,
-    "productionNotes": "White acrylic plate with golden letter and warm-yellow LED"
+    "productionNotes": "White acrylic plate with golden letter and warm-yellow LED",
+    "productUrl": "/products/peacock-crest/"
   },
   {
     "id": "D32",
@@ -470,7 +497,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "Golden acrylic letter"
+    "productionNotes": "Golden acrylic letter",
+    "productUrl": "/products/sharma-brass/"
   },
   {
     "id": "D33",
@@ -486,7 +514,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "Black acrylic letter"
+    "productionNotes": "Black acrylic letter",
+    "productUrl": "/products/kapoor-script/"
   },
   {
     "id": "D34",
@@ -502,7 +531,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "Brown acrylic letter"
+    "productionNotes": "Brown acrylic letter",
+    "productUrl": "/products/khan-corten/"
   },
   {
     "id": "D37",
@@ -518,7 +548,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 12,
-    "productionNotes": "Black acrylic plate with golden letter and warm-yellow LED"
+    "productionNotes": "Black acrylic plate with golden letter and warm-yellow LED",
+    "productUrl": "/products/ganesh-aashirwad/"
   },
   {
     "id": "D38",
@@ -534,7 +565,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 10,
-    "productionNotes": "Engraved on a golden acrylic plate with a wooden sticker along with golden letter on top"
+    "productionNotes": "Engraved on a golden acrylic plate with a wooden sticker along with golden letter on top",
+    "productUrl": "/products/om-mandala/"
   },
   {
     "id": "D43",
@@ -550,7 +582,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 10,
-    "productionNotes": "textured White and golden acrylic plate with golden letters"
+    "productionNotes": "textured White and golden acrylic plate with golden letters",
+    "productUrl": "/products/lotus-om/"
   },
   {
     "id": "D44",
@@ -566,7 +599,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with frosted letter and warm-yellow LED"
+    "productionNotes": "Black glass with frosted letter and warm-yellow LED",
+    "productUrl": "/products/radha-krishna/"
   },
   {
     "id": "D45",
@@ -582,7 +616,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 12,
-    "productionNotes": "Textured black acrylic plate with golden letters and LED"
+    "productionNotes": "Textured black acrylic plate with golden letters and LED",
+    "productUrl": "/products/shree-mandala/"
   },
   {
     "id": "D49",
@@ -598,7 +633,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 12,
-    "productionNotes": "Textured white acrylic plate with golden letters and LED"
+    "productionNotes": "Textured white acrylic plate with golden letters and LED",
+    "productUrl": "/products/shree-ram/"
   },
   {
     "id": "D55",
@@ -614,7 +650,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 10,
-    "productionNotes": "acrylic wooden finish sticker plate with golden letters"
+    "productionNotes": "acrylic wooden finish sticker plate with golden letters",
+    "productUrl": "/products/shree-diya/"
   },
   {
     "id": "D57",
@@ -630,7 +667,8 @@
     ],
     "collection": "Ambedkar-inspired",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with frosted letters and warm-yellow LED"
+    "productionNotes": "Black glass with frosted letters and warm-yellow LED",
+    "productUrl": "/products/ashoka-chakra-legacy/"
   },
   {
     "id": "P04",
@@ -646,7 +684,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with the frosted letters with warm-yellow LED"
+    "productionNotes": "Black glass with the frosted letters with warm-yellow LED",
+    "productUrl": "/products/golden-landmark/"
   },
   {
     "id": "P05",
@@ -662,7 +701,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "White glass with golden acrylic letter and LED"
+    "productionNotes": "White glass with golden acrylic letter and LED",
+    "productUrl": "/products/allah-glow/"
   },
   {
     "id": "P08",
@@ -678,7 +718,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "Navy Blue acrylic plate with golden letters"
+    "productionNotes": "Navy Blue acrylic plate with golden letters",
+    "productUrl": "/products/zakaria-house/"
   },
   {
     "id": "P09",
@@ -694,7 +735,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "White acrylic plate with golden and black letters"
+    "productionNotes": "White acrylic plate with golden and black letters",
+    "productUrl": "/products/kausar-house/"
   },
   {
     "id": "P11",
@@ -710,7 +752,8 @@
     ],
     "collection": "Business signs",
     "pricePerSqIn": 10,
-    "productionNotes": "Black acrylic plate with golden letters"
+    "productionNotes": "Black acrylic plate with golden letters",
+    "productUrl": "/products/saniya-beauty/"
   },
   {
     "id": "P13",
@@ -726,7 +769,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with frosted letters diamond backdrop and LED"
+    "productionNotes": "Black glass with frosted letters diamond backdrop and LED",
+    "productUrl": "/products/chauhan-residence/"
   },
   {
     "id": "P14",
@@ -742,7 +786,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "Black acrylic plate with golden letters"
+    "productionNotes": "Black acrylic plate with golden letters",
+    "productUrl": "/products/royal-wreath/"
   },
   {
     "id": "P18",
@@ -758,7 +803,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "White glass with golden letter and LED"
+    "productionNotes": "White glass with golden letter and LED",
+    "productUrl": "/products/mashallah-family/"
   },
   {
     "id": "P21",
@@ -774,7 +820,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "White acrylic plate with golden letters"
+    "productionNotes": "White acrylic plate with golden letters",
+    "productUrl": "/products/vanjare-oval/"
   },
   {
     "id": "P24",
@@ -790,7 +837,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "White glass with golden letter and LED"
+    "productionNotes": "White glass with golden letter and LED",
+    "productUrl": "/products/shendge-family/"
   },
   {
     "id": "P26",
@@ -806,7 +854,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with golden diamond background and LED"
+    "productionNotes": "Black glass with golden diamond background and LED",
+    "productUrl": "/products/noor-frame-black/"
   },
   {
     "id": "P27",
@@ -822,7 +871,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 16,
-    "productionNotes": "Laser engraved design on clear acrylic border with a textured charcoal wooden plate and acrylic letters without LED"
+    "productionNotes": "Laser engraved design on clear acrylic border with a textured charcoal wooden plate and acrylic letters without LED",
+    "productUrl": "/products/mehta-family/"
   },
   {
     "id": "P30",
@@ -838,7 +888,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 18,
-    "productionNotes": "Laser engraved design on clear acrylic border with a textured charcoal wooden plate and acrylic letters with LED"
+    "productionNotes": "Laser engraved design on clear acrylic border with a textured charcoal wooden plate and acrylic letters with LED",
+    "productUrl": "/products/diamond-house/"
   },
   {
     "id": "P32",
@@ -854,7 +905,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with diamond backdrop and warm-yellow LED"
+    "productionNotes": "Black glass with diamond backdrop and warm-yellow LED",
+    "productUrl": "/products/sayyed-residence/"
   },
   {
     "id": "P33",
@@ -870,7 +922,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 12,
-    "productionNotes": "White glass with golden acrylic letters"
+    "productionNotes": "White glass with golden acrylic letters",
+    "productUrl": "/products/samad-house/"
   },
   {
     "id": "P34",
@@ -886,7 +939,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "White glass with acrylic border and letters with LED"
+    "productionNotes": "White glass with acrylic border and letters with LED",
+    "productUrl": "/products/shaikh-gallery/"
   },
   {
     "id": "P36",
@@ -902,7 +956,8 @@
     ],
     "collection": "Business signs",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with diamond backdrop and warm-yellow LED"
+    "productionNotes": "Black glass with diamond backdrop and warm-yellow LED",
+    "productUrl": "/products/naba-hair-and-beauty/"
   },
   {
     "id": "P37",
@@ -918,7 +973,8 @@
     ],
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
-    "productionNotes": "Black glass with diamond backdrop and warm-yellow LED"
+    "productionNotes": "Black glass with diamond backdrop and warm-yellow LED",
+    "productUrl": "/products/noor-script-black/"
   },
   {
     "id": "P38",
@@ -934,7 +990,8 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 10,
-    "productionNotes": "White acrylic plate with golden letters"
+    "productionNotes": "White acrylic plate with golden letters",
+    "productUrl": "/products/family-frame/"
   },
   {
     "id": "P39",
@@ -950,6 +1007,7 @@
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 15,
-    "productionNotes": "White glass with golden letter and LED"
+    "productionNotes": "White glass with golden letter and LED",
+    "productUrl": "/products/neeti-premlal-gold/"
   }
 ]
