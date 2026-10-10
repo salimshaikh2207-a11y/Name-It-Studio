@@ -1,4 +1,4 @@
-<details class="more-options wrap" id="more-options"><summary>More options: create your own design <span>+</span></summary><details id="inspiration"><summary>Browse current design ideas</summary><div id="reference-grid"></div></details><p id="filter-status" class="sr-only"></p>
+<details class="more-options wrap" id="more-options" open><summary>More options: create your own design <span>+</span></summary><details id="inspiration"><summary>Browse current design ideas</summary><div id="reference-grid"></div></details><p id="filter-status" class="sr-only"></p>
 
 <section class="projects" id="custom-projects" aria-labelledby="projects-title"><div class="wrap">
   <div class="section-heading"><div><p class="eyebrow">02 / MORE WAYS TO MAKE IT PERSONAL</p><h2 id="projects-title">Beyond the doorstep.</h2></div><p>Your logo. A meaningful symbol. A favourite pastime.<br>Tell us what belongs on your wall.</p></div>
