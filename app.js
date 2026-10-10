@@ -152,65 +152,10 @@ $('review-dialog').addEventListener('click',e=>{if(e.target===$('review-dialog')
 $('enquiry-notes').addEventListener('input',updateEnquiry);
 $('copy-brief').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(brief());toast('Design brief copied.');}catch{toast('Copy is unavailable here. Download the brief instead.');}});
 $('download-brief').addEventListener('click',()=>download(brief(),'text/plain;charset=utf-8','Name-It-Studio-design-brief.txt'));
-const pins=[['329185054037467929','The welcoming entrance','Sculptural lettering & warm light'],['1130685050262022244','A warm personal touch','Layered acrylic & botanical detail'],['1146729123897919894','The statement circle','Clear surfaces & gold accents'],['4591701421247447936','The luminous studio','An illuminated circular composition'],['1070871617674514827','Everyday, considered','Dark plate & a clear house number']];
-$('reference-grid').innerHTML="<a href=\"/catalogue/#design-D04\"><img src=\"/assets/designs/design-04.webp\" alt=\"Aura Studio\" loading=\"lazy\">Aura Studio \u2197<span>Business signs \u00b7 Personalised to order</span></a><a href=\"/catalogue/#design-D09\"><img src=\"/assets/designs/design-09.webp\" alt=\"Noor Frame\" loading=\"lazy\">Noor Frame \u2197<span>Devotional d\u00e9cor \u00b7 Personalised to order</span></a><a href=\"/catalogue/?material=Engraved%20Mandala#designs\"><img src=\"/assets/designs/design-25.webp\" alt=\"Ganesh Mandala\" loading=\"lazy\">Ganesh Mandala \u2197<span>Nameplates \u00b7 Personalised to order</span></a><a href=\"/catalogue/#design-D28\"><img src=\"/assets/designs/design-32.webp\" alt=\"Celebration Halo\" loading=\"lazy\">Celebration Halo \u2197<span>Gifts \u00b7 Personalised to order</span></a><a href=\"/catalogue/#design-D31\"><img src=\"/assets/designs/design-36.webp\" alt=\"Peacock Crest\" loading=\"lazy\">Peacock Crest \u2197<span>Nameplates \u00b7 Personalised to order</span></a>";
-document.querySelector('a[href="#inspiration"]').addEventListener('click',()=>{$('inspiration').open=true;});
+fetch('/catalogue/designs.json?v=20261010-rebuild').then(r=>r.json()).then(items=>{$('reference-grid').innerHTML=items.slice(0,4).map(d=>'<a href="'+esc(d.productUrl)+'"><img src="'+esc(d.images[0].src)+'" alt="'+esc(d.name)+'" loading="lazy">'+esc(d.name)+'</a>').join('');}).catch(()=>{});
 const requestedMeaningfulDesign=new URLSearchParams(location.search).get('design')?.toUpperCase();
 if(requestedMeaningfulDesign&&MEANINGFUL_DESIGNS[requestedMeaningfulDesign]){state={...state,...MEANINGFUL_DESIGNS[requestedMeaningfulDesign],designCode:requestedMeaningfulDesign};}
 renderControls();document.fonts.ready.then(renderPreview);
 
 $('show-preview').addEventListener('click',()=>$('preview-scene').scrollIntoView({behavior:'smooth',block:'center'}));
 $('return-controls').addEventListener('click',()=>document.querySelector('.control-panel').scrollIntoView({behavior:'smooth',block:'start'}));
-
-// Homepage bestseller strip: use only configured catalogue prices and link each card to its product customizer.
-const bestsellerSpecs={
-  '01':{type:'Round acrylic · raised lettering',badge:'Bestseller'},
-  '02':{type:'Clear acrylic · botanical detail'},
-  '03':{type:'Engraved clear acrylic · charcoal centre',badge:'Premium'},
-  '04':{type:'Layered acrylic · illuminated fort theme',badge:'New'},
-  '05':{type:'Debossed acrylic · white plate'},
-  '06':{type:'Debossed acrylic · charcoal plate'}
-};
-const bestsellerIds=['01','02','03','04','05','06'];
-const bestsellerMoney=n=>typeof n==='number'?'Starting from ₹'+n.toLocaleString('en-IN'):'Get Price';
-function renderBestsellers(products){
-  const style=document.querySelector('.shop-by-style'),next=document.querySelector('.shop-categories');
-  if(!style||!next)return;
-  const items=bestsellerIds.map(id=>products.find(p=>p.id===id)).filter(Boolean);
-  const section=document.createElement('section');section.className='bestsellers wrap';section.id='most-loved-designs';section.setAttribute('aria-labelledby','most-loved-title');
-  section.innerHTML='<div class="bestseller-heading"><div><p class="eyebrow">MOST LOVED DESIGNS</p><h2 id="most-loved-title">Made once. Loved every day.</h2></div><a class="quiet-link" href="/catalogue/#priced-products">See all products ↗</a></div><div class="bestseller-grid">'+items.map(p=>{const s=bestsellerSpecs[p.id]||{},led=p.lighting&&/no led/i.test(p.lighting)?'LED: No':'LED: '+(p.lighting||'Confirm with quote');return '<article class="bestseller-card"><a class="bestseller-image" href="/catalogue/#product-'+p.id+'" aria-label="Customize '+p.name+'"><img src="'+p.image+'" alt="'+p.name+' — '+s.type+'" loading="lazy"><span class="bestseller-badges">'+(s.badge?'<b>'+s.badge+'</b>':'')+'</span></a><div class="bestseller-body"><p class="bestseller-kicker">'+p.category+'</p><h3>'+p.name+'</h3><p class="bestseller-type">'+s.type+'</p><p class="bestseller-led">'+led+'</p><p class="bestseller-price">'+bestsellerMoney(p.price)+'</p><a class="button primary" href="/catalogue/#product-'+p.id+'">Customize <span aria-hidden="true">→</span></a></div></article>';}).join('')+'</div>';
-  style.insertAdjacentElement('afterend',section);
-  const yours=document.createElement('section');yours.className='make-it-yours wrap';yours.id='make-it-yours';yours.setAttribute('aria-labelledby','make-it-yours-title');
-  yours.innerHTML='<div class="make-yours-heading"><p class="eyebrow">MAKE IT YOURS</p><h2 id="make-it-yours-title">A nameplate that starts with you.</h2><p>Choose a look, make it personal and see the right options for the material you love. We’ll guide you from first idea to final artwork.</p></div><div class="make-yours-layout"><figure class="make-yours-preview"><img src="/assets/catalogue/03.png" alt="Mandala Prabha acrylic nameplate with engraved border and warm light" loading="lazy"><figcaption>Preview a style, then make it your own.</figcaption></figure><div class="make-yours-steps"><ol><li><b>1</b><span><strong>Choose Material</strong><small>Acrylic, glass or charcoal</small></span></li><li><b>2</b><span><strong>Pick Design</strong><small>Start with a look you love</small></span></li><li><b>3</b><span><strong>Select Size</strong><small>Choose a standard or custom size</small></span></li><li><b>4</b><span><strong>Add Name / House Number</strong><small>Make the text yours</small></span></li><li><b>5</b><span><strong>Choose Language &amp; Font</strong><small>English, Hindi or Marathi</small></span></li><li><b>6</b><span><strong>Choose Colours / Letter Type</strong><small>Pick the finish that suits your space</small></span></li><li><b>7</b><span><strong>Add LED / Diamond where applicable</strong><small>Only the options that suit your material appear</small></span></li></ol><div class="make-yours-actions"><a class="button primary" href="#studio">Start Customizing <span aria-hidden="true">→</span></a><a class="make-yours-whatsapp" href="https://wa.me/919082405720?text=Hi%20Name%20It%20Studio%2C%20I%20need%20help%20creating%20a%20custom%20nameplate." target="_blank" rel="noopener noreferrer">Need something different? Talk to us on WhatsApp ↗</a></div></div></div>';
-  section.insertAdjacentElement('afterend',yours);
-  const meaning=document.createElement('section');meaning.className='designs-meaning wrap';meaning.id='designs-with-meaning';meaning.setAttribute('aria-labelledby','meaning-title');
-  const collections=[
-   {slug:'ganesha',name:'Ganesha',copy:'Auspicious beginnings, beautifully made.',image:'/assets/designs/devotional-d37.webp',code:'GAN-01'},
-   {slug:'mahadev',name:'Mahadev',copy:'Strength, stillness and devotion.',image:'/assets/designs/devotional-d39.webp',code:'SHV-01'},
-   {slug:'krishna-radha-krishna',name:'Krishna & Radha Krishna',copy:'Love, grace and joyful colour.',image:'/assets/designs/devotional-d42.webp',code:'KRS-01'},
-   {slug:'shree-ram-hanuman',name:'Shree Ram & Hanuman',copy:'Courage, faith and a welcoming home.',image:'/assets/designs/devotional-d46.webp',code:'RAM-02'},
-   {slug:'om-spiritual',name:'Om & Spiritual',copy:'A calmer corner for everyday rituals.',image:'/assets/designs/devotional-d48.webp',code:'OM-01'},
-   {slug:'ambedkar',name:'Dr. B. R. Ambedkar Collection',copy:'A distinct cultural collection honouring equality and progress.',image:'/assets/designs/ambedkar-d58.webp',code:'AMB-02'}
-  ];
-  meaning.innerHTML='<div class="meaning-heading"><div><p class="eyebrow">DESIGNS WITH MEANING</p><h2 id="meaning-title">A nameplate that reflects what you believe in.</h2></div><p>Explore thoughtful Name It Studio designs inspired by faith, heritage and the ideas that shape your home.</p></div><div class="meaning-grid">'+collections.map(c=>'<a class="meaning-card" href="/collections/'+c.slug+'/" aria-label="Explore '+c.name+' collection"><img src="'+c.image+'" alt="'+c.name+' collection design" loading="lazy"><div><p class="meaning-code">'+c.code+' COLLECTION</p><h3>'+c.name+'</h3><p>'+c.copy+'</p><span>Explore collection <b aria-hidden="true">↗</b></span></div></a>').join('')+'</div><div class="meaning-footer"><a class="button primary" href="/catalogue/#designs">Explore All Designs ↗</a><a class="meaning-whatsapp" href="https://wa.me/919082405720?text=Hi%20Name%20It%20Studio%2C%20I%20would%20like%20to%20discuss%20a%20meaningful%20custom%20nameplate%20idea." target="_blank" rel="noopener noreferrer">Discuss Your Idea on WhatsApp ↗</a></div>';
-  yours.insertAdjacentElement('afterend',meaning);
-}
-fetch('/catalogue/products.json?v=20261008-prices',{cache:'no-store'}).then(r=>r.ok?r.json():[]).then(renderBestsellers).catch(()=>renderBestsellers([]));
-
-
-/* Homepage featured cards use the same rate source as catalogue and product pages. */
-(function syncStorefrontRates(){
-  const cards=[...document.querySelectorAll('.storefront-card[data-design-id]')];
-  if(!cards.length)return;
-  fetch('/catalogue/designs.json?v=20261008-featured-prices',{cache:'no-store'})
-    .then(r=>{if(!r.ok)throw Error('Unable to load catalogue rates');return r.json();})
-    .then(designs=>{
-      const rates=new Map(designs.map(d=>[d.id,Number(d.pricePerSqIn)]));
-      for(const card of cards){
-        const rate=rates.get(card.dataset.designId);
-        const label=card.querySelector('.storefront-card-meta span:last-child');
-        if(label&&Number.isFinite(rate)&&rate>0)label.textContent='₹'+rate+' / sq in';
-      }
-    })
-    .catch(()=>{/* Correct static prices remain visible if data is unavailable. */});
-})();
