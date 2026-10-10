@@ -1482,23 +1482,6 @@
     "productUrl": "/products/jamdale-peacock-script/"
   },
   {
-    "id": "D01",
-    "name": "Sanskriti Oval",
-    "category": "Acrylic",
-    "description": "Gold-tone Marathi lettering and decorative details on a black oval.",
-    "images": [
-      {
-        "src": "/assets/designs/design-01.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 10,
-    "productionNotes": "Black acrylic plate with golden acrylic letters",
-    "productUrl": "/products/sanskriti-oval/"
-  },
-  {
     "id": "D03",
     "name": "Surya Family",
     "category": "Acrylic",
