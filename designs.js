@@ -2,7 +2,7 @@
  'use strict';
  const $=id=>document.getElementById(id);let cards=[],selected,opener,collections=new Set();
  const money=n=>'₹'+Number(n).toLocaleString('en-IN');
- const loaded=fetch('/catalogue/designs.json?v=20261010-new-products',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json()});loaded.catch(()=>{});
+ const loaded=fetch('/catalogue/designs.json?v=20261011-design-names',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json()});loaded.catch(()=>{});
  function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
  function cardMarkup(d){
    const img=d.images&&d.images[0]?d.images[0]:{};
