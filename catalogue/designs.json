@@ -1,5 +1,24 @@
 [
   {
+    "id": "N79",
+    "name": "Durga Maa Patel House Glass LED",
+    "category": "Glass",
+    "description": "Durga Maa devotional nameplate in white glass with raised black acrylic lettering, warm LED backlighting and a personalised house number. Example: Patel House, A/4606.",
+    "images": [
+      {
+        "src": "/assets/latest/file_0000000000ac8211b000253577bdb812.png",
+        "width": 1536,
+        "height": 1024
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "productionNotes": "White glass · Black raised acrylic letters · Warm LED · Durga Maa",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/durga-maa-patel-house-glass-led/"
+  },
+  {
     "id": "N01",
     "name": "Shashi Ganesh Halo LED",
     "category": "Engraved Mandala",
