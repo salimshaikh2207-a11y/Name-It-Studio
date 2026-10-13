@@ -16,7 +16,8 @@
     "productionNotes": "White glass · Black raised acrylic letters · Warm LED · Durga Maa",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/durga-maa-white-glass-led/"
+    "productUrl": "/products/durga-maa-white-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N01",
@@ -35,7 +36,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-flute-charcoal-halo-led/"
+    "productUrl": "/products/ganesh-flute-charcoal-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "N02",
@@ -54,7 +56,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-flute-tile-frame-led/"
+    "productUrl": "/products/ganesh-flute-tile-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N03",
@@ -73,7 +76,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/ornate-flourish-charcoal-circle-led/"
+    "productUrl": "/products/ornate-flourish-charcoal-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "N04",
@@ -92,7 +96,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/sunburst-flute-halo-led/"
+    "productUrl": "/products/sunburst-flute-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "N05",
@@ -111,7 +116,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/mashallah-lace-halo-led/"
+    "productUrl": "/products/mashallah-lace-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "N06",
@@ -130,7 +136,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/swarajya-fort-heritage-frame-led/"
+    "productUrl": "/products/swarajya-fort-heritage-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N07",
@@ -149,7 +156,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/mashallah-floral-tile-frame-led/"
+    "productUrl": "/products/mashallah-floral-tile-frame-led/",
+    "shape": "Square"
   },
   {
     "id": "N08",
@@ -168,7 +176,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/peacock-feather-mandala-halo-led/"
+    "productUrl": "/products/peacock-feather-mandala-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "N09",
@@ -187,7 +196,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/buddha-lattice-frame-led/"
+    "productUrl": "/products/buddha-lattice-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N10",
@@ -206,7 +216,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/location-pin-capsule-led/"
+    "productUrl": "/products/location-pin-capsule-led/",
+    "shape": "Capsule"
   },
   {
     "id": "N11",
@@ -225,7 +236,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/blue-sunburst-flute-halo-led/"
+    "productUrl": "/products/blue-sunburst-flute-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "N12",
@@ -244,7 +256,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/black-ripple-oval-led/"
+    "productUrl": "/products/black-ripple-oval-led/",
+    "shape": "Oval"
   },
   {
     "id": "N13",
@@ -263,7 +276,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/floral-peacock-halo-led/"
+    "productUrl": "/products/floral-peacock-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "N14",
@@ -282,7 +296,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/swarajya-fort-lace-halo-led/"
+    "productUrl": "/products/swarajya-fort-lace-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "N15",
@@ -301,7 +316,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/swami-samarth-gold-heritage-frame-led/"
+    "productUrl": "/products/swami-samarth-gold-heritage-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N16",
@@ -320,7 +336,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/royal-gold-crest-halo-led/"
+    "productUrl": "/products/royal-gold-crest-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "N17",
@@ -339,7 +356,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/tree-of-life-butterfly-frame-led/"
+    "productUrl": "/products/tree-of-life-butterfly-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N18",
@@ -358,7 +376,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-ripple-capsule-led/"
+    "productUrl": "/products/ganesh-ripple-capsule-led/",
+    "shape": "Capsule"
   },
   {
     "id": "N19",
@@ -377,7 +396,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/gold-ripple-crest-led/"
+    "productUrl": "/products/gold-ripple-crest-led/",
+    "shape": "Custom Shape"
   },
   {
     "id": "N20",
@@ -396,7 +416,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/peacock-crest-tile-capsule-led/"
+    "productUrl": "/products/peacock-crest-tile-capsule-led/",
+    "shape": "Capsule"
   },
   {
     "id": "N21",
@@ -415,7 +436,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-classic-rectangle-led/"
+    "productUrl": "/products/ganesh-classic-rectangle-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N22",
@@ -434,7 +456,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/mashallah-mandala-halo-led/"
+    "productUrl": "/products/mashallah-mandala-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "N23",
@@ -453,7 +476,8 @@
     "productionNotes": "Charcoal wood with engraved design · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/krishna-rose-circle-led/"
+    "productUrl": "/products/krishna-rose-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "N24",
@@ -472,7 +496,8 @@
     "productionNotes": "Charcoal wood with engraved design · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-flute-ivory-circle/"
+    "productUrl": "/products/ganesh-flute-ivory-circle/",
+    "shape": "Round"
   },
   {
     "id": "N25",
@@ -491,7 +516,8 @@
     "productionNotes": "Charcoal wood with engraved design · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/sculpted-tile-gold-frame/"
+    "productUrl": "/products/sculpted-tile-gold-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N26",
@@ -510,7 +536,8 @@
     "productionNotes": "Charcoal wood with engraved design · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/rose-gold-feather-frame/"
+    "productUrl": "/products/rose-gold-feather-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N27",
@@ -529,7 +556,8 @@
     "productionNotes": "Charcoal wood with engraved design · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-leaf-mosaic-circle/"
+    "productUrl": "/products/ganesh-leaf-mosaic-circle/",
+    "shape": "Round"
   },
   {
     "id": "N28",
@@ -548,7 +576,8 @@
     "productionNotes": "Charcoal wood with engraved design · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-gold-swirl-circle/"
+    "productUrl": "/products/ganesh-gold-swirl-circle/",
+    "shape": "Round"
   },
   {
     "id": "N29",
@@ -567,7 +596,8 @@
     "productionNotes": "Charcoal wood with engraved design · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-leaf-mosaic-oval/"
+    "productUrl": "/products/ganesh-leaf-mosaic-oval/",
+    "shape": "Oval"
   },
   {
     "id": "N30",
@@ -586,7 +616,8 @@
     "productionNotes": "Charcoal wood with engraved design · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/ivory-ripple-crest/"
+    "productUrl": "/products/ivory-ripple-crest/",
+    "shape": "Custom Shape"
   },
   {
     "id": "N31",
@@ -605,7 +636,8 @@
     "productionNotes": "Charcoal wood with engraved design · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-ivory-linear-frame/"
+    "productUrl": "/products/ganesh-ivory-linear-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N32",
@@ -624,7 +656,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/gold-laurel-glass-circle-led/"
+    "productUrl": "/products/gold-laurel-glass-circle-led/",
+    "shape": "Square"
   },
   {
     "id": "N33",
@@ -643,7 +676,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-flute-glass-frame-led/"
+    "productUrl": "/products/ganesh-flute-glass-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N34",
@@ -662,7 +696,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/om-floral-glass-frame-led/"
+    "productUrl": "/products/om-floral-glass-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N35",
@@ -681,7 +716,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/towing-truck-glass-sign-led/"
+    "productUrl": "/products/towing-truck-glass-sign-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N36",
@@ -700,7 +736,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/floral-capsule-glass-led/"
+    "productUrl": "/products/floral-capsule-glass-led/",
+    "shape": "Capsule"
   },
   {
     "id": "N37",
@@ -719,7 +756,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/gold-arrow-corner-glass-led/"
+    "productUrl": "/products/gold-arrow-corner-glass-led/",
+    "shape": "Square"
   },
   {
     "id": "N38",
@@ -738,7 +776,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/classic-black-border-glass-led/"
+    "productUrl": "/products/classic-black-border-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N39",
@@ -757,7 +796,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/lattice-lantern-glass-frame-led/"
+    "productUrl": "/products/lattice-lantern-glass-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N40",
@@ -776,7 +816,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/floral-scroll-glass-frame-led/"
+    "productUrl": "/products/floral-scroll-glass-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N41",
@@ -795,7 +836,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/heritage-gold-border-glass-led/"
+    "productUrl": "/products/heritage-gold-border-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N42",
@@ -814,7 +856,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/om-flute-glass-circle-led/"
+    "productUrl": "/products/om-flute-glass-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "N43",
@@ -833,7 +876,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/gold-split-circle-glass-led/"
+    "productUrl": "/products/gold-split-circle-glass-led/",
+    "shape": "Round"
   },
   {
     "id": "N44",
@@ -852,7 +896,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/gold-swirl-glass-circle-led/"
+    "productUrl": "/products/gold-swirl-glass-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "N45",
@@ -871,7 +916,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/madinah-green-ripple-glass-led/"
+    "productUrl": "/products/madinah-green-ripple-glass-led/",
+    "shape": "Custom Shape"
   },
   {
     "id": "N46",
@@ -890,7 +936,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/madinah-glass-desk-led/"
+    "productUrl": "/products/madinah-glass-desk-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N47",
@@ -909,7 +956,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/sacred-dome-black-glass-led/"
+    "productUrl": "/products/sacred-dome-black-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N48",
@@ -928,7 +976,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/radha-krishna-glass-circle-led/"
+    "productUrl": "/products/radha-krishna-glass-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "N49",
@@ -947,7 +996,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/baba-shyam-devotional-glass-led/"
+    "productUrl": "/products/baba-shyam-devotional-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N50",
@@ -966,7 +1016,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/mashallah-ornate-glass-led/"
+    "productUrl": "/products/mashallah-ornate-glass-led/",
+    "shape": "Square"
   },
   {
     "id": "N51",
@@ -985,7 +1036,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/blue-scenic-glass-circle-led/"
+    "productUrl": "/products/blue-scenic-glass-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "N52",
@@ -1004,7 +1056,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/lotus-emblem-business-glass-led/"
+    "productUrl": "/products/lotus-emblem-business-glass-led/",
+    "shape": "Square"
   },
   {
     "id": "N53",
@@ -1023,7 +1076,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-gold-corner-glass-led/"
+    "productUrl": "/products/ganesh-gold-corner-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N54",
@@ -1042,7 +1096,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-mantra-glass-led/"
+    "productUrl": "/products/ganesh-mantra-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N55",
@@ -1061,7 +1116,8 @@
     "productionNotes": "Glass · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/floral-black-border-glass-led/"
+    "productUrl": "/products/floral-black-border-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N56",
@@ -1080,7 +1136,8 @@
     "productionNotes": "Glass · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/gold-flourish-glass-frame/"
+    "productUrl": "/products/gold-flourish-glass-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N57",
@@ -1099,7 +1156,8 @@
     "productionNotes": "Glass · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/om-flute-glass-circle/"
+    "productUrl": "/products/om-flute-glass-circle/",
+    "shape": "Round"
   },
   {
     "id": "N58",
@@ -1118,7 +1176,8 @@
     "productionNotes": "Glass · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/swarajya-fort-glass-circle/"
+    "productUrl": "/products/swarajya-fort-glass-circle/",
+    "shape": "Round"
   },
   {
     "id": "N59",
@@ -1137,7 +1196,8 @@
     "productionNotes": "Glass · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-gold-corner-glass-frame/"
+    "productUrl": "/products/ganesh-gold-corner-glass-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N60",
@@ -1156,7 +1216,8 @@
     "productionNotes": "Glass · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/floral-capsule-glass-desk/"
+    "productUrl": "/products/floral-capsule-glass-desk/",
+    "shape": "Capsule"
   },
   {
     "id": "N61",
@@ -1175,7 +1236,8 @@
     "productionNotes": "Glass · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/buddha-ornate-glass-frame/"
+    "productUrl": "/products/buddha-ornate-glass-frame/",
+    "shape": "Square"
   },
   {
     "id": "N62",
@@ -1194,7 +1256,8 @@
     "productionNotes": "Acrylic · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/islamic-calligraphy-woodgrain-circle-led/"
+    "productUrl": "/products/islamic-calligraphy-woodgrain-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "N63",
@@ -1213,7 +1276,8 @@
     "productionNotes": "Acrylic · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/floating-script-acrylic-led/"
+    "productUrl": "/products/floating-script-acrylic-led/",
+    "shape": "Custom Shape"
   },
   {
     "id": "N64",
@@ -1232,7 +1296,8 @@
     "productionNotes": "Acrylic · With LED",
     "lighting": "With LED",
     "isNew": true,
-    "productUrl": "/products/shiv-woodgrain-acrylic-led/"
+    "productUrl": "/products/shiv-woodgrain-acrylic-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "N65",
@@ -1251,7 +1316,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/black-silver-classic-acrylic/"
+    "productUrl": "/products/black-silver-classic-acrylic/",
+    "shape": "Rectangle"
   },
   {
     "id": "N66",
@@ -1270,7 +1336,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/golden-calligraphy-acrylic-panel/"
+    "productUrl": "/products/golden-calligraphy-acrylic-panel/",
+    "shape": "Rectangle"
   },
   {
     "id": "N67",
@@ -1289,7 +1356,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/classic-laurel-acrylic-frame/"
+    "productUrl": "/products/classic-laurel-acrylic-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N68",
@@ -1308,7 +1376,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/copper-lattice-lantern-acrylic-frame/"
+    "productUrl": "/products/copper-lattice-lantern-acrylic-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N69",
@@ -1327,7 +1396,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/navy-gold-split-acrylic-circle/"
+    "productUrl": "/products/navy-gold-split-acrylic-circle/",
+    "shape": "Round"
   },
   {
     "id": "N70",
@@ -1346,7 +1416,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/swarajya-fort-acrylic-circle/"
+    "productUrl": "/products/swarajya-fort-acrylic-circle/",
+    "shape": "Round"
   },
   {
     "id": "N71",
@@ -1365,7 +1436,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/rose-gold-marble-acrylic-frame/"
+    "productUrl": "/products/rose-gold-marble-acrylic-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N72",
@@ -1384,7 +1456,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/silver-marble-acrylic-panel/"
+    "productUrl": "/products/silver-marble-acrylic-panel/",
+    "shape": "Rectangle"
   },
   {
     "id": "N73",
@@ -1403,7 +1476,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/om-garden-acrylic-circle/"
+    "productUrl": "/products/om-garden-acrylic-circle/",
+    "shape": "Round"
   },
   {
     "id": "N74",
@@ -1422,7 +1496,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/swarajya-fort-acrylic-frame/"
+    "productUrl": "/products/swarajya-fort-acrylic-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N75",
@@ -1441,7 +1516,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/ganesh-ornate-gold-acrylic-frame/"
+    "productUrl": "/products/ganesh-ornate-gold-acrylic-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N76",
@@ -1460,7 +1536,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/butterfly-floral-acrylic-oval/"
+    "productUrl": "/products/butterfly-floral-acrylic-oval/",
+    "shape": "Oval"
   },
   {
     "id": "N77",
@@ -1479,7 +1556,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/shiv-woodgrain-acrylic-frame/"
+    "productUrl": "/products/shiv-woodgrain-acrylic-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "N78",
@@ -1498,7 +1576,8 @@
     "productionNotes": "Acrylic · Without LED",
     "lighting": "Without LED",
     "isNew": true,
-    "productUrl": "/products/peacock-marble-acrylic-panel/"
+    "productUrl": "/products/peacock-marble-acrylic-panel/",
+    "shape": "Custom Shape"
   },
   {
     "id": "D03",
@@ -1515,7 +1594,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "White acrylic plate with golden acrylic letters",
-    "productUrl": "/products/gold-swirl-acrylic-circle/"
+    "productUrl": "/products/gold-swirl-acrylic-circle/",
+    "shape": "Round"
   },
   {
     "id": "D04",
@@ -1532,7 +1612,8 @@
     "collection": "Business signs",
     "pricePerSqIn": 12,
     "productionNotes": "White glass plate with golden acrylic letters",
-    "productUrl": "/products/beauty-monogram-glass-circle/"
+    "productUrl": "/products/beauty-monogram-glass-circle/",
+    "shape": "Round"
   },
   {
     "id": "D05",
@@ -1549,7 +1630,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "acrylic letters and golden diamond backdrop with LED",
-    "productUrl": "/products/ganesh-ivory-glass-circle-led/"
+    "productUrl": "/products/ganesh-ivory-glass-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "D06",
@@ -1566,7 +1648,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "Golden diamond backdrop with LED",
-    "productUrl": "/products/ganesh-black-glass-frame-led/"
+    "productUrl": "/products/ganesh-black-glass-frame-led/",
+    "shape": "Square"
   },
   {
     "id": "D07",
@@ -1583,7 +1666,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "acrylic letters with LED",
-    "productUrl": "/products/geometric-gold-glass-frame-led/"
+    "productUrl": "/products/geometric-gold-glass-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "D08",
@@ -1600,7 +1684,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 16,
     "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters without LED",
-    "productUrl": "/products/radha-krishna-peacock-mandala/"
+    "productUrl": "/products/radha-krishna-peacock-mandala/",
+    "shape": "Round"
   },
   {
     "id": "D09",
@@ -1617,7 +1702,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with frosted letter with warm-yellow LED",
-    "productUrl": "/products/islamic-calligraphy-black-glass-frame-led/"
+    "productUrl": "/products/islamic-calligraphy-black-glass-frame-led/",
+    "shape": "Square"
   },
   {
     "id": "D10",
@@ -1634,7 +1720,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "Black acrylic plate with golden acrylic letters",
-    "productUrl": "/products/islamic-gold-crest-acrylic-frame/"
+    "productUrl": "/products/islamic-gold-crest-acrylic-frame/",
+    "shape": "Custom Shape"
   },
   {
     "id": "D11",
@@ -1651,7 +1738,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "Black acrylic plate with golden acrylic letters",
-    "productUrl": "/products/flute-gold-rim-acrylic-circle/"
+    "productUrl": "/products/flute-gold-rim-acrylic-circle/",
+    "shape": "Round"
   },
   {
     "id": "D12",
@@ -1668,7 +1756,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 16,
     "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters without LED",
-    "productUrl": "/products/mashallah-white-lace-mandala/"
+    "productUrl": "/products/mashallah-white-lace-mandala/",
+    "shape": "Custom Shape"
   },
   {
     "id": "D13",
@@ -1685,7 +1774,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "White acrylic plate with golden and wooden print acrylic letters",
-    "productUrl": "/products/swarajya-sand-fort-acrylic-frame/"
+    "productUrl": "/products/swarajya-sand-fort-acrylic-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "D15",
@@ -1702,7 +1792,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 12,
     "productionNotes": "White glass plate with golden and black acrylic letters",
-    "productUrl": "/products/swarajya-black-fort-glass-frame/"
+    "productUrl": "/products/swarajya-black-fort-glass-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "D16",
@@ -1719,7 +1810,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
     "productionNotes": "White glass with golden letter and LED",
-    "productUrl": "/products/islamic-calligraphy-glass-desk-led/"
+    "productUrl": "/products/islamic-calligraphy-glass-desk-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "D17",
@@ -1736,7 +1828,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 18,
     "productionNotes": "White charcoal plate with golden raised acrylic letters and LED",
-    "productUrl": "/products/welcome-home-charcoal-oval-led/"
+    "productUrl": "/products/welcome-home-charcoal-oval-led/",
+    "shape": "Oval"
   },
   {
     "id": "D18",
@@ -1763,7 +1856,8 @@
     "collection": "Business signs",
     "pricePerSqIn": 10,
     "productionNotes": "Black acrylic plate with golden acrylic letters",
-    "productUrl": "/products/classic-salon-monogram-acrylic-circle/"
+    "productUrl": "/products/classic-salon-monogram-acrylic-circle/",
+    "shape": "Round"
   },
   {
     "id": "D19",
@@ -1785,7 +1879,8 @@
     "collection": "Business signs",
     "pricePerSqIn": 12,
     "productionNotes": "Black acrylic plate with golden acrylic letters with LED",
-    "productUrl": "/products/ornate-salon-monogram-acrylic-circle-led/"
+    "productUrl": "/products/ornate-salon-monogram-acrylic-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "D21",
@@ -1802,7 +1897,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with frosted letter with diamond backdrop and warm-yellow LED",
-    "productUrl": "/products/sacred-dome-glass-plaque-led/"
+    "productUrl": "/products/sacred-dome-glass-plaque-led/",
+    "shape": "Square"
   },
   {
     "id": "D23",
@@ -1819,7 +1915,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "White glass with golden letter and LED",
-    "productUrl": "/products/ivory-gold-corner-glass-led/"
+    "productUrl": "/products/ivory-gold-corner-glass-led/",
+    "shape": "Square"
   },
   {
     "id": "D24",
@@ -1841,7 +1938,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with golden acrylic letter and warm-yellow LED",
-    "productUrl": "/products/islamic-calligraphy-glass-circle-led/"
+    "productUrl": "/products/islamic-calligraphy-glass-circle-led/",
+    "shape": "Square"
   },
   {
     "id": "D25",
@@ -1858,7 +1956,8 @@
     "collection": "Business signs",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with golden acrylic letter and warm-yellow LED",
-    "productUrl": "/products/salon-silhouette-glass-sign-led/"
+    "productUrl": "/products/salon-silhouette-glass-sign-led/",
+    "shape": "Square"
   },
   {
     "id": "D26",
@@ -1875,7 +1974,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with frosted letter and warm-yellow LED",
-    "productUrl": "/products/buddha-black-glass-frame-led/"
+    "productUrl": "/products/buddha-black-glass-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "D27",
@@ -1892,7 +1992,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 12,
     "productionNotes": "White acrylic plate with golden letter and warm-yellow LED",
-    "productUrl": "/products/floral-planter-acrylic-circle-led/"
+    "productUrl": "/products/floral-planter-acrylic-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "D28",
@@ -1909,7 +2010,8 @@
     "collection": "Gifts",
     "pricePerSqIn": 18,
     "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters with LED",
-    "productUrl": "/products/birthday-cake-lace-halo-led/"
+    "productUrl": "/products/birthday-cake-lace-halo-led/",
+    "shape": "Round"
   },
   {
     "id": "D29",
@@ -1931,7 +2033,8 @@
     "collection": "Business signs",
     "pricePerSqIn": 12,
     "productionNotes": "White acrylic plate with black letter and warm-yellow LED",
-    "productUrl": "/products/beauty-monogram-acrylic-circle-led/"
+    "productUrl": "/products/beauty-monogram-acrylic-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "D30",
@@ -1948,7 +2051,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 12,
     "productionNotes": "Black acrylic plate with frosted letters and warm-yellow LED",
-    "productUrl": "/products/gold-stripe-split-acrylic-circle-led/"
+    "productUrl": "/products/gold-stripe-split-acrylic-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "D31",
@@ -1965,7 +2069,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 12,
     "productionNotes": "White acrylic plate with golden letter and warm-yellow LED",
-    "productUrl": "/products/floral-flute-acrylic-circle-led/"
+    "productUrl": "/products/floral-flute-acrylic-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "D32",
@@ -1982,7 +2087,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "Golden acrylic letter",
-    "productUrl": "/products/golden-floating-letter-acrylic/"
+    "productUrl": "/products/golden-floating-letter-acrylic/",
+    "shape": "Custom Shape"
   },
   {
     "id": "D33",
@@ -1999,7 +2105,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "Black acrylic letter",
-    "productUrl": "/products/black-key-motif-floating-acrylic/"
+    "productUrl": "/products/black-key-motif-floating-acrylic/",
+    "shape": "Custom Shape"
   },
   {
     "id": "D34",
@@ -2016,7 +2123,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "Brown acrylic letter",
-    "productUrl": "/products/wood-tone-floating-acrylic-desk/"
+    "productUrl": "/products/wood-tone-floating-acrylic-desk/",
+    "shape": "Custom Shape"
   },
   {
     "id": "D37",
@@ -2033,7 +2141,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 12,
     "productionNotes": "Black acrylic plate with golden letter and warm-yellow LED",
-    "productUrl": "/products/ganesh-black-gold-acrylic-led/"
+    "productUrl": "/products/ganesh-black-gold-acrylic-led/",
+    "shape": "Custom Shape"
   },
   {
     "id": "D38",
@@ -2050,7 +2159,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 10,
     "productionNotes": "Engraved on a golden acrylic plate with a wooden sticker along with golden letter on top",
-    "productUrl": "/products/om-woodgrain-crescent-mandala/"
+    "productUrl": "/products/om-woodgrain-crescent-mandala/",
+    "shape": "Round"
   },
   {
     "id": "D43",
@@ -2067,7 +2177,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 10,
     "productionNotes": "textured White and golden acrylic plate with golden letters",
-    "productUrl": "/products/lotus-om-marble-acrylic-circle/"
+    "productUrl": "/products/lotus-om-marble-acrylic-circle/",
+    "shape": "Custom Shape"
   },
   {
     "id": "P04",
@@ -2084,7 +2195,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with the frosted letters with warm-yellow LED",
-    "productUrl": "/products/golden-sacred-dome-glass-led/"
+    "productUrl": "/products/golden-sacred-dome-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "P05",
@@ -2101,7 +2213,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
     "productionNotes": "White glass with golden acrylic letter and LED",
-    "productUrl": "/products/allah-calligraphy-glass-led/"
+    "productUrl": "/products/allah-calligraphy-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "P08",
@@ -2118,7 +2231,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "Navy Blue acrylic plate with golden letters",
-    "productUrl": "/products/mashallah-navy-gold-corner-acrylic/"
+    "productUrl": "/products/mashallah-navy-gold-corner-acrylic/",
+    "shape": "Rectangle"
   },
   {
     "id": "P09",
@@ -2135,7 +2249,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "White acrylic plate with golden and black letters",
-    "productUrl": "/products/gold-floral-acrylic-circle/"
+    "productUrl": "/products/gold-floral-acrylic-circle/",
+    "shape": "Round"
   },
   {
     "id": "P11",
@@ -2152,7 +2267,8 @@
     "collection": "Business signs",
     "pricePerSqIn": 10,
     "productionNotes": "Black acrylic plate with golden letters",
-    "productUrl": "/products/beauty-silhouette-acrylic-circle/"
+    "productUrl": "/products/beauty-silhouette-acrylic-circle/",
+    "shape": "Round"
   },
   {
     "id": "P13",
@@ -2169,7 +2285,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with frosted letters diamond backdrop and LED",
-    "productUrl": "/products/krishna-peacock-black-glass-led/"
+    "productUrl": "/products/krishna-peacock-black-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "P14",
@@ -2186,7 +2303,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "Black acrylic plate with golden letters",
-    "productUrl": "/products/police-emblem-laurel-acrylic-circle/"
+    "productUrl": "/products/police-emblem-laurel-acrylic-circle/",
+    "shape": "Round"
   },
   {
     "id": "P18",
@@ -2203,7 +2321,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
     "productionNotes": "White glass with golden letter and LED",
-    "productUrl": "/products/mashallah-ivory-glass-frame-led/"
+    "productUrl": "/products/mashallah-ivory-glass-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "P21",
@@ -2220,7 +2339,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "White acrylic plate with golden letters",
-    "productUrl": "/products/blessed-cross-acrylic-oval/"
+    "productUrl": "/products/blessed-cross-acrylic-oval/",
+    "shape": "Oval"
   },
   {
     "id": "P24",
@@ -2237,7 +2357,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "White glass with golden letter and LED",
-    "productUrl": "/products/twin-laurel-glass-circle-led/"
+    "productUrl": "/products/twin-laurel-glass-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "P26",
@@ -2254,7 +2375,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with golden diamond background and LED",
-    "productUrl": "/products/islamic-black-gold-border-glass-led/"
+    "productUrl": "/products/islamic-black-gold-border-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "P27",
@@ -2271,7 +2393,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 16,
     "productionNotes": "Laser engraved design on clear acrylic border with a textured charcoal wooden plate and acrylic letters without LED",
-    "productUrl": "/products/sacred-emblem-charcoal-capsule/"
+    "productUrl": "/products/sacred-emblem-charcoal-capsule/",
+    "shape": "Capsule"
   },
   {
     "id": "P30",
@@ -2288,7 +2411,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 18,
     "productionNotes": "Laser engraved design on clear acrylic border with a textured charcoal wooden plate and acrylic letters with LED",
-    "productUrl": "/products/geometric-feather-charcoal-frame-led/"
+    "productUrl": "/products/geometric-feather-charcoal-frame-led/",
+    "shape": "Custom Shape"
   },
   {
     "id": "P32",
@@ -2305,7 +2429,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with diamond backdrop and warm-yellow LED",
-    "productUrl": "/products/gold-flourish-black-glass-led/"
+    "productUrl": "/products/gold-flourish-black-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "P33",
@@ -2322,7 +2447,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 12,
     "productionNotes": "White glass with golden acrylic letters",
-    "productUrl": "/products/mashallah-white-gold-corner-glass/"
+    "productUrl": "/products/mashallah-white-gold-corner-glass/",
+    "shape": "Rectangle"
   },
   {
     "id": "P34",
@@ -2339,7 +2465,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "White glass with acrylic border and letters with LED",
-    "productUrl": "/products/gold-lattice-glass-frame-led/"
+    "productUrl": "/products/gold-lattice-glass-frame-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "P36",
@@ -2356,7 +2483,8 @@
     "collection": "Business signs",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with diamond backdrop and warm-yellow LED",
-    "productUrl": "/products/beauty-profile-black-glass-circle-led/"
+    "productUrl": "/products/beauty-profile-black-glass-circle-led/",
+    "shape": "Round"
   },
   {
     "id": "P37",
@@ -2373,7 +2501,8 @@
     "collection": "Devotional décor",
     "pricePerSqIn": 15,
     "productionNotes": "Black glass with diamond backdrop and warm-yellow LED",
-    "productUrl": "/products/mashallah-black-gold-calligraphy-glass-led/"
+    "productUrl": "/products/mashallah-black-gold-calligraphy-glass-led/",
+    "shape": "Rectangle"
   },
   {
     "id": "P38",
@@ -2390,7 +2519,8 @@
     "collection": "Nameplates",
     "pricePerSqIn": 10,
     "productionNotes": "White acrylic plate with golden letters",
-    "productUrl": "/products/floral-lattice-acrylic-frame/"
+    "productUrl": "/products/floral-lattice-acrylic-frame/",
+    "shape": "Rectangle"
   },
   {
     "id": "P39",
@@ -2407,6 +2537,7 @@
     "collection": "Nameplates",
     "pricePerSqIn": 15,
     "productionNotes": "White glass with golden letter and LED",
-    "productUrl": "/products/signature-monogram-glass-circle-led/"
+    "productUrl": "/products/signature-monogram-glass-circle-led/",
+    "shape": "Round"
   }
 ]
