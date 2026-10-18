@@ -68,7 +68,8 @@ function setupVisitorLeadForm(){
  function renderEstimate(){
   if(!estimate)return;
   const d=selectedDesign(),w=Number(width?.value||0),h=Number(height?.value||0);
-  if(d&&w>0&&h>0){
+  if(width&&height){width.min=height.min=String(d?.minDimension||1);width.required=height.required=!!d?.minDimension;height.setCustomValidity(d?.minDimension&&d.shape==='Round'&&w!==h?'Use the same diameter in both fields.':'');}
+  if(d&&w>=Number(d.minDimension||1)&&h>=Number(d.minDimension||1)&&(!d.minDimension||d.shape!=='Round'||w===h)){
    const area=w*h,total=Math.round(area*Number(d.pricePerSqIn||0));
    estimate.innerHTML='<strong>Estimated price: '+money(total)+'</strong><span>'+w+' × '+h+' in = '+area.toFixed(2)+' sq in × '+money(d.pricePerSqIn)+'</span><small>Estimate only. Final total is confirmed after artwork and production details are approved.</small>';
    estimate.dataset.estimate=String(total);estimate.dataset.area=area.toFixed(2);estimate.dataset.rate=String(d.pricePerSqIn);
@@ -82,10 +83,10 @@ function setupVisitorLeadForm(){
  load.then(populateDesigns);
  material?.addEventListener('change',()=>{nis_track_event('material_select',{material:material.value||'not_selected',source:'quick_enquiry'});populateDesigns();});
  design?.addEventListener('change',()=>{const d=selectedDesign();if(d)nis_track_event('design_view',{design_id:d.id,material:d.category,source:'quick_enquiry'});renderEstimate();});
- width?.addEventListener('change',renderEstimate);height?.addEventListener('change',renderEstimate);
+ width?.addEventListener('input',renderEstimate);height?.addEventListener('input',renderEstimate);
  form.addEventListener('input',()=>{if(started)return;started=true;nis_track_event('lead_form_start',{form_name:'quick_enquiry'});},{once:true});
  form.addEventListener('submit',e=>{
-  e.preventDefault();if(!form.reportValidity())return;
+  e.preventDefault();renderEstimate();if(!form.reportValidity())return;
   const data=new FormData(form),d=selectedDesign();
   const name=(data.get('name')||'').trim(),phone=(data.get('phone')||'').trim(),mat=(data.get('material')||'').trim(),plate=(data.get('plate_text')||'').trim(),area=(data.get('area')||'').trim(),w=(data.get('width')||'').trim(),h=(data.get('height')||'').trim();
   const lines=['Hi Name It Studio, I would like 4 personalised design options.','','Material: '+(mat||'Please recommend'),'Design: '+(d?d.name+' ('+d.id+')':'Please recommend'),'Name / House Number: '+(plate||'I will share'),'Size: '+(w&&h?w+' × '+h+' inches':'Please recommend')];

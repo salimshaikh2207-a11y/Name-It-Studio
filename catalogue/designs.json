@@ -1,5 +1,131 @@
 [
   {
+    "id": "N80",
+    "name": "Maharashtrian Glass Design",
+    "category": "Glass",
+    "description": "White glass with a diamond backdrop and LED lighting. Personalise the Marathi lettering, name and house number.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/product_01-maharashtra-glass-lit_ready.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Maharashtrian Glass Design — LED on"
+      },
+      {
+        "src": "/assets/new-arrivals/product_02-maharashtra-glass-unlit_ready.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Maharashtrian Glass Design — LED off"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "productionNotes": "White glass with a diamond backdrop and LED lighting. Personalise the Marathi lettering, name and house number.",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/maharashtrian-glass-design/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "20x14",
+      "24x16",
+      "28x18"
+    ],
+    "minDimension": 12.25
+  },
+  {
+    "id": "N81",
+    "name": "Shaban Residences",
+    "category": "Glass",
+    "description": "White glass with golden acrylic letters and LED lighting. Personalise your residence name, family names and house number.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/product_03-shaban-glass-lit_ready.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Shaban Residences — LED on"
+      },
+      {
+        "src": "/assets/new-arrivals/product_04-shaban-glass-unlit_ready.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Shaban Residences — LED off"
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "productionNotes": "White glass with golden acrylic letters and LED lighting. Personalise your residence name, family names and house number.",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/shaban-residences-white-glass-led/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "20x14",
+      "24x16",
+      "28x18"
+    ],
+    "minDimension": 12.25
+  },
+  {
+    "id": "N82",
+    "name": "Ganesha Acrylic Ready-to-Stick",
+    "category": "Acrylic",
+    "description": "Golden acrylic Ganesha and personalised lettering, ready to stick directly onto a door or wall. No LED.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/product_05-kalsikar-acrylic-cutout_ready.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Ganesha Acrylic Ready-to-Stick — no LED"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 10,
+    "productionNotes": "Golden acrylic Ganesha and personalised lettering, ready to stick directly onto a door or wall. No LED.",
+    "lighting": "Without LED",
+    "isNew": true,
+    "productUrl": "/products/ganesha-acrylic-ready-to-stick/",
+    "shape": "Custom Shape",
+    "sizeOptions": [
+      "24x14",
+      "28x16",
+      "32x18"
+    ],
+    "minDimension": 12.25
+  },
+  {
+    "id": "N83",
+    "name": "Buddha & Ambedkar Mandala",
+    "category": "Engraved Mandala",
+    "description": "White charcoal plate with golden acrylic Buddha and Ambedkar logos and lettering, mandala engraved borders and LED lighting.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/product_06-jannat-round-dark_ready.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Buddha & Ambedkar Mandala — LED on"
+      },
+      {
+        "src": "/assets/new-arrivals/product_07-jannat-round-light_ready.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Buddha & Ambedkar Mandala — LED off"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 18,
+    "productionNotes": "White charcoal plate with golden acrylic Buddha and Ambedkar logos and lettering, mandala engraved borders and LED lighting.",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/buddha-ambedkar-mandala-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "14x14",
+      "16x16",
+      "18x18"
+    ],
+    "minDimension": 12.25
+  },
+  {
     "id": "N79",
     "name": "Durga Maa White Glass LED",
     "category": "Glass",

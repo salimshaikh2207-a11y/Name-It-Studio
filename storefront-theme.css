@@ -54,3 +54,5 @@ body.nis-luxe{background:#fff;color:#222;font-family:'Lato',Arial,sans-serif;fon
 .social-banner-controls button[aria-pressed=true]{background:#fff;color:#1e73be;border-color:#fff}
 .social-banner-controls button:hover{border-color:#fff}
 @media(max-width:760px){.nis-luxe .social-banner figcaption{justify-content:center}.social-banner-controls button{min-height:44px}.nis-luxe .social-banner figcaption>span{width:100%;text-align:center}}
+
+.social-banner-controls{flex-wrap:wrap;justify-content:center}.product-main-image[hidden]{display:none!important}
