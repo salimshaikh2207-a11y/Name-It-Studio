@@ -91,3 +91,12 @@ body.nis-luxe{background:#fff;color:#222;font-family:'Lato',Arial,sans-serif;fon
 .featured-cta{max-width:none}.featured-footer{flex-direction:column;gap:12px;padding:16px}.featured-promise{text-align:center}
 .featured-intro{padding:22px 18px}.featured-intro>p:last-child{font-size:10px}
 }
+
+/* Approved entrance lifestyle imagery */
+.nis-luxe .featured-hero{max-width:1600px}
+.featured-slide{grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);min-height:0}
+.featured-photo{background:#c8ad87}
+.featured-photo img{width:100%;height:auto;aspect-ratio:3/2;object-fit:contain}
+.featured-copy{padding:28px clamp(24px,3vw,48px)}
+.nis-luxe .featured-copy h2{font-size:clamp(28px,2.7vw,42px)}
+@media(max-width:900px){.featured-slide{grid-template-columns:1fr}.featured-photo img{height:auto;aspect-ratio:3/2;max-height:none}.featured-copy{padding:26px 24px}.nis-luxe .featured-copy h2{font-size:30px}}
