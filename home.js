@@ -11,5 +11,8 @@ banner.querySelector('[data-banner-prev]')?.addEventListener('click',()=>{select
 banner.querySelector('[data-banner-next]')?.addEventListener('click',()=>{select(current+1);schedule();});
 pause?.addEventListener('click',()=>{paused=!paused;schedule();});
 banner.addEventListener('keydown',e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight'){e.preventDefault();select(current+(e.key==='ArrowLeft'?-1:1));schedule();}});
-['mouseenter','mouseleave','focusin'].forEach(name=>banner.addEventListener(name,schedule));banner.addEventListener('focusout',()=>setTimeout(schedule,0));document.addEventListener('visibilitychange',schedule);motion.addEventListener('change',()=>{paused=motion.matches;schedule();});select(0);schedule();
+['mouseenter','mouseleave','focusin'].forEach(name=>banner.addEventListener(name,schedule));banner.addEventListener('focusout',()=>setTimeout(schedule,0));document.addEventListener('visibilitychange',schedule);motion.addEventListener('change',()=>{paused=motion.matches;schedule();});let touchX=null;
+banner.addEventListener('touchstart',e=>{touchX=e.touches[0].clientX;},{passive:true});
+banner.addEventListener('touchend',e=>{if(touchX===null)return;const delta=e.changedTouches[0].clientX-touchX;if(Math.abs(delta)>60){select(current+(delta<0?1:-1));schedule();}touchX=null;},{passive:true});
+select(0);schedule();
 })();

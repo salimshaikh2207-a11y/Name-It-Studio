@@ -256,7 +256,13 @@
     "lighting": "With LED",
     "isNew": true,
     "productUrl": "/products/sunburst-flute-halo-led/",
-    "shape": "Round"
+    "shape": "Round",
+    "sizeOptions": [
+      "14x14",
+      "16x16",
+      "18x18"
+    ],
+    "minDimension": 12.25
   },
   {
     "id": "N05",
@@ -856,7 +862,13 @@
     "lighting": "With LED",
     "isNew": true,
     "productUrl": "/products/om-floral-glass-frame-led/",
-    "shape": "Rectangle"
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "20x14",
+      "24x16",
+      "28x18"
+    ],
+    "minDimension": 12.25
   },
   {
     "id": "N35",
@@ -2517,7 +2529,13 @@
     "pricePerSqIn": 15,
     "productionNotes": "White glass with golden letter and LED",
     "productUrl": "/products/twin-laurel-glass-circle-led/",
-    "shape": "Round"
+    "shape": "Round",
+    "sizeOptions": [
+      "14x14",
+      "16x16",
+      "18x18"
+    ],
+    "minDimension": 12.25
   },
   {
     "id": "P26",
