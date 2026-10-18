@@ -1,5 +1,38 @@
 [
   {
+    "id": "N84",
+    "name": "Woodgrain Glass Round LED",
+    "category": "Glass",
+    "description": "Round glass nameplate with a wood-look vinyl coating, golden acrylic letters and LED lighting. Features a devotional motif and personalised names and house number.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/woodgrain-glass-led-on.jpg",
+        "width": 2000,
+        "height": 2000,
+        "alt": "Woodgrain Glass Round LED — LED on"
+      },
+      {
+        "src": "/assets/new-arrivals/woodgrain-glass-led-off.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Woodgrain Glass Round LED — LED off"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "productionNotes": "Glass plate · Wood-look vinyl coating · Golden acrylic letters · With LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/woodgrain-glass-round-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "14x14",
+      "16x16",
+      "18x18"
+    ],
+    "minDimension": 12.25
+  },
+  {
     "id": "N80",
     "name": "Maharashtrian Glass Design",
     "category": "Glass",
