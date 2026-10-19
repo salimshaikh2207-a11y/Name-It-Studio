@@ -60,3 +60,7 @@ for target in R.rglob('*.html'):
  if target==R/'index.html':
   text=text.replace('/storefront-theme.css?v='+V,'/storefront-theme.css?v='+V+'-social').replace('/home.js?v='+V,'/home.js?v='+V+'-social')
  target.write_text(text)
+
+# Keep SEO metadata, category copy and image sitemap in sync after rebuilds.
+import runpy
+runpy.run_path(str(R / "scripts/update-seo.py"), run_name="__main__")
