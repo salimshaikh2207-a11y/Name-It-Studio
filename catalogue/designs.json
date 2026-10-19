@@ -1,5 +1,32 @@
 [
   {
+    "id": "N85",
+    "name": "Radha Krishna White Acrylic Rose Gold",
+    "category": "Acrylic",
+    "description": "White acrylic nameplate with raised rose gold acrylic letters and a Radha Krishna logo, peacock feather and flute. Without LED; no wiring required. Personalise your name and house number.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/radha-krishna-white-acrylic-rose-gold.webp",
+        "width": 1619,
+        "height": 971,
+        "alt": "Radha Krishna White Acrylic Rose Gold — without LED"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 12,
+    "productionNotes": "White acrylic · Rose gold acrylic letters and logo · Without LED · 9 × 15 inches: ₹1,620 + ₹150 shipping (₹1,770 total). Custom sizes quoted before production.",
+    "lighting": "Without LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/radha-krishna-white-acrylic-rose-gold/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "15x9"
+    ],
+    "standardPrice": 1620,
+    "shippingCharge": 150
+  },
+  {
     "id": "N84",
     "name": "Swami Samarth Woodgrain Glass Round LED",
     "category": "Glass",
