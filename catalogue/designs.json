@@ -1,5 +1,30 @@
 [
   {
+    "id": "N86",
+    "name": "Shaikh Family Woodgrain Acrylic",
+    "category": "Acrylic",
+    "description": "Rectangular acrylic nameplate with a warm wood-look vinyl finish, white raised acrylic letters and intricate white mandala cutwork. Personalise it with your family name.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/shaikh-family-woodgrain.webp",
+        "width": 1400,
+        "height": 700,
+        "alt": "Shaikh Family wood-look acrylic nameplate with white raised lettering and mandala cutwork"
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 12,
+    "productionNotes": "Acrylic plate · Wood-look vinyl · White raised acrylic letters and mandala design · 9 × 15 inches: ₹1,620 at ₹12 per sq in.",
+    "lighting": "Confirm during customisation",
+    "isNew": true,
+    "productUrl": "/products/shaikh-family-woodgrain-acrylic/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "9x15"
+    ],
+    "standardPrice": 1620
+  },
+  {
     "id": "N85",
     "name": "Radha Krishna White Acrylic Rose Gold",
     "category": "Acrylic",
