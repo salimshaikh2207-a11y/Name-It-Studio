@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://nameitstudio.in/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://nameitstudio.in/catalogue/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://nameitstudio.in/how-to-order/</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://nameitstudio.in/led-nameplates/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://nameitstudio.in/glass-nameplates/</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://nameitstudio.in/engraved-charcoal/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://nameitstudio.in/devotional-nameplates/</loc>
@@ -1074,5 +1074,10 @@
     <loc>https://nameitstudio.in/products/shaikh-family-woodgrain-acrylic/</loc>
     <lastmod>2026-10-21</lastmod>
     <image:image><image:loc>https://nameitstudio.in/assets/new-arrivals/shaikh-family-woodgrain.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://nameitstudio.in/products/cream-charcoal-tree-of-life-led/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://nameitstudio.in/assets/new-arrivals/cream-charcoal-tree-of-life-led.webp</image:loc></image:image>
   </url>
 </urlset>

@@ -1,5 +1,34 @@
 [
   {
+    "id": "N87",
+    "name": "Cream Charcoal Tree of Life LED",
+    "category": "Engraved Mandala",
+    "description": "Round cream charcoal nameplate with golden raised acrylic letters and a tree logo, an intricately engraved border and LED lighting. Personalise your name and house number in English, Hindi or Marathi.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/cream-charcoal-tree-of-life-led.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Cream charcoal round LED nameplate with golden acrylic Nair’s Home lettering, tree logo and engraved border"
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 18,
+    "productionNotes": "Cream charcoal plate · Golden acrylic letters and tree logo · Engraved border · With LED · Suggested diameters: 12 in ₹2,592; 14 in ₹3,528; 16 in ₹4,608. Custom sizes available at ₹18/sq in; round designs are billed using diameter × diameter.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/cream-charcoal-tree-of-life-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "12x12",
+      "14x14",
+      "16x16"
+    ],
+    "standardPrice": 2592,
+    "customSizesAvailable": true
+  },
+  {
     "id": "N86",
     "name": "Shaikh Family Woodgrain Acrylic",
     "category": "Acrylic",
