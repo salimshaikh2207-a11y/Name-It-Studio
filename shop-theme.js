@@ -36,6 +36,7 @@ function setupSocialLinks(){
   social.innerHTML='<a href="https://www.instagram.com/nameitstudio.in/" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">◎</span> Instagram</a><a href="https://www.facebook.com/profile.php?id=1320468437817367" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">f</span> Facebook</a><a href="https://share.google/3INrXMV6OXjq8HobA" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">G</span> Google</a>';
   footer.append(social);
  }
+ document.querySelectorAll('.studio-footer,.footer-contact').forEach(node=>{if(!node.querySelector('a[href="/privacy/"]')){const a=document.createElement('a');a.href='/privacy/';a.textContent='Privacy & enquiries';a.className='nis-privacy-link';node.append(a);}});
 }
 function setupCallOption(){
  const phone='+91 90824 05720',tel='tel:+919082405720';
