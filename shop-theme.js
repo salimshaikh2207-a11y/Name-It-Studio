@@ -94,7 +94,7 @@ function setupVisitorLeadForm(){
   lines.push('','My name: '+name,'WhatsApp / Phone: '+phone);if(area)lines.push('Area / City: '+area);
   lines.push('','Please prepare 4 artwork options and confirm the final size, construction and total before production.');
   const payload={method:'website_form',lead_type:'quick_enquiry',material:mat||'not_sure',design_id:d?.id||'not_selected',estimated_price:Number(estimate?.dataset.estimate||0)};
-  nis_track_event('whatsapp_quote_click',payload);nis_track_event('lead_form_submit',{form_name:'quick_enquiry',...payload});
+  nis_track_event('whatsapp_quote_click',payload);nis_track_event('quote_request_initiated',{form_name:'quick_enquiry',...payload});
   const link='https://wa.me/919082405720?text='+encodeURIComponent(lines.join('\n'));nis_track_event('enquiry_handoff',{form_name:'quick_enquiry',channel:'whatsapp',...payload});const opened=window.open(link,'_blank','noopener,noreferrer');if(!opened){const a=document.createElement('a');a.href=link;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Open WhatsApp to send enquiry';a.className='dark-button';form.append(a);}
  });
 }
