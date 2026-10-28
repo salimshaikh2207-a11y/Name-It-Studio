@@ -22,7 +22,7 @@ const more=document.getElementById('more-options');function reveal(target){if(mo
 function setupNavigation(){
  const header=document.querySelector('.shop-header'),nav=header?.querySelector('nav');if(!header||!nav)return;
  nav.classList.add('nis-nav');
- nav.innerHTML='<a href="/">Home</a><a href="/catalogue/">Shop</a><a href="/customize/">Customise</a><a href="/how-to-order/">How it works</a><a href="/#real-work">Real work</a><a href="/bulk-orders-resellers/">Bulk / Reseller</a><a href="/#contact">Contact</a>';
+ nav.innerHTML='<a href="/">Home</a><a href="/catalogue/">Shop designs</a><a href="/customize/">Customise</a><a href="/how-to-order/">How to order</a><a href="/#quick-enquiry">Get a quote</a>';
  const menu=document.createElement('button');menu.type='button';menu.className='nav-toggle';menu.setAttribute('aria-expanded','false');menu.setAttribute('aria-label','Open site menu');menu.innerHTML='<span>Menu</span><span aria-hidden="true">☰</span>';nav.before(menu);
  const setOpen=open=>{header.classList.toggle('nav-open',open);menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Close site menu':'Open site menu');menu.lastElementChild.textContent=open?'×':'☰'};
  menu.addEventListener('click',()=>setOpen(!header.classList.contains('nav-open')));nav.addEventListener('click',e=>{if(e.target.closest('a'))setOpen(false)});document.addEventListener('keydown',e=>{if(e.key==='Escape')setOpen(false)});
@@ -94,8 +94,8 @@ function setupVisitorLeadForm(){
   lines.push('','My name: '+name,'WhatsApp / Phone: '+phone);if(area)lines.push('Area / City: '+area);
   lines.push('','Please prepare 4 artwork options and confirm the final size, construction and total before production.');
   const payload={method:'website_form',lead_type:'quick_enquiry',material:mat||'not_sure',design_id:d?.id||'not_selected',estimated_price:Number(estimate?.dataset.estimate||0)};
-  nis_track_event('whatsapp_quote_click',payload);nis_track_event('generate_lead',payload);nis_track_event('lead_form_submit',{form_name:'quick_enquiry',...payload});
-  window.open('https://wa.me/919082405720?text='+encodeURIComponent(lines.join('\n')),'_blank','noopener,noreferrer');
+  nis_track_event('whatsapp_quote_click',payload);nis_track_event('lead_form_submit',{form_name:'quick_enquiry',...payload});
+  const link='https://wa.me/919082405720?text='+encodeURIComponent(lines.join('\n'));const opened=window.open(link,'_blank','noopener,noreferrer');if(!opened){const a=document.createElement('a');a.href=link;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Open WhatsApp to send enquiry';a.className='dark-button';form.append(a);}
  });
 }
 setupNavigation();setupSocialLinks();setupCallOption();setupVisitorLeadForm();window.addEventListener('hashchange',linked);linked()})();
