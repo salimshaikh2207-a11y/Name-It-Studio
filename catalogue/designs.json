@@ -1,5 +1,513 @@
 [
   {
+    "id": "N88",
+    "name": "Peacock Feather Gold LED",
+    "category": "Glass",
+    "description": "Round white glass nameplate with golden mirror acrylic lettering, peacock-feather cutwork, ornamental border and warm white LED lighting. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/peacock-feather-gold-glass-led.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Peacock Feather Gold LED — personalised glass nameplate"
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Glass base · White finish · Gold mirror acrylic lettering · Warm white LED · Starting size: 15-inch diameter, ₹3,375 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/peacock-feather-gold-glass-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "15x15"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 15,
+    "standardPrice": 3375,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true
+  },
+  {
+    "id": "N89",
+    "name": "Round Salon Logo LED",
+    "category": "Glass",
+    "description": "Round white glass business sign with rose gold mirror acrylic lettering and your salon or studio logo, illuminated with warm white LEDs. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/round-salon-logo-rose-gold-glass-led.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Round Salon Logo LED — personalised glass nameplate"
+      }
+    ],
+    "collection": "Business signs",
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Glass base · White finish · Rose gold mirror acrylic lettering · Warm white LED · Starting size: 15-inch diameter, ₹3,375 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/round-salon-logo-rose-gold-glass-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "15x15"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 15,
+    "standardPrice": 3375,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true
+  },
+  {
+    "id": "N90",
+    "name": "Floral Diamond Border LED",
+    "category": "Glass",
+    "description": "Round white glass nameplate with golden mirror acrylic lettering, a diamond-textured floral border and warm white LEDs. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/floral-diamond-border-glass-led.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Floral Diamond Border LED — personalised glass nameplate"
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Glass base · White finish · Gold mirror acrylic lettering · Warm white LED · Starting size: 15-inch diameter, ₹3,375 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/floral-diamond-border-glass-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "15x15"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 15,
+    "standardPrice": 3375,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true
+  },
+  {
+    "id": "N91",
+    "name": "Maratha Fort LED",
+    "category": "Glass",
+    "description": "Polygon white glass nameplate featuring a Maratha fort silhouette, saffron flag, seal and personalised lettering with warm white LED lighting. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/maratha-fort-glass-led.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Maratha Fort LED — personalised glass nameplate"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Glass base · White finish · Mixed colours acrylic lettering · Warm white LED · Starting size: 15 × 15 inches, ₹3,375 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/maratha-fort-glass-led/",
+    "shape": "Polygon",
+    "sizeOptions": [
+      "15x15"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 15,
+    "standardPrice": 3375,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true
+  },
+  {
+    "id": "N92",
+    "name": "Radhe Radhe Gold Oval",
+    "category": "Acrylic",
+    "description": "White acrylic capsule nameplate with golden mirror acrylic letters, flute detailing and colour-printed peacock feather, cow and lotus motifs. Without LED. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/radhe-radhe-gold-acrylic-capsule.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Radhe Radhe Gold Oval — personalised acrylic nameplate"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 12,
+    "priceExtra": 0,
+    "productionNotes": "Acrylic base · White finish · Gold mirror acrylic lettering · No LED · Starting size: 12 × 18 inches, ₹2,592 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation.",
+    "lighting": "Without LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/radhe-radhe-gold-acrylic-capsule/",
+    "shape": "Capsule",
+    "sizeOptions": [
+      "12x18"
+    ],
+    "standardWidth": 12,
+    "standardHeight": 18,
+    "standardPrice": 2592,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": false
+  },
+  {
+    "id": "N93",
+    "name": "Round Corporate Logo LED",
+    "category": "Glass",
+    "description": "Circular white glass corporate sign with a personalised multicolour acrylic logo and business lettering, illuminated with warm white LEDs. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/round-corporate-logo-glass-led.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Round Corporate Logo LED — personalised glass nameplate"
+      }
+    ],
+    "collection": "Business signs",
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Glass base · White finish · Mixed colours acrylic lettering · Warm white LED · Starting size: 15-inch diameter, ₹3,375 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/round-corporate-logo-glass-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "15x15"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 15,
+    "standardPrice": 3375,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true
+  },
+  {
+    "id": "N94",
+    "name": "Ganesha Engraved Border",
+    "category": "Engraved Mandala",
+    "description": "Square cream charcoal nameplate with golden mirror acrylic Ganesha and lettering, framed by an intricately engraved border. Without LED. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/ganesha-engraved-cream-charcoal.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Ganesha Engraved Border — personalised charcoal board nameplate"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 16,
+    "priceExtra": 0,
+    "productionNotes": "Charcoal board base · Cream finish · Gold mirror acrylic lettering · No LED · Starting size: 12 × 12 inches, ₹2,304 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation.",
+    "lighting": "Without LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/ganesha-engraved-cream-charcoal/",
+    "shape": "Square",
+    "sizeOptions": [
+      "12x12"
+    ],
+    "standardWidth": 12,
+    "standardHeight": 12,
+    "standardPrice": 2304,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": false
+  },
+  {
+    "id": "N95",
+    "name": "Radha Krishna Photo LED",
+    "category": "Glass",
+    "description": "White glass nameplate with a colour-printed Radha Krishna photo, personalised lettering and warm white LED lighting. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/radha-krishna-photo-glass-led.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Radha Krishna Photo LED — personalised glass nameplate"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Glass base · White finish · Mixed colours acrylic lettering · Warm white LED · Starting size: 15 × 9 inches, ₹2,025 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/radha-krishna-photo-glass-led/",
+    "shape": "Capsule",
+    "sizeOptions": [
+      "15x9"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 9,
+    "standardPrice": 2025,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true
+  },
+  {
+    "id": "N96",
+    "name": "Radha Krishna Rose Gold Capsule",
+    "category": "Engraved Mandala",
+    "description": "Cream charcoal capsule nameplate with rose gold mirror acrylic letters, flute and ornamental details, plus colour-printed Radha Krishna and feather motifs. Without LED. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/radha-krishna-rose-gold-charcoal-capsule.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Radha Krishna Rose Gold Capsule — personalised charcoal board nameplate"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 16,
+    "priceExtra": 0,
+    "productionNotes": "Charcoal board base · Cream finish · Rose gold mirror acrylic lettering · No LED · Starting size: 10 × 16 inches, ₹2,560 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation.",
+    "lighting": "Without LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/radha-krishna-rose-gold-charcoal-capsule/",
+    "shape": "Capsule",
+    "sizeOptions": [
+      "10x16"
+    ],
+    "standardWidth": 10,
+    "standardHeight": 16,
+    "standardPrice": 2560,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": false
+  },
+  {
+    "id": "N97",
+    "name": "Ganesha Charcoal Lattice LED",
+    "category": "Engraved Mandala",
+    "description": "Capsule nameplate combining a charcoal-textured face, golden mirror acrylic letters, Ganesha and an illuminated engraved lattice border. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/ganesha-charcoal-lattice-led.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Ganesha Charcoal Lattice LED — personalised mixed materials nameplate"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 18,
+    "priceExtra": 0,
+    "productionNotes": "Mixed materials base · Other finish · Gold mirror acrylic lettering · Warm white LED · Starting size: 10 × 15 inches, ₹2,700 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/ganesha-charcoal-lattice-led/",
+    "shape": "Capsule",
+    "sizeOptions": [
+      "10x15"
+    ],
+    "standardWidth": 10,
+    "standardHeight": 15,
+    "standardPrice": 2700,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true
+  },
+  {
+    "id": "N98",
+    "name": "Om Gold Rim Family LED",
+    "category": "Glass",
+    "description": "Round white glass nameplate with a gold rim, Om and auspicious symbols, personalised family lettering and warm white LEDs. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/om-gold-rim-family-glass-led.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Om Gold Rim Family LED — personalised glass nameplate"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Glass base · White finish · Mixed colours acrylic lettering · Warm white LED · Starting size: 15-inch diameter, ₹3,375 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/om-gold-rim-family-glass-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "15x15"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 15,
+    "standardPrice": 3375,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true
+  },
+  {
+    "id": "N99",
+    "name": "Ganesha Flower Box LED",
+    "category": "Acrylic",
+    "description": "Round white acrylic Ganesha nameplate with golden mirror acrylic lettering, warm white LED lighting and an attached flower box. Flowers are not included. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/ganesha-flower-box-acrylic-led.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Ganesha Flower Box LED — personalised acrylic nameplate"
+      }
+    ],
+    "collection": "Devotional décor",
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Acrylic base · White finish · Gold mirror acrylic lettering · Warm white LED · Starting size: 15 × 15 inches, ₹3,375 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached. Flower box included; flowers not included.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/ganesha-flower-box-acrylic-led/",
+    "shape": "Custom Shape",
+    "sizeOptions": [
+      "15x15"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 15,
+    "standardPrice": 3375,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true,
+    "flowersIncluded": false
+  },
+  {
+    "id": "N100",
+    "name": "Black Gold Nameplate with Top Light",
+    "category": "Acrylic",
+    "description": "Custom-shaped black acrylic nameplate with golden mirror acrylic lettering and a separate cool white top light. No leaf or yellow-script decoration. Custom sizes and English, Hindi or Marathi lettering available.",
+    "images": [
+      {
+        "src": "/assets/new-arrivals/black-gold-acrylic-top-light.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Black Gold Nameplate with Top Light — personalised acrylic nameplate"
+      }
+    ],
+    "collection": "Nameplates",
+    "pricePerSqIn": 15,
+    "priceExtra": 100,
+    "productionNotes": "Acrylic base · Black finish · Gold mirror acrylic lettering · Cool white top light · Starting size: 10 × 16 inches, ₹2,500 (includes ₹100 extra) + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached. Includes cool white top light. Marked leaf and yellow script are excluded.",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/black-gold-acrylic-top-light/",
+    "shape": "Custom Shape",
+    "sizeOptions": [
+      "10x16"
+    ],
+    "standardWidth": 10,
+    "standardHeight": 16,
+    "standardPrice": 2500,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "mounting": "Hanging",
+    "leadTime": "3–5 working days",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "powerCableAttached": true
+  },
+  {
     "id": "N87",
     "name": "Cream Charcoal Tree of Life LED",
     "category": "Engraved Mandala",
