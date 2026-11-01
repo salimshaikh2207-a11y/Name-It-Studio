@@ -6,10 +6,22 @@
     "description": "Round white glass nameplate with golden mirror acrylic lettering, peacock-feather cutwork, ornamental border and warm white LED lighting. Custom sizes and English, Hindi or Marathi lettering available.",
     "images": [
       {
-        "src": "/assets/new-arrivals/peacock-feather-gold-glass-led.webp",
+        "src": "/assets/product-galleries/n88/led-on.webp",
         "width": 1254,
         "height": 1254,
-        "alt": "Peacock Feather Gold LED — personalised glass nameplate"
+        "alt": "Peacock Feather Gold — warm-white LED on, illustrative preview"
+      },
+      {
+        "src": "/assets/product-galleries/n88/led-off.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Peacock Feather Gold — LEDs off, illustrative preview"
+      },
+      {
+        "src": "/assets/product-galleries/n88/details.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Peacock Feather Gold — white glass, gold mirror acrylic and peacock cutwork details"
       }
     ],
     "collection": "Nameplates",
@@ -17,7 +29,7 @@
     "priceExtra": 0,
     "productionNotes": "Glass base · White finish · Gold mirror acrylic lettering · Warm white LED · Starting size: 15-inch diameter, ₹3,375 + ₹150 delivery · Custom sizes · English, Hindi and Marathi · Hanging mount · 3–5 working days from confirmation. Power cable attached.",
     "lighting": "With LED",
-    "lightingLocked": true,
+    "lightingLocked": false,
     "isNew": true,
     "productUrl": "/products/peacock-feather-gold-glass-led/",
     "shape": "Round",
@@ -36,7 +48,13 @@
       "Hindi",
       "Marathi"
     ],
-    "powerCableAttached": true
+    "powerCableAttached": true,
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "illustrative-preview"
   },
   {
     "id": "N89",
