@@ -1,5 +1,49 @@
 [
   {
+    "id": "N103",
+    "name": "Panchmukhi Hanuman Charcoal LED",
+    "category": "Engraved Mandala",
+    "collection": "Nameplates",
+    "description": "Vertical capsule nameplate with a cream charcoal texture, brown acrylic lettering and border, engraved Panchmukhi Hanuman motif, flute divider and warm white LED lighting. Personalise your name and house number. Custom sizes available.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n103/led-on.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Panchmukhi Hanuman Charcoal LED at an entrance — led on, illustrative installation preview"
+      },
+      {
+        "src": "/assets/product-galleries/n103/led-off.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Panchmukhi Hanuman Charcoal LED at an entrance — led off, illustrative installation preview"
+      }
+    ],
+    "pricePerSqIn": 18,
+    "priceExtra": 0,
+    "productionNotes": "Cream charcoal plate · Brown acrylic letters, border and ornaments · Engraved Panchmukhi Hanuman motif · Warm white LED · Starting size: 12 × 20 inches, ₹4,320 + ₹150 delivery · Custom sizes available · 3–5 working days from confirmation.",
+    "lighting": "With LED",
+    "lightingLocked": false,
+    "isNew": true,
+    "productUrl": "/products/panchmukhi-hanuman-charcoal-led/",
+    "shape": "Capsule",
+    "sizeOptions": [
+      "12x20"
+    ],
+    "standardWidth": 12,
+    "standardHeight": 20,
+    "standardPrice": 4320,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "illustrative-entrance-preview"
+  },
+  {
     "id": "N101",
     "name": "Jain Navkar White Glass LED",
     "category": "Glass",
