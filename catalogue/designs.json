@@ -1,5 +1,93 @@
 [
   {
+    "id": "N101",
+    "name": "Jain Navkar White Glass LED",
+    "category": "Glass",
+    "collection": "Nameplates",
+    "description": "White glass nameplate with golden acrylic lettering, a Navkar prayer plaque, Jain symbols, a lotus divider and warm white LED lighting. Personalise your name and house number. Custom sizes available.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n101/led-on.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Jain Navkar White Glass LED — led on, refined product preview"
+      },
+      {
+        "src": "/assets/product-galleries/n101/led-off.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Jain Navkar White Glass LED — led off, refined product preview"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "White glass base · Golden acrylic lettering and motifs · Warm white LED · Starting size: 15 × 9 inches, ₹2,025 + ₹150 delivery · Custom sizes available · 3–5 working days from confirmation.",
+    "lighting": "With LED",
+    "lightingLocked": false,
+    "isNew": true,
+    "productUrl": "/products/jain-navkar-white-glass-led/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "15x9"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 9,
+    "standardPrice": 2025,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "refined-product-preview"
+  },
+  {
+    "id": "N102",
+    "name": "Shiv Damru Ornate White Glass LED",
+    "category": "Glass",
+    "collection": "Nameplates",
+    "description": "White glass nameplate with golden acrylic lettering, a wavy ornate border, Shiva invocation, damru divider and warm white LED lighting. Personalise your name and house number. Custom sizes available.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n102/led-on.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Shiv Damru Ornate White Glass LED — led on, refined product preview"
+      },
+      {
+        "src": "/assets/product-galleries/n102/led-off.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Shiv Damru Ornate White Glass LED — led off, refined product preview"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "White glass base · Golden acrylic lettering and motifs · Warm white LED · Starting size: 15 × 9 inches, ₹2,025 + ₹150 delivery · Custom sizes available · 3–5 working days from confirmation.",
+    "lighting": "With LED",
+    "lightingLocked": false,
+    "isNew": true,
+    "productUrl": "/products/shiv-damru-ornate-white-glass-led/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "15x9"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 9,
+    "standardPrice": 2025,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "refined-product-preview"
+  },
+  {
     "id": "N88",
     "name": "Peacock Feather Gold LED",
     "category": "Glass",
