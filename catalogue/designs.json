@@ -1,5 +1,56 @@
 [
   {
+    "id": "N104",
+    "name": "Ganesha Flute White Glass LED",
+    "category": "Glass",
+    "collection": "Nameplates",
+    "description": "Round white glass nameplate with golden acrylic Ganesha motif, peacock feather and flute divider, personalised lettering and warm white LED lighting. Personalise your name and house number. Custom sizes available.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n104/led-on.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Ganesha Flute White Glass LED at an entrance, warm white LED on"
+      },
+      {
+        "src": "/assets/product-galleries/n104/led-off.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Ganesha Flute White Glass nameplate with golden acrylic lettering, LED off"
+      },
+      {
+        "src": "/assets/product-galleries/n104/details.webp",
+        "width": 1254,
+        "height": 1254,
+        "alt": "Ganesha Flute White Glass LED product details: 15 × 15 inches, ₹3,375 plus ₹150 delivery"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "White glass base · Golden acrylic letters and motifs · Warm white LED · Starting size: 15 × 15 inches, ₹3,375 + ₹150 delivery · Custom sizes available · 3–5 working days from confirmation.",
+    "lighting": "With LED",
+    "lightingLocked": false,
+    "isNew": true,
+    "productUrl": "/products/ganesha-flute-white-glass-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "15x15"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 15,
+    "standardPrice": 3375,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "illustrative-entrance-preview",
+    "powerCableAttached": true
+  },
+  {
     "id": "N103",
     "name": "Panchmukhi Hanuman Charcoal LED",
     "category": "Engraved Mandala",
