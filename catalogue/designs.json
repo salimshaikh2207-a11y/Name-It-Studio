@@ -1338,17 +1338,17 @@
     "id": "N20",
     "name": "Buddha Tree of Life Capsule LED",
     "category": "Engraved Mandala",
-    "description": "Charcoal wood with engraved design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
+    "description": "White charcoal plate with golden lettering and LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
     "images": [
       {
-        "src": "/assets/latest/n20.webp",
+        "src": "/assets/latest/n20-white-charcoal.webp",
         "width": 1200,
         "height": 1200
       }
     ],
     "collection": "Nameplates",
     "pricePerSqIn": 18,
-    "productionNotes": "Charcoal wood with engraved design · With LED",
+    "productionNotes": "White charcoal plate with golden lettering · With LED",
     "lighting": "With LED",
     "isNew": true,
     "productUrl": "/products/peacock-crest-tile-capsule-led/",
