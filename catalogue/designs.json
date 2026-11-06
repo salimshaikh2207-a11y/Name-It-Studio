@@ -1,5 +1,56 @@
 [
   {
+    "id": "N105",
+    "name": "Shri Chhaya Round Glass LED",
+    "category": "Glass",
+    "collection": "Devotional décor",
+    "description": "Round white glass nameplate with golden acrylic lettering, lotus detailing, an orange and black acrylic devotional logo and text, and warm white LED lighting. Personalise your name and flat number. Custom sizes available.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n105/led-on.jpg",
+        "width": 1080,
+        "height": 1080,
+        "alt": "Shri Chhaya round white glass nameplate with golden lettering, warm white LED on"
+      },
+      {
+        "src": "/assets/product-galleries/n105/led-off.jpg",
+        "width": 1080,
+        "height": 1080,
+        "alt": "Shri Chhaya round white glass nameplate and orange and black acrylic devotional logo, LED off"
+      },
+      {
+        "src": "/assets/product-galleries/n105/details.jpg",
+        "width": 1080,
+        "height": 1080,
+        "alt": "Shri Chhaya product details: 14 × 14 inches at ₹15 per sq in, ₹2,940 plus ₹150 delivery. Custom sizes available."
+      }
+    ],
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "White glass base · Golden acrylic letters · Orange and black acrylic devotional logo and text · Warm white LED · 14 × 14 inches, ₹2,940 + ₹150 delivery · Custom sizes available · 3–5 working days from confirmation.",
+    "lighting": "With LED",
+    "lightingLocked": false,
+    "isNew": true,
+    "productUrl": "/products/shri-chhaya-round-glass-led/",
+    "shape": "Round",
+    "sizeOptions": [
+      "14x14"
+    ],
+    "standardWidth": 14,
+    "standardHeight": 14,
+    "standardPrice": 2940,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "illustrative-preview",
+    "powerCableAttached": true
+  },
+  {
     "id": "N104",
     "name": "Ganesha Flute White Glass LED",
     "category": "Glass",
