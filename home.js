@@ -4,7 +4,15 @@ if(params.has('design')){location.replace('/customize/'+location.search+location
 const banner=document.querySelector('.social-banner');if(!banner)return;
 const slides=[...banner.querySelectorAll('[data-banner-slide]')],buttons=[...banner.querySelectorAll('[data-banner-index]')],pause=banner.querySelector('[data-banner-pause]'),motion=matchMedia('(prefers-reduced-motion: reduce)');
 let current=0,paused=motion.matches,timer;
-function select(index){current=(index+slides.length)%slides.length;slides.forEach((slide,i)=>slide.hidden=i!==current);buttons.forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.bannerIndex)===current)));}
+let request=0;
+async function select(index){
+ const next=(index+slides.length)%slides.length,version=++request,image=slides[next].querySelector('img');
+ if(image){image.loading='eager';try{await image.decode();}catch{if(!image.naturalWidth)return;}}
+ if(version!==request)return;
+ current=next;
+ slides.forEach((slide,i)=>slide.hidden=i!==current);
+ buttons.forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.bannerIndex)===current)));
+}
 function schedule(){clearInterval(timer);if(pause)pause.textContent=paused?'Play':'Pause';if(!paused&&!document.hidden&&!banner.matches(':hover')&&!banner.contains(document.activeElement))timer=setInterval(()=>select(current+1),5000);}
 buttons.forEach(b=>b.addEventListener('click',()=>{select(Number(b.dataset.bannerIndex));schedule();}));
 banner.querySelector('[data-banner-prev]')?.addEventListener('click',()=>{select(current-1);schedule();});
@@ -16,3 +24,4 @@ banner.addEventListener('touchstart',e=>{touchX=e.touches[0].clientX;},{passive:
 banner.addEventListener('touchend',e=>{if(touchX===null)return;const delta=e.changedTouches[0].clientX-touchX;if(Math.abs(delta)>60){select(current+(delta<0?1:-1));schedule();}touchX=null;},{passive:true});
 select(0);schedule();
 })();
+

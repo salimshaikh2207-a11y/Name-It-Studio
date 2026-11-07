@@ -1,29 +1,35 @@
 (()=>{
  'use strict';
- const $=id=>document.getElementById(id);let cards=[],selected,opener,collections=new Set();
+ const $=id=>document.getElementById(id);let cards=[],selected,opener,collections=new Set(),visibleLimit=24;
  const money=n=>'₹'+Number(n).toLocaleString('en-IN');
- const loaded=fetch('/catalogue/designs.json?v=20261011-design-names',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json()});loaded.catch(()=>{});
+ const loaded=window.nisCatalogue.data;loaded.catch(()=>{});
  function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
- function cardMarkup(d){
-   const img=d.images&&d.images[0]?d.images[0]:{};
-   const rate=d.pricePerSqIn?money(d.pricePerSqIn)+' / sq in':'Price on quote';
-   const detail=d.productionNotes||d.description;
-   const productUrl=d.productUrl||'#design-'+encodeURIComponent(d.id);
-   return '<article class="design-card" id="design-'+esc(d.id)+'" data-design-shape="'+esc(d.shape||'Custom Shape')+'" data-design-category="'+esc(d.category)+'" data-design-new="'+String(!!d.isNew)+'" data-design-collection="'+esc(d.collection||'')+'" data-design-search="'+esc((d.name+' '+d.category+' '+(d.shape||'')+' '+(d.collection||'')+' '+d.description+' '+(d.productionNotes||'')).toLowerCase())+'"><a class="design-picture" href="'+productUrl+'" aria-label="View '+esc(d.name)+'"><img src="'+esc(img.src)+'" width="'+esc(img.width||1200)+'" height="'+esc(img.height||1200)+'" alt="'+esc(d.name)+' — '+esc(d.description)+'" loading="lazy"><span class="design-view-pill">View product</span></a><div class="design-card-body"><div class="design-card-topline"><span>'+esc(d.category)+' · '+esc(d.shape||'Custom Shape')+'</span><strong>'+esc(rate)+'</strong></div><h3><a href="'+productUrl+'">'+esc(d.name)+'</a></h3><p class="design-description">'+esc(detail)+'</p><div class="design-card-proof"><span>4 artwork options</span><span>Made to order</span></div><div class="design-card-actions"><a class="button primary" href="'+productUrl+'">View & customize →</a><button class="design-quick" data-design-open="'+esc(d.id)+'" type="button">Quick quote</button></div></div></article>';
- }
+ function cardMarkup(d){return window.nisCatalogue.card(d,true);}
  function bindCard(card){card.querySelectorAll('[data-design-open]').forEach(b=>b.onclick=()=>open(b.dataset.designOpen,b));}
  async function build(){
    const data=await loaded;collections=new Set(data.map(d=>d.collection));const grid=document.querySelector('.design-grid');if(!grid)return;
    grid.innerHTML=data.map(cardMarkup).join('');
-   cards=[...grid.querySelectorAll('.design-card')];cards.forEach(bindCard);
+   cards=[...grid.querySelectorAll('.design-card')];cards.forEach((c,i)=>{const d=data[i];c.dataset.designSearch=(d.name+' '+d.description+' '+(d.productionNotes||'')).toLowerCase();c.dataset.designCategory=d.category;c.dataset.designShape=d.shape||'Custom Shape';c.dataset.designCollection=d.collection||'';c.dataset.designNew=String(!!d.isNew);c.dataset.designLighting=d.lighting||'';c.dataset.price=window.nisCatalogue.size(d).price;bindCard(c);});
    $('design-count').textContent=data.length+' designs · '+data.reduce((n,d)=>n+(d.images?.length||0),0)+' images';
    const params=new URLSearchParams(location.search),requested=params.get('material');
    if(requested&&['Acrylic','Glass','Engraved Mandala'].includes(requested))$('design-category').value=requested;
    const shape=params.get('shape');if(shape&&[...$('design-shape').options].some(o=>o.value===shape))$('design-shape').value=shape;
    $('design-search').value=params.get('q')||'';filter();linked();
  }
- function filter(){const q=$('design-search').value.toLowerCase().trim(),cat=$('design-category').value,shape=$('design-shape').value,params=new URLSearchParams(location.search),collection=params.get('category');let count=0;cards.forEach(c=>{c.hidden=!!((q&&!c.dataset.designSearch.includes(q))||(cat&&c.dataset.designCategory!==cat)||(shape&&c.dataset.designShape!==shape)||(collections.has(collection)&&c.dataset.designCollection!==collection)||(params.get('new')==='1'&&c.dataset.designNew!=='true'));if(!c.hidden)count++});$('design-count').textContent=count+' designs shown';$('design-empty').hidden=!!count}
- ['design-search','design-category','design-shape'].forEach(id=>$(id).addEventListener('input',filter));
+ function filter(reset=true){
+   if(reset)visibleLimit=24;
+   const q=$('design-search').value.toLowerCase().trim(),cat=$('design-category').value,shape=$('design-shape').value;
+   const params=new URLSearchParams(location.search),collection=params.get('category'),light=$('filter-lighting').value,budget=Number($('filter-budget').value),sort=$('filter-sort').value;
+   const matching=cards.filter(c=>(!q||c.dataset.designSearch.includes(q))&&(!cat||c.dataset.designCategory===cat)&&(!shape||c.dataset.designShape===shape)&&(!collections.has(collection)||c.dataset.designCollection===collection)&&(params.get('new')!=='1'||c.dataset.designNew==='true')&&(!light||c.dataset.designLighting===light)&&(!budget||Number(c.dataset.price)<=budget));
+   if(sort==='price-up')matching.sort((a,b)=>Number(a.dataset.price)-Number(b.dataset.price));
+   if(sort==='price-down')matching.sort((a,b)=>Number(b.dataset.price)-Number(a.dataset.price));
+   cards.forEach(c=>c.hidden=true);
+   const grid=document.querySelector('.design-grid');matching.forEach((c,i)=>{grid.append(c);c.hidden=i>=visibleLimit;});
+   $('design-count').textContent=Math.min(visibleLimit,matching.length)+' of '+matching.length+' designs shown';
+   $('design-empty').hidden=matching.length>0;$('design-more').hidden=matching.length<=visibleLimit;
+ }
+ ['design-search','design-category','design-shape','filter-lighting','filter-budget','filter-sort'].forEach(id=>$(id).addEventListener('input',()=>filter()));
+ $('design-more').onclick=()=>{visibleLimit+=24;filter(false);};
  let lastEstimateKey='';
  function estimate(track=false){
    if(!selected)return;
@@ -48,3 +54,4 @@
  document.querySelector('.design-grid')?.addEventListener('click',e=>{const a=e.target.closest('a[href^="#design-"]');if(a&&a.hash===location.hash){e.preventDefault();linked();}});
  window.addEventListener('hashchange',linked);build().catch(()=>{$('design-count').textContent='Unable to load designs. Please reload or contact info@nameitstudio.in.';});
 })();
+
