@@ -27,7 +27,7 @@ function setupNavigation(){
  const setOpen=open=>{header.classList.toggle('nav-open',open);menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Close site menu':'Open site menu');menu.lastElementChild.textContent=open?'×':'☰'};
  menu.addEventListener('click',()=>setOpen(!header.classList.contains('nav-open')));nav.addEventListener('click',e=>{if(e.target.closest('a'))setOpen(false)});document.addEventListener('keydown',e=>{if(e.key==='Escape')setOpen(false)});
  const path=location.pathname;nav.querySelectorAll('a').forEach(a=>{const href=a.getAttribute('href');if((href==='/'&&path==='/')||(href==='/catalogue/'&&path.startsWith('/catalogue'))||(href==='/how-to-order/'&&path.startsWith('/how-to-order')))a.setAttribute('aria-current','page')});
- if(!document.querySelector('.mobile-quick-nav')){const dock=document.createElement('div');dock.className='mobile-quick-nav';dock.setAttribute('role','navigation');dock.setAttribute('aria-label','Quick actions');dock.innerHTML='<a href="/catalogue/"><span aria-hidden="true">⌕</span>Shop</a><a href="/#quick-enquiry"><span aria-hidden="true">✦</span>Get 4 Designs</a><a class="quick-call" href="tel:+919082405720"><span aria-hidden="true">☎</span>Call Us</a><a class="quick-whatsapp" href="https://wa.me/919082405720" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">↗</span>WhatsApp</a>';document.body.append(dock)}
+ if(!document.querySelector('.mobile-quick-nav')){const dock=document.createElement('div');dock.className='mobile-quick-nav';dock.setAttribute('role','navigation');dock.setAttribute('aria-label','Quick actions');dock.innerHTML='<a href="/catalogue/"><span aria-hidden="true">⌕</span>Shop</a><a href="/#quick-enquiry"><span aria-hidden="true">✦</span>Get 4 Designs</a><a class="quick-call" href="tel:+919082405720"><span aria-hidden="true">☎</span>Call Us</a><a class="quick-whatsapp" href="https://wa.me/919082405720" target="_blank" rel="noopener noreferrer"><span aria-hidden="true"></span>WhatsApp</a>';document.body.append(dock)}
 }
 function setupSocialLinks(){
  const footer=document.querySelector('.footer-contact');
@@ -42,7 +42,7 @@ function setupCallOption(){
  const phone='+91 90824 05720',tel='tel:+919082405720';
  document.querySelectorAll('.footer-contact').forEach(footer=>{
   if(footer.querySelector('.footer-call'))return;
-  const a=document.createElement('a');a.className='footer-call';a.href=tel;a.innerHTML='<small>CALL US</small>'+phone+' ↗';
+  const a=document.createElement('a');a.className='footer-call';a.href=tel;a.innerHTML='<small>CALL US</small>'+phone+' ';
   const social=footer.querySelector('.social-links-inline');if(social)footer.insertBefore(a,social);else footer.append(a);
  });
  if(!document.querySelector('.site-call-cta')){

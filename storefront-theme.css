@@ -195,3 +195,5 @@ body.nis-luxe{background:#fff;color:#222;font-family:'Lato',Arial,sans-serif;fon
 @media(max-width:359px){
  .nis-luxe .current-grid,.nis-luxe .design-grid,.nis-luxe #best-sellers .current-grid{grid-template-columns:1fr}
 }
+
+@media(max-width:600px){.nis-luxe .mobile-quick-nav a>span{display:none}.nis-luxe .mobile-quick-nav .quick-whatsapp{background:#244b3b;color:#fff;border-radius:6px;margin:4px;min-height:44px}}
