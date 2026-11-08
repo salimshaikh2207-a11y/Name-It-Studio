@@ -1,5 +1,56 @@
 [
   {
+    "id": "N107",
+    "name": "Buddha Tree Tile-Finish LED Nameplate",
+    "category": "Engraved Mandala",
+    "collection": "Devotional décor",
+    "description": "Personalised rectangular nameplate featuring Buddha beneath a Bodhi tree, golden lettering and frame, a light tile-finish base and warm LED illumination. Customise your name and house number. Custom sizes available.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n107/led-on.jpg",
+        "width": 1536,
+        "height": 1024,
+        "alt": "Buddha Tree nameplate with golden lettering, a light tile-finish base and warm LED on"
+      },
+      {
+        "src": "/assets/product-galleries/n107/led-off.jpg",
+        "width": 1536,
+        "height": 1024,
+        "alt": "Buddha Tree nameplate with golden lettering and frame, light tile-finish base, LED off"
+      },
+      {
+        "src": "/assets/product-galleries/n107/details.jpg",
+        "width": 1122,
+        "height": 1402,
+        "alt": "Buddha Tree LED nameplate details: 16 × 24 inches, ₹18 per sq in, ₹6,912 plus ₹150 delivery. Custom sizes available."
+      }
+    ],
+    "pricePerSqIn": 18,
+    "priceExtra": 0,
+    "productionNotes": "Light tile-finish base · Golden lettering, frame and Buddha tree motif · Warm LED illumination · 16 × 24 inches (24 wide × 16 high), ₹6,912 + ₹150 delivery · Custom sizes available · 3–5 working days from confirmation.",
+    "lighting": "With LED",
+    "lightingLocked": false,
+    "isNew": true,
+    "productUrl": "/products/buddha-tree-tile-led/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "24x16"
+    ],
+    "standardWidth": 24,
+    "standardHeight": 16,
+    "standardPrice": 6912,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "illustrative-preview",
+    "powerCableAttached": true
+  },
+  {
     "id": "N106",
     "name": "Swami Samarth Gold Border Glass LED",
     "category": "Glass",
