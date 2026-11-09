@@ -1951,9 +1951,16 @@
     "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
     "images": [
       {
-        "src": "/assets/latest/n40.webp",
+        "src": "/assets/latest/n40.webp?v=20261109",
         "width": 1200,
-        "height": 1200
+        "height": 1200,
+        "alt": "Floral Scroll Glass Frame LED preview showing warm white illumination around Raiben P. Patel, 901 and the golden floral scroll and butterflies"
+      },
+      {
+        "src": "/assets/product-galleries/n40/led-comparison.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Original product comparison with the LED lettering on above and the unlit plate below"
       }
     ],
     "collection": "Nameplates",
