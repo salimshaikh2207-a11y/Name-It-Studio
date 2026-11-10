@@ -1106,4 +1106,10 @@
     <loc>https://nameitstudio.in/returns/</loc>
     <lastmod>2026-11-09</lastmod>
   </url>
+  <url>
+    <loc>https://nameitstudio.in/products/round-diamond-led-nameplate/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n109/led-on.jpg</image:loc></image:image>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n109/led-off.jpg</image:loc></image:image>
+  </url>
 </urlset>

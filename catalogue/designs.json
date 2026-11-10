@@ -1,5 +1,55 @@
 [
   {
+    "id": "N109",
+    "name": "Round Diamond LED Nameplate",
+    "category": "Glass",
+    "collection": "Everyday classics",
+    "description": "A round white glass nameplate with a curved, textured charcoal layer and raised golden acrylic lettering. Warm white LEDs accent the lettering and curved edges and illuminate the frosted diamond-finish house number. Personalise it with your name and house number. Custom sizes are available.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n109/led-on.jpg",
+        "width": 1150,
+        "height": 1150,
+        "alt": "Round white glass nameplate with golden Manohar Rane lettering, curved charcoal layer and illuminated frosted 404"
+      },
+      {
+        "src": "/assets/product-galleries/n109/led-off.jpg",
+        "width": 1150,
+        "height": 1150,
+        "alt": "Round white glass nameplate with golden Manohar Rane lettering and frosted 404, LED off"
+      },
+      {
+        "src": "/assets/product-galleries/n109/details.jpg",
+        "width": 1122,
+        "height": 1402,
+        "alt": "Round Diamond LED Nameplate materials and pricing, 12 × 12 inches at ₹2,592 plus ₹150 delivery"
+      }
+    ],
+    "pricePerSqIn": 18,
+    "priceExtra": 0,
+    "productionNotes": "White glass · Curved textured charcoal layer · Golden acrylic lettering · Frosted diamond-finish house number · Warm white LED · 12 × 12 inches at ₹18/sq in · Custom sizes available",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/round-diamond-led-nameplate/",
+    "shape": "Round",
+    "sizeOptions": [
+      "12x12"
+    ],
+    "standardWidth": 12,
+    "standardHeight": 12,
+    "standardPrice": 2592,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "illustrative-preview",
+    "powerCableAttached": true
+  },
+  {
     "id": "N108",
     "name": "Hanuman Gada White Glass LED",
     "category": "Glass",
@@ -3699,3 +3749,4 @@
     "shape": "Round"
   }
 ]
+
