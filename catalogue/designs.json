@@ -992,31 +992,6 @@
     "customSizesAvailable": true
   },
   {
-    "id": "N86",
-    "name": "Shaikh Family Woodgrain Acrylic",
-    "category": "Acrylic",
-    "description": "Rectangular acrylic nameplate with a warm wood-look vinyl finish, white raised acrylic letters and intricate white mandala cutwork. Personalise it with your family name.",
-    "images": [
-      {
-        "src": "/assets/new-arrivals/shaikh-family-woodgrain.webp",
-        "width": 1400,
-        "height": 700,
-        "alt": "Shaikh Family wood-look acrylic nameplate with white raised lettering and mandala cutwork"
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 12,
-    "productionNotes": "Acrylic plate · Wood-look vinyl · White raised acrylic letters and mandala design · 9 × 15 inches: ₹1,620 at ₹12/sq in.",
-    "lighting": "Confirm during customisation",
-    "isNew": true,
-    "productUrl": "/products/shaikh-family-woodgrain-acrylic/",
-    "shape": "Rectangle",
-    "sizeOptions": [
-      "9x15"
-    ],
-    "standardPrice": 1620
-  },
-  {
     "id": "N85",
     "name": "Radha Krishna White Acrylic Rose Gold",
     "category": "Acrylic",
@@ -1409,26 +1384,6 @@
     "shape": "Capsule"
   },
   {
-    "id": "N11",
-    "name": "Blue Sunburst Flute Halo LED",
-    "category": "Engraved Mandala",
-    "description": "Charcoal wood with engraved design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
-    "images": [
-      {
-        "src": "/assets/latest/n11.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 18,
-    "productionNotes": "Charcoal wood with engraved design · With LED",
-    "lighting": "With LED",
-    "isNew": true,
-    "productUrl": "/products/blue-sunburst-flute-halo-led/",
-    "shape": "Round"
-  },
-  {
     "id": "N12",
     "name": "Black Ripple Oval LED",
     "category": "Engraved Mandala",
@@ -1509,26 +1464,6 @@
     "shape": "Rectangle"
   },
   {
-    "id": "N16",
-    "name": "Royal Gold Crest Halo LED",
-    "category": "Engraved Mandala",
-    "description": "Charcoal wood with engraved design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
-    "images": [
-      {
-        "src": "/assets/latest/n16.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 18,
-    "productionNotes": "Charcoal wood with engraved design · With LED",
-    "lighting": "With LED",
-    "isNew": true,
-    "productUrl": "/products/royal-gold-crest-halo-led/",
-    "shape": "Round"
-  },
-  {
     "id": "N17",
     "name": "Tree of Life Butterfly Frame LED",
     "category": "Engraved Mandala",
@@ -1547,26 +1482,6 @@
     "isNew": true,
     "productUrl": "/products/tree-of-life-butterfly-frame-led/",
     "shape": "Rectangle"
-  },
-  {
-    "id": "N18",
-    "name": "Ganesh Ripple Capsule LED",
-    "category": "Engraved Mandala",
-    "description": "Charcoal wood with engraved design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
-    "images": [
-      {
-        "src": "/assets/latest/n18.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 18,
-    "productionNotes": "Charcoal wood with engraved design · With LED",
-    "lighting": "With LED",
-    "isNew": true,
-    "productUrl": "/products/ganesh-ripple-capsule-led/",
-    "shape": "Capsule"
   },
   {
     "id": "N19",
@@ -1627,26 +1542,6 @@
     "isNew": true,
     "productUrl": "/products/ganesh-classic-rectangle-led/",
     "shape": "Rectangle"
-  },
-  {
-    "id": "N22",
-    "name": "Mashallah Mandala Halo LED",
-    "category": "Engraved Mandala",
-    "description": "Charcoal wood with engraved design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
-    "images": [
-      {
-        "src": "/assets/latest/n22.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 18,
-    "productionNotes": "Charcoal wood with engraved design · With LED",
-    "lighting": "With LED",
-    "isNew": true,
-    "productUrl": "/products/mashallah-mandala-halo-led/",
-    "shape": "Round"
   },
   {
     "id": "N23",
@@ -2102,26 +1997,6 @@
     "shape": "Round"
   },
   {
-    "id": "N45",
-    "name": "Madinah Green Ripple Glass LED",
-    "category": "Glass",
-    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
-    "images": [
-      {
-        "src": "/assets/latest/n45.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Devotional décor",
-    "pricePerSqIn": 15,
-    "productionNotes": "Glass · With LED",
-    "lighting": "With LED",
-    "isNew": true,
-    "productUrl": "/products/madinah-green-ripple-glass-led/",
-    "shape": "Custom Shape"
-  },
-  {
     "id": "N46",
     "name": "Madinah Glass Desk LED",
     "category": "Glass",
@@ -2180,26 +2055,6 @@
     "isNew": true,
     "productUrl": "/products/radha-krishna-glass-circle-led/",
     "shape": "Round"
-  },
-  {
-    "id": "N49",
-    "name": "Baba Shyam Devotional Glass LED",
-    "category": "Glass",
-    "description": "Glass design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
-    "images": [
-      {
-        "src": "/assets/latest/n49.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Devotional décor",
-    "pricePerSqIn": 15,
-    "productionNotes": "Glass · With LED",
-    "lighting": "With LED",
-    "isNew": true,
-    "productUrl": "/products/baba-shyam-devotional-glass-led/",
-    "shape": "Rectangle"
   },
   {
     "id": "N50",
@@ -2462,26 +2317,6 @@
     "shape": "Round"
   },
   {
-    "id": "N63",
-    "name": "Floating Script Acrylic LED",
-    "category": "Acrylic",
-    "description": "Acrylic design with LED lighting. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
-    "images": [
-      {
-        "src": "/assets/latest/n63.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 15,
-    "productionNotes": "Acrylic · With LED",
-    "lighting": "With LED",
-    "isNew": true,
-    "productUrl": "/products/floating-script-acrylic-led/",
-    "shape": "Custom Shape"
-  },
-  {
     "id": "N64",
     "name": "Shiv Woodgrain Acrylic LED",
     "category": "Acrylic",
@@ -2639,26 +2474,6 @@
     "lighting": "Without LED",
     "isNew": true,
     "productUrl": "/products/rose-gold-marble-acrylic-frame/",
-    "shape": "Rectangle"
-  },
-  {
-    "id": "N72",
-    "name": "Silver Marble Acrylic Panel",
-    "category": "Acrylic",
-    "description": "Acrylic design with no LED. Personalise the name, house number and finished size. Final artwork and construction are confirmed before production.",
-    "images": [
-      {
-        "src": "/assets/latest/n72.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 12,
-    "productionNotes": "Acrylic · Without LED",
-    "lighting": "Without LED",
-    "isNew": true,
-    "productUrl": "/products/silver-marble-acrylic-panel/",
     "shape": "Rectangle"
   },
   {
@@ -2872,24 +2687,6 @@
     "shape": "Rectangle"
   },
   {
-    "id": "D08",
-    "name": "Radha Krishna Peacock Mandala",
-    "category": "Engraved Mandala",
-    "description": "An intricate circular border with peacock accents and personalised lettering.",
-    "images": [
-      {
-        "src": "/assets/designs/peacock-mandala.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 16,
-    "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters without LED",
-    "productUrl": "/products/radha-krishna-peacock-mandala/",
-    "shape": "Round"
-  },
-  {
     "id": "D09",
     "name": "Islamic Calligraphy Black Glass Frame LED",
     "category": "Glass",
@@ -2960,24 +2757,6 @@
     "productionNotes": "Laser engraved design on clear acrylic border with a textured white charcoal wooden plate and acrylic letters without LED",
     "productUrl": "/products/mashallah-white-lace-mandala/",
     "shape": "Custom Shape"
-  },
-  {
-    "id": "D13",
-    "name": "Swarajya Sand Fort Acrylic Frame",
-    "category": "Acrylic",
-    "description": "Marathi lettering above a fort silhouette in warm brown tones.",
-    "images": [
-      {
-        "src": "/assets/designs/design-13.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 12,
-    "productionNotes": "White acrylic plate with golden and wooden print acrylic letters",
-    "productUrl": "/products/swarajya-sand-fort-acrylic-frame/",
-    "shape": "Rectangle"
   },
   {
     "id": "D15",
@@ -3059,29 +2838,6 @@
     "pricePerSqIn": 12,
     "productionNotes": "Black acrylic plate with golden acrylic letters",
     "productUrl": "/products/classic-salon-monogram-acrylic-circle/",
-    "shape": "Round"
-  },
-  {
-    "id": "D19",
-    "name": "Ornate Salon Monogram Acrylic Circle LED",
-    "category": "Acrylic",
-    "description": "An embellished monogram and gold-tone circular border for your business.",
-    "images": [
-      {
-        "src": "/assets/designs/design-19.webp",
-        "width": 1200,
-        "height": 1200
-      },
-      {
-        "src": "/assets/designs/design-21.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Business signs",
-    "pricePerSqIn": 15,
-    "productionNotes": "Black acrylic plate with golden acrylic letters with LED",
-    "productUrl": "/products/ornate-salon-monogram-acrylic-circle-led/",
     "shape": "Round"
   },
   {
@@ -3273,114 +3029,6 @@
     "productionNotes": "White acrylic plate with golden letter and warm-yellow LED",
     "productUrl": "/products/floral-flute-acrylic-circle-led/",
     "shape": "Round"
-  },
-  {
-    "id": "D32",
-    "name": "Golden Floating Letter Acrylic",
-    "category": "Acrylic",
-    "description": "Polished brass-style raised lettering with a house number on a clean horizontal plate. Reference style; final acrylic material and finish confirmed with your quote.",
-    "images": [
-      {
-        "src": "/assets/designs/new-d32.png",
-        "width": 1024,
-        "height": 574
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 12,
-    "productionNotes": "Golden acrylic letter",
-    "productUrl": "/products/golden-floating-letter-acrylic/",
-    "shape": "Custom Shape"
-  },
-  {
-    "id": "D33",
-    "name": "Black Key Motif Floating Acrylic",
-    "category": "Acrylic",
-    "description": "Matte black script lettering with a key motif and bold house number. Reference style; final acrylic material and finish confirmed with your quote.",
-    "images": [
-      {
-        "src": "/assets/designs/new-d33.png",
-        "width": 1024,
-        "height": 574
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 12,
-    "productionNotes": "Black acrylic letter",
-    "productUrl": "/products/black-key-motif-floating-acrylic/",
-    "shape": "Custom Shape"
-  },
-  {
-    "id": "D34",
-    "name": "Wood Tone Floating Acrylic Desk",
-    "category": "Acrylic",
-    "description": "Corten-steel inspired family lettering with a warm, architectural finish. Reference style; final acrylic material and finish confirmed with your quote.",
-    "images": [
-      {
-        "src": "/assets/designs/new-d34.png",
-        "width": 2048,
-        "height": 558
-      }
-    ],
-    "collection": "Nameplates",
-    "pricePerSqIn": 12,
-    "productionNotes": "Brown acrylic letter",
-    "productUrl": "/products/wood-tone-floating-acrylic-desk/",
-    "shape": "Custom Shape"
-  },
-  {
-    "id": "D37",
-    "name": "Ganesh Black Gold Acrylic LED",
-    "category": "Acrylic",
-    "description": "A welcoming Ganesha nameplate with raised gold-tone artwork and a dark architectural panel. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
-    "images": [
-      {
-        "src": "/assets/designs/devotional-d37.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Devotional décor",
-    "pricePerSqIn": 15,
-    "productionNotes": "Black acrylic plate with golden letter and warm-yellow LED",
-    "productUrl": "/products/ganesh-black-gold-acrylic-led/",
-    "shape": "Custom Shape"
-  },
-  {
-    "id": "D38",
-    "name": "Om Woodgrain Crescent Mandala",
-    "category": "Acrylic",
-    "description": "A circular Om composition framed by an ornamental mandala border. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
-    "images": [
-      {
-        "src": "/assets/designs/devotional-d38.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Devotional décor",
-    "pricePerSqIn": 12,
-    "productionNotes": "Engraved on a golden acrylic plate with a wooden sticker along with golden letter on top",
-    "productUrl": "/products/om-woodgrain-crescent-mandala/",
-    "shape": "Round"
-  },
-  {
-    "id": "D43",
-    "name": "Lotus Om Marble Acrylic Circle",
-    "category": "Acrylic",
-    "description": "A lotus-framed Om design for a calm, meaningful entrance. Personalised to your family name and house number; final acrylic material, finish and lighting confirmed with your quote.",
-    "images": [
-      {
-        "src": "/assets/designs/devotional-d43.webp",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "collection": "Devotional décor",
-    "pricePerSqIn": 12,
-    "productionNotes": "textured White and golden acrylic plate with golden letters",
-    "productUrl": "/products/lotus-om-marble-acrylic-circle/",
-    "shape": "Custom Shape"
   },
   {
     "id": "P04",
@@ -3749,4 +3397,3 @@
     "shape": "Round"
   }
 ]
-

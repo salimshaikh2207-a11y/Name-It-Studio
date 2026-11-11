@@ -6,7 +6,7 @@
     "materials-design"
   ],
   "completed": 1,
-  "total": 151,
+  "total": 133,
   "products": [
     {
       "id": "N88",
@@ -90,12 +90,6 @@
       "id": "N87",
       "name": "Cream Charcoal Tree of Life LED",
       "url": "/products/cream-charcoal-tree-of-life-led/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "N86",
-      "name": "Shaikh Family Woodgrain Acrylic",
-      "url": "/products/shaikh-family-woodgrain-acrylic/",
       "status": "pending-source-review"
     },
     {
@@ -195,12 +189,6 @@
       "status": "pending-source-review"
     },
     {
-      "id": "N11",
-      "name": "Blue Sunburst Flute Halo LED",
-      "url": "/products/blue-sunburst-flute-halo-led/",
-      "status": "pending-source-review"
-    },
-    {
       "id": "N12",
       "name": "Black Ripple Oval LED",
       "url": "/products/black-ripple-oval-led/",
@@ -225,21 +213,9 @@
       "status": "pending-source-review"
     },
     {
-      "id": "N16",
-      "name": "Royal Gold Crest Halo LED",
-      "url": "/products/royal-gold-crest-halo-led/",
-      "status": "pending-source-review"
-    },
-    {
       "id": "N17",
       "name": "Tree of Life Butterfly Frame LED",
       "url": "/products/tree-of-life-butterfly-frame-led/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "N18",
-      "name": "Ganesh Ripple Capsule LED",
-      "url": "/products/ganesh-ripple-capsule-led/",
       "status": "pending-source-review"
     },
     {
@@ -258,12 +234,6 @@
       "id": "N21",
       "name": "Ganesh Classic Rectangle LED",
       "url": "/products/ganesh-classic-rectangle-led/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "N22",
-      "name": "Mashallah Mandala Halo LED",
-      "url": "/products/mashallah-mandala-halo-led/",
       "status": "pending-source-review"
     },
     {
@@ -399,12 +369,6 @@
       "status": "pending-source-review"
     },
     {
-      "id": "N45",
-      "name": "Madinah Green Ripple Glass LED",
-      "url": "/products/madinah-green-ripple-glass-led/",
-      "status": "pending-source-review"
-    },
-    {
       "id": "N46",
       "name": "Madinah Glass Desk LED",
       "url": "/products/madinah-glass-desk-led/",
@@ -420,12 +384,6 @@
       "id": "N48",
       "name": "Radha Krishna Glass Circle LED",
       "url": "/products/radha-krishna-glass-circle-led/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "N49",
-      "name": "Baba Shyam Devotional Glass LED",
-      "url": "/products/baba-shyam-devotional-glass-led/",
       "status": "pending-source-review"
     },
     {
@@ -507,12 +465,6 @@
       "status": "pending-source-review"
     },
     {
-      "id": "N63",
-      "name": "Floating Script Acrylic LED",
-      "url": "/products/floating-script-acrylic-led/",
-      "status": "pending-source-review"
-    },
-    {
       "id": "N64",
       "name": "Shiv Woodgrain Acrylic LED",
       "url": "/products/shiv-woodgrain-acrylic-led/",
@@ -558,12 +510,6 @@
       "id": "N71",
       "name": "Rose Gold Marble Acrylic Frame",
       "url": "/products/rose-gold-marble-acrylic-frame/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "N72",
-      "name": "Silver Marble Acrylic Panel",
-      "url": "/products/silver-marble-acrylic-panel/",
       "status": "pending-source-review"
     },
     {
@@ -633,12 +579,6 @@
       "status": "pending-source-review"
     },
     {
-      "id": "D08",
-      "name": "Radha Krishna Peacock Mandala",
-      "url": "/products/radha-krishna-peacock-mandala/",
-      "status": "pending-source-review"
-    },
-    {
       "id": "D09",
       "name": "Islamic Calligraphy Black Glass Frame LED",
       "url": "/products/islamic-calligraphy-black-glass-frame-led/",
@@ -663,12 +603,6 @@
       "status": "pending-source-review"
     },
     {
-      "id": "D13",
-      "name": "Swarajya Sand Fort Acrylic Frame",
-      "url": "/products/swarajya-sand-fort-acrylic-frame/",
-      "status": "pending-source-review"
-    },
-    {
       "id": "D15",
       "name": "Swarajya Black Fort Glass Frame",
       "url": "/products/swarajya-black-fort-glass-frame/",
@@ -690,12 +624,6 @@
       "id": "D18",
       "name": "Classic Salon Monogram Acrylic Circle",
       "url": "/products/classic-salon-monogram-acrylic-circle/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "D19",
-      "name": "Ornate Salon Monogram Acrylic Circle LED",
-      "url": "/products/ornate-salon-monogram-acrylic-circle-led/",
       "status": "pending-source-review"
     },
     {
@@ -756,42 +684,6 @@
       "id": "D31",
       "name": "Floral Flute Acrylic Circle LED",
       "url": "/products/floral-flute-acrylic-circle-led/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "D32",
-      "name": "Golden Floating Letter Acrylic",
-      "url": "/products/golden-floating-letter-acrylic/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "D33",
-      "name": "Black Key Motif Floating Acrylic",
-      "url": "/products/black-key-motif-floating-acrylic/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "D34",
-      "name": "Wood Tone Floating Acrylic Desk",
-      "url": "/products/wood-tone-floating-acrylic-desk/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "D37",
-      "name": "Ganesh Black Gold Acrylic LED",
-      "url": "/products/ganesh-black-gold-acrylic-led/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "D38",
-      "name": "Om Woodgrain Crescent Mandala",
-      "url": "/products/om-woodgrain-crescent-mandala/",
-      "status": "pending-source-review"
-    },
-    {
-      "id": "D43",
-      "name": "Lotus Om Marble Acrylic Circle",
-      "url": "/products/lotus-om-marble-acrylic-circle/",
       "status": "pending-source-review"
     },
     {
