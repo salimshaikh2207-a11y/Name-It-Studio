@@ -1,5 +1,54 @@
 [
   {
+    "id": "N110",
+    "name": "Rajmudra White Glass LED Nameplate",
+    "category": "Glass",
+    "collection": "Everyday classics",
+    "description": "An octagonal Rajmudra and paired orange flags sit above orange Marathi lettering. The personalised name and house number are finished in golden script on white glass, with warm white LED lighting around the lettering and motifs. Custom sizes available.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n110/led-on.jpg",
+        "width": 1400,
+        "height": 1400,
+        "alt": "Illuminated white glass Rajmudra nameplate beside a walnut entrance door"
+      },
+      {
+        "src": "/assets/product-galleries/n110/led-off.jpg",
+        "width": 1400,
+        "height": 1400,
+        "alt": "Illustrative LED-off view of the white glass Rajmudra nameplate"
+      },
+      {
+        "src": "/assets/product-galleries/n110/details.jpg",
+        "width": 1400,
+        "height": 1400,
+        "alt": "Close-up of the orange octagonal Rajmudra and paired flags"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "White glass · Octagonal Rajmudra and paired flags · Golden and orange lettering · Warm white LED · 10 × 15 inches at ₹15/sq in · Custom sizes available",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/rajmudra-white-glass-led-nameplate/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "10x15"
+    ],
+    "standardWidth": 10,
+    "standardHeight": 15,
+    "standardPrice": 2250,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "illustrative-preview"
+  },
+  {
     "id": "N109",
     "name": "Round Diamond LED Nameplate",
     "category": "Glass",
