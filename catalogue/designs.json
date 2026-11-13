@@ -1,5 +1,55 @@
 [
   {
+    "id": "N111",
+    "name": "Khatu Shyam White Glass Nameplate",
+    "category": "Glass",
+    "collection": "Khatu Shyam",
+    "description": "Bring Jai Shri Shyam to your entrance with a personalised white glass nameplate. Raised gold mirror acrylic features Khatu Shyam Ji, the bow and three arrows, and a flute with a peacock feather. Add your family name and house number, and choose warm white LED or a finish without lighting.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n111/led-on.jpg",
+        "width": 1619,
+        "height": 972,
+        "alt": "Khatu Shyam Ji white glass nameplate with gold mirror acrylic and warm white LED"
+      },
+      {
+        "src": "/assets/product-galleries/n111/led-off.jpg",
+        "width": 1619,
+        "height": 972,
+        "alt": "Khatu Shyam Ji white glass nameplate with LED off"
+      },
+      {
+        "src": "/assets/product-galleries/n111/detail.jpg",
+        "width": 1395,
+        "height": 585,
+        "alt": "Close-up of the gold Khatu Shyam Ji portrait, bow, arrows and flute"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "pricePerSqInWithoutLED": 12,
+    "priceExtra": 0,
+    "productionNotes": "White glass · Raised gold mirror acrylic letters and motifs · Khatu Shyam Ji portrait · Optional warm white LED · Custom sizes available",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/khatu-shyam-white-glass-nameplate/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "15x9"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 9,
+    "standardPrice": 2025,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "imageSetStatus": "complete",
+    "imageSetType": "illustrative-preview"
+  },
+  {
     "id": "N110",
     "name": "Rajmudra White Glass LED Nameplate",
     "category": "Glass",
