@@ -1,5 +1,42 @@
 [
   {
+    "id": "N112",
+    "name": "Swami Samarth Peacock White Glass Nameplate",
+    "category": "Glass",
+    "collection": "Swami Samarth",
+    "description": "Personalise this capsule-shaped white glass nameplate with your family name and house number. Raised gold acrylic lettering and a flute sit alongside a red Swami Samarth motif, two colourful peacocks and a pink lotus. Available with or without LED.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n112/preview.jpg",
+        "width": 1050,
+        "height": 1312,
+        "alt": "Swami Samarth capsule nameplate with gold Marathi lettering, a flute, twin peacocks and a pink lotus"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "pricePerSqInWithoutLED": 12,
+    "priceExtra": 0,
+    "productionNotes": "White glass · Raised gold acrylic lettering and flute · Red Swami Samarth motif · Twin peacocks and lotus · Optional LED",
+    "lighting": "With LED",
+    "isNew": true,
+    "productUrl": "/products/swami-samarth-peacock-white-glass-nameplate/",
+    "shape": "Capsule",
+    "sizeOptions": [
+      "12x18"
+    ],
+    "standardWidth": 12,
+    "standardHeight": 18,
+    "standardPrice": 3240,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "imageSetType": "illustrative-preview"
+  },
+  {
     "id": "N111",
     "name": "Khatu Shyam White Glass Nameplate",
     "category": "Glass",
