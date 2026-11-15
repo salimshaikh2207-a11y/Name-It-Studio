@@ -1,5 +1,43 @@
 [
   {
+    "id": "N113",
+    "name": "Ammi’s Home Black & Gold Floral LED Nameplate",
+    "category": "Nameplate",
+    "collection": "Devotional décor",
+    "description": "A glossy black nameplate with raised gold lettering, Arabic and Urdu calligraphy, and a detailed floral spray. A gold inner border with a rounded right end frames the design. Warm white LED outlines the border, lettering and floral motif for a softly lit entrance.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n113/led-on.jpg",
+        "width": 1280,
+        "height": 853,
+        "alt": "Ammi’s Home Black & Gold Floral LED Nameplate · Warm white LED on"
+      },
+      {
+        "src": "/assets/product-galleries/n113/led-off.jpg",
+        "width": 1280,
+        "height": 853,
+        "alt": "Ammi’s Home Black & Gold Floral LED Nameplate · Daylight with LED off"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Glossy black face · Raised gold lettering · Floral cutwork · Arabic and Urdu calligraphy · Warm white LED",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/ammis-home-black-gold-floral-led-nameplate/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "18x8"
+    ],
+    "standardWidth": 18,
+    "standardHeight": 8,
+    "standardPrice": 2160,
+    "shippingCharge": 150,
+    "leadTime": "3–5 working days",
+    "imageSetType": "illustrative-preview"
+  },
+  {
     "id": "N112",
     "name": "Swami Samarth Peacock White Glass Nameplate",
     "category": "Glass",
