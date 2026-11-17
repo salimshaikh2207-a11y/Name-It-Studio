@@ -1,5 +1,44 @@
 [
   {
+    "id": "N115",
+    "name": "Marathi Peacock Black Glass LED Nameplate",
+    "category": "Glass",
+    "collection": "Nameplates",
+    "description": "A round black glass nameplate with frosted Marathi lettering and peacock motifs over a golden diamond backing. Warm white LED lights the design. Personalise the names, house number and size.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n115/led-on.webp",
+        "width": 1000,
+        "height": 1000,
+        "alt": "Marathi Peacock Black Glass LED Nameplate · LED on"
+      },
+      {
+        "src": "/assets/product-galleries/n115/led-off.webp",
+        "width": 1000,
+        "height": 1000,
+        "alt": "Marathi Peacock Black Glass LED Nameplate · LED off"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "Round black glass · Frosted lettering and peacock motifs · Golden diamond backing · Warm white LED",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "isNew": true,
+    "productUrl": "/products/marathi-peacock-black-glass-led-nameplate/",
+    "shape": "Round",
+    "sizeOptions": [
+      "12x12"
+    ],
+    "standardWidth": 12,
+    "standardHeight": 12,
+    "standardPrice": 2160,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "imageSetType": "illustrative-preview"
+  },
+  {
     "id": "N114",
     "name": "Chardi Kala Marble-Finish Acrylic Nameplate",
     "category": "Acrylic",
