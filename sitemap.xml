@@ -1017,4 +1017,25 @@
       <image:loc>https://nameitstudio.in/assets/product-galleries/n115/led-on.webp</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>https://nameitstudio.in/products/ganesha-pet-white-glass-nameplate/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n116/led-on.webp</image:loc></image:image>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n116/led-off.webp</image:loc></image:image>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n116/material-details.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://nameitstudio.in/products/buddha-tree-gold-rim-white-glass-nameplate/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n117/led-on.webp</image:loc></image:image>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n117/led-off.webp</image:loc></image:image>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n117/material-details.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://nameitstudio.in/products/buddha-tree-lotus-white-glass-nameplate/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n118/led-on.webp</image:loc></image:image>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n118/led-off.webp</image:loc></image:image>
+    <image:image><image:loc>https://nameitstudio.in/assets/product-galleries/n118/material-details.webp</image:loc></image:image>
+  </url>
 </urlset>

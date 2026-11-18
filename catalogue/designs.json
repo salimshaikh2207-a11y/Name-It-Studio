@@ -1,5 +1,152 @@
 [
   {
+    "id": "N116",
+    "name": "Ganesha & Pet White Glass Nameplate",
+    "category": "Glass",
+    "collection": "Devotional décor",
+    "description": "A curved white-glass plaque with a golden Ganesha motif, a playful pet illustration and space for your names and flat number. Made with white glass and golden acrylic, with an optional warm-white LED.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n116/led-on.webp",
+        "width": 1500,
+        "height": 1500,
+        "alt": "Ganesha & Pet White Glass Nameplate · Warm white LED on"
+      },
+      {
+        "src": "/assets/product-galleries/n116/led-off.webp",
+        "width": 1500,
+        "height": 1500,
+        "alt": "Ganesha & Pet White Glass Nameplate · LED off"
+      },
+      {
+        "src": "/assets/product-galleries/n116/material-details.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": "Ganesha & Pet White Glass Nameplate · White glass and golden acrylic details"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "pricePerSqInWithoutLED": 12,
+    "priceExtra": 0,
+    "productionNotes": "White glass · Golden acrylic · Curved left edge · Golden Ganesha motif and pet illustration · Optional warm white LED",
+    "lighting": "With LED",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "isNew": true,
+    "productUrl": "/products/ganesha-pet-white-glass-nameplate/",
+    "shape": "Custom Shape",
+    "sizeOptions": [
+      "15x9"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 9,
+    "standardPrice": 2025,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "imageSetType": "illustrative-preview"
+  },
+  {
+    "id": "N117",
+    "name": "Buddha Tree Gold-Rim White Glass Nameplate",
+    "category": "Glass",
+    "collection": "Devotional décor",
+    "description": "A vertical capsule-shaped white-glass plaque with a golden rim, a meditating Buddha beneath a tree and golden lettering for your family name and flat number. Made with white glass and golden acrylic, with an optional warm-white LED.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n117/led-on.webp",
+        "width": 1500,
+        "height": 1500,
+        "alt": "Buddha Tree Gold-Rim White Glass Nameplate · Warm white LED on"
+      },
+      {
+        "src": "/assets/product-galleries/n117/led-off.webp",
+        "width": 1500,
+        "height": 1500,
+        "alt": "Buddha Tree Gold-Rim White Glass Nameplate · LED off"
+      },
+      {
+        "src": "/assets/product-galleries/n117/material-details.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": "Buddha Tree Gold-Rim White Glass Nameplate · White glass and golden acrylic details"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "pricePerSqInWithoutLED": 12,
+    "priceExtra": 0,
+    "productionNotes": "White glass · Golden acrylic · Vertical capsule shape · Golden rim and Buddha tree motif · Optional warm white LED",
+    "lighting": "With LED",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "isNew": true,
+    "productUrl": "/products/buddha-tree-gold-rim-white-glass-nameplate/",
+    "shape": "Custom Shape",
+    "sizeOptions": [
+      "9x15"
+    ],
+    "standardWidth": 9,
+    "standardHeight": 15,
+    "standardPrice": 2025,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "imageSetType": "illustrative-preview"
+  },
+  {
+    "id": "N118",
+    "name": "Buddha Tree & Lotus White Glass Nameplate",
+    "category": "Glass",
+    "collection": "Devotional décor",
+    "description": "A rectangular white-glass plaque pairing a Buddha tree with lotus accents, with space for multiple names and a flat number. Made with white glass and golden acrylic, with an optional warm-white LED.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n118/led-on.webp",
+        "width": 1500,
+        "height": 1500,
+        "alt": "Buddha Tree & Lotus White Glass Nameplate · Warm white LED on"
+      },
+      {
+        "src": "/assets/product-galleries/n118/led-off.webp",
+        "width": 1500,
+        "height": 1500,
+        "alt": "Buddha Tree & Lotus White Glass Nameplate · LED off"
+      },
+      {
+        "src": "/assets/product-galleries/n118/material-details.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": "Buddha Tree & Lotus White Glass Nameplate · White glass and golden acrylic details"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "pricePerSqInWithoutLED": 12,
+    "priceExtra": 0,
+    "productionNotes": "White glass · Golden acrylic · Rectangular plaque · Buddha tree and lotus motifs · Optional warm white LED",
+    "lighting": "With LED",
+    "lightingOptions": [
+      "With LED",
+      "Without LED"
+    ],
+    "isNew": true,
+    "productUrl": "/products/buddha-tree-lotus-white-glass-nameplate/",
+    "shape": "Rectangle",
+    "sizeOptions": [
+      "15x9"
+    ],
+    "standardWidth": 15,
+    "standardHeight": 9,
+    "standardPrice": 2025,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "imageSetType": "illustrative-preview"
+  },
+  {
     "id": "N115",
     "name": "Marathi Peacock Black Glass LED Nameplate",
     "category": "Glass",
