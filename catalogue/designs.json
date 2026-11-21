@@ -1,5 +1,47 @@
 [
   {
+    "id": "N119",
+    "name": "U-Shaped White Glass LED Nameplate with Black Acrylic Letters",
+    "category": "Glass",
+    "collection": "Nameplates",
+    "description": "A U-shaped white glass nameplate with raised black acrylic lettering and bright white LED illumination in the letters and around the border. Personalise your family name and house number, with custom sizes and designs available.",
+    "images": [
+      {
+        "src": "https://static.metricool.com/planner/202611/7163868-file-7876975512758687419.png",
+        "width": 1080,
+        "height": 1350,
+        "alt": "U-shaped white glass nameplate with black acrylic letters and bright white LED around the border"
+      },
+      {
+        "src": "https://static.metricool.com/planner/202611/7163868-file-3169216348595776582.png",
+        "width": 1080,
+        "height": 1350,
+        "alt": "U-shaped white glass nameplate showing black acrylic lettering and bright white LED illumination"
+      }
+    ],
+    "pricePerSqIn": 15,
+    "priceExtra": 0,
+    "productionNotes": "U-shaped white glass · Raised black acrylic lettering · Bright white LED in the letters and around the outer border · Custom names and house number",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "lightingOptions": [
+      "With LED"
+    ],
+    "isNew": true,
+    "productUrl": "/products/u-shaped-white-glass-black-acrylic-led-nameplate/",
+    "shape": "Custom Shape",
+    "sizeOptions": [
+      "9x15"
+    ],
+    "standardWidth": 9,
+    "standardHeight": 15,
+    "standardPrice": 2025,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "imageSetType": "illustrative-preview"
+  },
+  {
     "id": "N116",
     "name": "Ganesha & Pet White Glass Nameplate",
     "category": "Glass",
