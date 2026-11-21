@@ -1,22 +1,16 @@
 [
   {
     "id": "N119",
-    "name": "U-Shaped White Glass LED Nameplate with Black Acrylic Letters",
+    "name": "U-Shaped White Glass LED Nameplate",
     "category": "Glass",
     "collection": "Nameplates",
-    "description": "A U-shaped white glass nameplate with raised black acrylic lettering and bright white LED illumination in the letters and around the border. Personalise your family name and house number, with custom sizes and designs available.",
+    "description": "A U-shaped white glass nameplate with raised black acrylic lettering and bright white LED lighting around the letters and border. Personalise the names, flat number and motif.",
     "images": [
       {
-        "src": "https://static.metricool.com/planner/202611/7163868-file-7876975512758687419.png",
-        "width": 1080,
-        "height": 1350,
-        "alt": "U-shaped white glass nameplate with black acrylic letters and bright white LED around the border"
-      },
-      {
-        "src": "https://static.metricool.com/planner/202611/7163868-file-3169216348595776582.png",
-        "width": 1080,
-        "height": 1350,
-        "alt": "U-shaped white glass nameplate showing black acrylic lettering and bright white LED illumination"
+        "src": "/assets/product-galleries/n119/led-on.jpg",
+        "width": 1000,
+        "height": 1573,
+        "alt": "U-shaped white glass nameplate with black Marathi lettering and bright white LEDs around the lettering and edge"
       }
     ],
     "pricePerSqIn": 15,
