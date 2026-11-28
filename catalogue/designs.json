@@ -1,5 +1,47 @@
 [
   {
+    "id": "N122",
+    "name": "Jai Mata Di Oval LED Nameplate",
+    "category": "Nameplate",
+    "collection": "Devotional décor",
+    "description": "Maa Durga’s eyes, a four-dot devotional swastik and raised red “जय माता दी” lettering sit on a cream woodgrain-look face with a gold-tone rim. Warm LEDs illuminate the motifs, lettering and personalised flat number.",
+    "images": [
+      {
+        "src": "/assets/product-galleries/n122/led-on.webp",
+        "width": 1024,
+        "height": 1024,
+        "alt": "Oval Jai Mata Di nameplate with Maa Durga’s eyes, red lettering and the LED on"
+      },
+      {
+        "src": "/assets/product-galleries/n122/led-off.webp",
+        "width": 1024,
+        "height": 1024,
+        "alt": "Oval Jai Mata Di nameplate with Maa Durga’s eyes, red lettering and the LED off"
+      }
+    ],
+    "pricePerSqIn": 18,
+    "priceExtra": 0,
+    "productionNotes": "Oval cream woodgrain-look face · Gold-tone rim · Raised red lettering · Warm LED",
+    "lighting": "With LED",
+    "lightingLocked": true,
+    "lightingOptions": [
+      "With LED"
+    ],
+    "isNew": true,
+    "productUrl": "/products/jai-mata-di-oval-led-nameplate/",
+    "shape": "Oval",
+    "sizeOptions": [
+      "8x12"
+    ],
+    "standardWidth": 8,
+    "standardHeight": 12,
+    "standardPrice": 1728,
+    "shippingCharge": 150,
+    "customSizesAvailable": true,
+    "leadTime": "3–5 working days",
+    "imageSetType": "illustrative-preview"
+  },
+  {
     "id": "N121",
     "name": "Marathi Fort White Glass LED Nameplate",
     "category": "Glass",
